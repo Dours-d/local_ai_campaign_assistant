@@ -1,0 +1,30 @@
+{
+  "url": "https://chuffed.org/dashboard/reports/campaign/147885",
+  "title": "View donation data",
+  "donations": [
+    {
+      "ID": "4345741",
+      "First Name": "Alody",
+      "Last Name": "Putria",
+      "Donation": "€40.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-09-22 06:48:33",
+      "Email": "alodiani87@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4327448",
+      "First Name": "Magdi",
+      "Last Name": "Fidail",
+      "Donation": "€100.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-09-20 16:51:26",
+      "Email": "golden.connection10@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "Yes"
+    }
+  ],
+  "campaign_id": "147885",
+  "exported_at": "2026-01-31T18:10:40Z"
+}

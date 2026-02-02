@@ -1,0 +1,41 @@
+{
+  "url": "https://chuffed.org/dashboard/reports/campaign/151099",
+  "title": "View donation data",
+  "donations": [
+    {
+      "ID": "4395335",
+      "First Name": "Bruce",
+      "Last Name": "Lees",
+      "Donation": "$10.00",
+      "Currency": "USD",
+      "Date (AET)": "2025-09-26 14:48:44",
+      "Email": "jonblees@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "Yes"
+    },
+    {
+      "ID": "4391735",
+      "First Name": "Anika",
+      "Last Name": "Chowdhury",
+      "Donation": "$8.00",
+      "Currency": "USD",
+      "Date (AET)": "2025-09-26 06:08:55",
+      "Email": "anikachowdhury.ac31@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4391430",
+      "First Name": "Anika",
+      "Last Name": "Ibnat Chowdhury",
+      "Donation": "$1.00",
+      "Currency": "USD",
+      "Date (AET)": "2025-09-26 05:41:40",
+      "Email": "anikachowdhury.ac31@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    }
+  ],
+  "campaign_id": "151099",
+  "exported_at": "2026-01-31T18:10:29Z"
+}

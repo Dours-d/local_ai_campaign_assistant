@@ -1,0 +1,10 @@
+{
+  "url": "https://chuffed.org/dashboard/reports/campaign/146163",
+  "title": "View donation data",
+  "donations": {
+    "error": "Table too short",
+    "rowCount": 1
+  },
+  "campaign_id": "146163",
+  "exported_at": "2026-01-31T18:10:45Z"
+}

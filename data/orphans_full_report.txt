@@ -1,0 +1,18 @@
+Loaded: 276 Chuffed, 172 Whydonate, 143 Contacts
+
+=== Campaign Database Query Tool ===
+Commands:
+  search <name>     - Search campaigns by name
+  contact <num>     - Get contact details by phone number
+  beneficiary <n>   - List all campaigns for a beneficiary
+  top [n]           - Show top N contacts (default 20)
+  vetted            - List verified contacts
+  unvetted          - List unverified contacts
+  duplicates        - Find same beneficiary with different contacts
+  amount <op>       - Search by amount (e.g., >100, =0, <50)
+  orphans           - Find campaigns with no contact (check debt)
+  export <type>     - Export to CSV (contacts, unvetted, search)
+  stats             - Show database statistics
+  help              - Show this menu
+  exit              - Exit
+

@@ -1,0 +1,63 @@
+{
+  "url": "https://chuffed.org/dashboard/reports/campaign/135830",
+  "title": "View donation data",
+  "donations": [
+    {
+      "ID": "3711822",
+      "First Name": "Jenny",
+      "Last Name": "Smith",
+      "Donation": "€40.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-08-05 22:07:24",
+      "Email": "lakhal.aymen@hotmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "3639875",
+      "First Name": "Yannick",
+      "Last Name": "ADECHI",
+      "Donation": "€10.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-07-31 13:19:07",
+      "Email": "adechiyannick@yahoo.fr",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "3238483",
+      "First Name": "Nadji",
+      "Last Name": "Zakaria",
+      "Donation": "€6.50",
+      "Currency": "EUR",
+      "Date (AET)": "2025-06-26 08:10:51",
+      "Email": "nadjizakaria@proton.me",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "3209358",
+      "First Name": "Julius",
+      "Last Name": "James",
+      "Donation": "€5.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-06-22 09:48:02",
+      "Email": "zaireansnow@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "3176904",
+      "First Name": "Abdulraheem",
+      "Last Name": "Zaghmout",
+      "Donation": "€10.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-06-17 07:21:53",
+      "Email": "iabood@live.ca",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    }
+  ],
+  "campaign_id": "135830",
+  "exported_at": "2026-01-31T18:11:35Z"
+}

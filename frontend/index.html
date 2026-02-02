@@ -33,7 +33,8 @@
     </div>
 
     <div class="alert-bar">
-        <span>URGENT: ALL GIFTS ARE CURRENTLY BEING MATCHED 2X — DOUBLE YOUR IMPACT TODAY</span>
+        <span data-i18n="alert_matching">URGENT: ALL GIFTS ARE CURRENTLY BEING MATCHED 2X — DOUBLE YOUR IMPACT
+            TODAY</span>
     </div>
 
     <header>
@@ -43,11 +44,15 @@
             </a>
             <nav>
                 <ul>
-                    <li><a href="#about">Our Mission</a></li>
-                    <li><a href="#impact">Impact</a></li>
-                    <li><a href="#campaigns">Campaigns</a></li>
-                    <li><a href="#contact">Contact</a></li>
-                    <li><a href="#" class="btn btn-primary" style="padding: 0.6rem 1.5rem;">Donate Now</a></li>
+                    <li><a href="#about" data-i18n="nav_mission">Our Mission</a></li>
+                    <li><a href="#impact" data-i18n="nav_impact">Impact</a></li>
+                    <li><a href="#campaigns" data-i18n="nav_campaigns">Campaigns</a></li>
+                    <li><a href="#contact" data-i18n="nav_contact">Contact</a></li>
+                    <li><a href="#" class="btn btn-primary" style="padding: 0.6rem 1.5rem;"
+                            data-i18n="nav_donate">Donate Now</a></li>
+                    <li><button id="lang-toggle" onclick="i18n.toggle()"
+                            style="background: transparent; border: 1px solid var(--color-secondary); color: var(--color-secondary); padding: 0.5rem 1rem; border-radius: 5px; cursor: pointer; font-size: 0.9rem;">عربي</button>
+                    </li>
                 </ul>
             </nav>
         </div>
@@ -58,43 +63,46 @@
         <section class="hero"
             style="background: linear-gradient(rgba(5, 7, 10, 0.9), rgba(5, 7, 10, 0.7)), url('https://images.unsplash.com/photo-1493246507139-91e8bef99c17?auto=format&fit=crop&q=80&w=2070') no-repeat center center/cover;">
             <div class="container hero-content" data-aos="fade-up" data-aos-duration="1500">
-                <h1 style="color: var(--color-white); text-shadow: 0 0 20px rgba(151, 134, 75, 0.2);">THE END OF
-                    NIGHT<br>THE BEGINNING OF ACTION</h1>
-                <p style="color: var(--color-text-dim);">Fajr symbolizes the precise moment of clarity before the dawn.
+                <h1 style="color: var(--color-white); text-shadow: 0 0 20px rgba(151, 134, 75, 0.2);"
+                    data-i18n="hero_title">End of the [night]<br>Begeting resilience</h1>
+                <p style="color: var(--color-text-dim);" data-i18n="hero_subtitle">Fajr symbolizes the precise moment of
+                    clarity before the dawn.
                     As the night ends, our mission begins. Rooted in the resilience of the olive tree, we bring strength
                     and light to our communities.</p>
                 <div class="hero-btns">
-                    <a href="#" class="btn btn-primary" style="padding: 1.2rem 3rem; font-size: 1.2rem;">SUPPORT OUR
+                    <a href="#" class="btn btn-primary" style="padding: 1.2rem 3rem; font-size: 1.2rem;"
+                        data-i18n="hero_cta">SUPPORT OUR
                         MISSION</a>
                     <a href="#about" class="btn btn-outline"
-                        style="margin-left: 1rem; border-color: var(--color-secondary); color: var(--color-secondary);">The
+                        style="margin-left: 1rem; border-color: var(--color-secondary); color: var(--color-secondary);"
+                        data-i18n="hero_secondary">The
                         Symbolism</a>
                 </div>
             </div>
         </section>
 
-        <!-- Impact Section (Emulating FIDF Numbers) -->
+        <!-- Impact Section -->
         <section id="impact" class="impact">
             <div class="container">
                 <div class="section-title" data-aos="fade-up">
-                    <h2>Our Global Reach</h2>
+                    <h2 data-i18n="impact_title">Our Global Reach</h2>
                 </div>
                 <div class="stats-grid">
                     <div class="stat-item" data-aos="zoom-in" data-aos-delay="100">
                         <h3 class="counter">50</h3>
-                        <p>Communities Reached</p>
+                        <p data-i18n="impact_communities">Communities Reached</p>
                     </div>
                     <div class="stat-item" data-aos="zoom-in" data-aos-delay="200">
                         <h3 class="counter">250</h3>
-                        <p>Projects Completed</p>
+                        <p data-i18n="impact_projects">Projects Completed</p>
                     </div>
                     <div class="stat-item" data-aos="zoom-in" data-aos-delay="300">
                         <h3 class="counter">1.2M</h3>
-                        <p>Lives Impacted</p>
+                        <p data-i18n="impact_lives">Lives Impacted</p>
                     </div>
                     <div class="stat-item" data-aos="zoom-in" data-aos-delay="400">
                         <h3 class="counter">100</h3>
-                        <p>% Transparency</p>
+                        <p data-i18n="impact_transparency">% Transparency</p>
                     </div>
                 </div>
             </div>
@@ -111,13 +119,15 @@
                     </div>
                     <div style="flex: 1; min-width: 300px;" data-aos="fade-left">
                         <div class="section-title" style="text-align: left;">
-                            <h2 style="margin-left: 0; padding-bottom: 20px;">Support in Action</h2>
-                            <p style="font-size: 1.1rem; color: #555;">Fajr.today is more than just a name; it's a
+                            <h2 style="margin-left: 0; padding-bottom: 20px;" data-i18n="about_title">Support in Action
+                            </h2>
+                            <p style="font-size: 1.1rem; color: #555;" data-i18n="about_text">Fajr.today is more than
+                                just a name; it's a
                                 commitment to clarity and renewal. Just as the dawn brings light to the world, we bring
                                 resources and resilience to those forgotten. Inspired by professional standards of
                                 global aid, we ensure every donation counts.</p>
                             <br>
-                            <a href="#" class="btn btn-primary">Read Our Story</a>
+                            <a href="#" class="btn btn-primary" data-i18n="about_cta">Read Our Story</a>
                         </div>
                     </div>
                 </div>
@@ -128,26 +138,30 @@
         <section id="campaigns">
             <div class="container">
                 <div class="section-title" data-aos="fade-up">
-                    <h2>Ways to Support Fajr</h2>
+                    <h2 data-i18n="campaigns_title">Ways to Support Fajr</h2>
                 </div>
                 <div class="cards-grid">
                     <div class="card" data-aos="flip-left" data-aos-delay="100">
-                        <h3>Monthly Giving</h3>
-                        <p>Provide reliable, ongoing support to our communities through automatic monthly contributions.
+                        <h3 data-i18n="campaign_monthly_title">Monthly Giving</h3>
+                        <p data-i18n="campaign_monthly_desc">Provide reliable, ongoing support to our communities
+                            through automatic monthly contributions.
                         </p>
-                        <a href="#" class="btn btn-primary">GIVE MONTHLY</a>
+                        <a href="#" class="btn btn-primary" data-i18n="campaign_monthly_cta">GIVE MONTHLY</a>
                     </div>
                     <div class="card" data-aos="flip-left" data-aos-delay="200">
-                        <h3>One-Time Gift</h3>
-                        <p>Make an immediate impact with a single donation directed to our most urgent relief programs.
+                        <h3 data-i18n="campaign_once_title">One-Time Gift</h3>
+                        <p data-i18n="campaign_once_desc">Make an immediate impact with a single donation directed to
+                            our most urgent relief programs.
                         </p>
-                        <a href="#" class="btn btn-primary">GIVE ONCE</a>
+                        <a href="#" class="btn btn-primary" data-i18n="campaign_once_cta">GIVE ONCE</a>
                     </div>
                     <div class="card" data-aos="flip-left" data-aos-delay="300">
-                        <h3>Resilience Fund</h3>
-                        <p>Support long-term reconstruction and community strength through our dedicated resilience
+                        <h3 data-i18n="campaign_resilience_title">Resilience Fund</h3>
+                        <p data-i18n="campaign_resilience_desc">Support long-term reconstruction and community strength
+                            through our dedicated resilience
                             initiative.</p>
-                        <a href="#" class="btn btn-primary" style="background-color: var(--color-secondary);">LEARN
+                        <a href="#" class="btn btn-primary" style="background-color: var(--color-secondary);"
+                            data-i18n="campaign_resilience_cta">LEARN
                             MORE</a>
                     </div>
                 </div>
@@ -166,6 +180,8 @@
 
     <!-- AOS Script -->
     <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+    <!-- i18n (Language Toggle) -->
+    <script src="js/i18n.js"></script>
     <!-- Custom JS -->
     <script src="js/main.js"></script>
 </body>

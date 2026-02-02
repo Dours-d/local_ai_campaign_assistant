@@ -1,0 +1,4 @@
+"StatusIndicator","PhraseControl","PhoneNumber","WhatsID","ChatName","USDTAddress","CustodyQuality","SecurityScore","LastSeen","IntelSource"
+"Chains","Block","351937063222","351937063222@c.us","Technical Test Chat","0xabcdef1234567890abcdef1234567890abcdef12","Third-Party","10","30.01.2026 10:05:00","test_intelligence.csv"
+"Warning","UNKNOWN","351937063222","351937063222@c.us","Technical Test Chat","Txyz123456789212345678921234567892","Unknown","0","30.01.2026 10:00:00","test_intelligence.csv"
+"Chains","Block","970591234567","970591234567@c.us","Donation Chat","0xabcdef1234567890abcdef1234567890abcdef12","Third-Party","10","30.01.2026 10:10:00","test_intelligence.csv"

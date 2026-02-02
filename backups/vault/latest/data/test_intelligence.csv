@@ -1,0 +1,6 @@
+Timestamp,PhoneNumber,WhatsID,Sender,Message,ChatName
+"2026-01-30 10:00:00","351937063222","351937063222@c.us","Gael","My cold wallet address is Txyz123456789212345678921234567892. Use this.","Technical Test Chat"
+"2026-01-30 10:05:00","351937063222","351937063222@c.us","Gael","My hot wallet is 0xabcdef1234567890abcdef1234567890abcdef12. Keep it safe.","Technical Test Chat"
+"2026-01-30 10:10:00","970591234567","970591234567@c.us","Donor","I sent it to the Binance address: 0xabcdef1234567890abcdef1234567890abcdef12.","Donation Chat"
+"2026-01-30 10:15:00","UNKNOWN","","Ghost","Here is my wallet TorphanedAddress1234567890123456789","Ghost Chat"
+"2026-01-30 10:20:00","351937063222","351937063222@c.us","Gael","Oops, I sent a typo: TO1l0InvalidAddress12345678901234","Technical Test Chat"

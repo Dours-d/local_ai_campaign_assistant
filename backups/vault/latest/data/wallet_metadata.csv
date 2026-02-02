@@ -1,0 +1,4 @@
+Address,CustodyType,SeedPhraseControlled,QualityScore,CommunityNotes
+Txyz123456789012345678901234567890,Cold,True,100,"Verified Hardware Wallet. User owns the keys. Maximum self-custody."
+Tabc098765432109876543210987654321,Hot,True,40,"Mobile App Wallet. User controlled seed phrase, but keys are online."
+0xabcdef1234567890abcdef1234567890abcdef12,Third-Party,False,10,"Binance/Exchange Deposit. Middleman controls your keys. NOT self-custodial."

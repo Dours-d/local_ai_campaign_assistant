@@ -1,0 +1,43 @@
+right_panel_open
+view_cozy
+WhyDonate logo
+search
+Search
+Start Fundraiser
+
+
+Dashboard
+
+
+Fundraisers
+
+
+Donations
+
+
+Balance
+
+
+Payout Settings
+
+
+Donation forms
+
+
+QR Codes
+
+color_lens
+Custom Branding
+arrow_drop_down
+
+Integration
+arrow_drop_down
+Dashboard
+arrow
+Fundraisers
+Fundraisers
+Manage all your campaigns. Track your active and connected fundraisers.
+
+Powered by
+ 
+

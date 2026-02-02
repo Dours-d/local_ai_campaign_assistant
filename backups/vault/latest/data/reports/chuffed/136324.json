@@ -1,0 +1,118 @@
+{
+  "url": "https://chuffed.org/dashboard/reports/campaign/136324",
+  "title": "View donation data",
+  "donations": [
+    {
+      "ID": "4513592",
+      "First Name": "Philip",
+      "Last Name": "Froehlich",
+      "Donation": "€10.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-10-07 05:16:22",
+      "Email": "nyphilip@verizon.net",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4429845",
+      "First Name": "Mahmut",
+      "Last Name": "Mahmut",
+      "Donation": "€15.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-09-29 16:42:38",
+      "Email": "bcxfssjiobd@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4397738",
+      "First Name": "Stanley",
+      "Last Name": "Neveu",
+      "Donation": "€10.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-09-26 20:19:28",
+      "Email": "stanleyneveu@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4384958",
+      "First Name": "Shoku",
+      "Last Name": "Baru",
+      "Donation": "€25.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-09-25 18:49:46",
+      "Email": "alpyro@hotmail.fr",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4339744",
+      "First Name": "Umut",
+      "Last Name": "İngin",
+      "Donation": "€30.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-09-21 20:57:53",
+      "Email": "umutcaningin@hotmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "Yes"
+    },
+    {
+      "ID": "4330279",
+      "First Name": "Stanley",
+      "Last Name": "Neveu",
+      "Donation": "€10.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-09-21 00:12:02",
+      "Email": "stanleyneveu@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4328405",
+      "First Name": "China",
+      "Last Name": "Kobayashi",
+      "Donation": "€20.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-09-20 19:43:09",
+      "Email": "penta.gaku@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4314323",
+      "First Name": "Mahmut",
+      "Last Name": "Mahmut",
+      "Donation": "€20.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-09-19 16:04:52",
+      "Email": "nfbfuzyvqlpytt@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4305237",
+      "First Name": "Sudenaz",
+      "Last Name": "Türkyılmaz",
+      "Donation": "€7.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-09-18 23:36:01",
+      "Email": "sudenaztrkylmz506@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4256705",
+      "First Name": "Mahmut",
+      "Last Name": "Mahmut",
+      "Donation": "€30.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-09-15 04:11:34",
+      "Email": "gsdufgsdaklgjearklgj@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    }
+  ],
+  "campaign_id": "136324",
+  "exported_at": "2026-01-31T18:11:30Z"
+}

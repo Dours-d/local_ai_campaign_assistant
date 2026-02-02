@@ -1,0 +1,19 @@
+{
+  "url": "https://chuffed.org/dashboard/reports/campaign/144651",
+  "title": "View donation data",
+  "donations": [
+    {
+      "ID": "4051079",
+      "First Name": "Amel",
+      "Last Name": "Chb",
+      "Donation": "€30.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-08-30 05:42:53",
+      "Email": "amelmilitantenpa@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    }
+  ],
+  "campaign_id": "144651",
+  "exported_at": "2026-01-31T18:10:50Z"
+}

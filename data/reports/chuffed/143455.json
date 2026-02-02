@@ -1,0 +1,118 @@
+{
+  "url": "https://chuffed.org/dashboard/reports/campaign/143455",
+  "title": "View donation data",
+  "donations": [
+    {
+      "ID": "4375506",
+      "First Name": "Daphne",
+      "Last Name": "Kiplinger",
+      "Donation": "$100.00",
+      "Currency": "USD",
+      "Date (AET)": "2025-09-25 00:41:45",
+      "Email": "daphne.kiplinger@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4341588",
+      "First Name": "Polly",
+      "Last Name": "Tyo",
+      "Donation": "$10.00",
+      "Currency": "USD",
+      "Date (AET)": "2025-09-22 00:30:51",
+      "Email": "pollycee@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4270917",
+      "First Name": "Jacob",
+      "Last Name": "Furness",
+      "Donation": "€25.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-09-16 06:52:14",
+      "Email": "jacobfurrness@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4178849",
+      "First Name": "Madz",
+      "Last Name": "Taylor",
+      "Donation": "€5.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-09-08 04:42:01",
+      "Email": "madelinetaylor@me.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4160267",
+      "First Name": "Omar",
+      "Last Name": "Lawrence",
+      "Donation": "$25.00",
+      "Currency": "USD",
+      "Date (AET)": "2025-09-06 10:29:18",
+      "Email": "sean16103@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4118294",
+      "First Name": "Matan",
+      "Last Name": "Yam",
+      "Donation": "€15.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-09-03 04:19:45",
+      "Email": "sunandmoonplant@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4087282",
+      "First Name": "JZ",
+      "Last Name": "JZ",
+      "Donation": "$50.00",
+      "Currency": "USD",
+      "Date (AET)": "2025-09-01 05:38:59",
+      "Email": "jaffarzaidi01@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4016624",
+      "First Name": "Alexander",
+      "Last Name": "Vivian",
+      "Donation": "£10.00",
+      "Currency": "GBP",
+      "Date (AET)": "2025-08-28 16:07:04",
+      "Email": "alex@artefactliverpool.co.uk",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "3967034",
+      "First Name": "Philip",
+      "Last Name": "Froehlich",
+      "Donation": "€10.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-08-26 00:16:20",
+      "Email": "nyphilip@verizon.net",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "3937099",
+      "First Name": "Mi",
+      "Last Name": "Ri",
+      "Donation": "$50.00",
+      "Currency": "AUD",
+      "Date (AET)": "2025-08-23 20:47:59",
+      "Email": "toothhurty@proton.me",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    }
+  ],
+  "campaign_id": "143455",
+  "exported_at": "2026-01-31T18:10:55Z"
+}

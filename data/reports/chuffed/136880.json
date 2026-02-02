@@ -1,0 +1,85 @@
+{
+  "url": "https://chuffed.org/dashboard/reports/campaign/136880",
+  "title": "View donation data",
+  "donations": [
+    {
+      "ID": "4411317",
+      "First Name": "Jo",
+      "Last Name": "Yo",
+      "Donation": "€100.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-09-27 23:55:26",
+      "Email": "yousefr1228@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4369367",
+      "First Name": "Resist",
+      "Last Name": "Toast",
+      "Donation": "$100.00",
+      "Currency": "USD",
+      "Date (AET)": "2025-09-24 11:51:31",
+      "Email": "k377yk@aol.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4163040",
+      "First Name": "Collins",
+      "Last Name": "Kipkemoi",
+      "Donation": "$1.00",
+      "Currency": "USD",
+      "Date (AET)": "2025-09-06 20:06:36",
+      "Email": "peterparker16365667@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4077765",
+      "First Name": "Norsam",
+      "Last Name": "Yunos",
+      "Donation": "€10.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-08-31 21:23:57",
+      "Email": "nsyunos15474@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "Yes"
+    },
+    {
+      "ID": "3918824",
+      "First Name": "Michael",
+      "Last Name": "Trecroce",
+      "Donation": "€50.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-08-22 13:34:26",
+      "Email": "trecroce@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "Yes"
+    },
+    {
+      "ID": "3918031",
+      "First Name": "Cyma",
+      "Last Name": "Zaccak",
+      "Donation": "€25.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-08-22 11:18:55",
+      "Email": "czaccak@hotmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "3917668",
+      "First Name": "Demi",
+      "Last Name": "Da",
+      "Donation": "$25.00",
+      "Currency": "USD",
+      "Date (AET)": "2025-08-22 10:23:23",
+      "Email": "watchmeslaymentalhealth@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    }
+  ],
+  "campaign_id": "136880",
+  "exported_at": "2026-01-31T18:11:15Z"
+}

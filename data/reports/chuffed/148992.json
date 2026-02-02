@@ -1,0 +1,63 @@
+{
+  "url": "https://chuffed.org/dashboard/reports/campaign/148992",
+  "title": "View donation data",
+  "donations": [
+    {
+      "ID": "4297411",
+      "First Name": "Sobia",
+      "Last Name": "Rasool",
+      "Donation": "£10.00",
+      "Currency": "GBP",
+      "Date (AET)": "2025-09-18 05:10:47",
+      "Email": "rasool_sobia@yahoo.co.uk",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4291009",
+      "First Name": "Aisha",
+      "Last Name": "Hussain",
+      "Donation": "£20.00",
+      "Currency": "GBP",
+      "Date (AET)": "2025-09-17 17:00:24",
+      "Email": "aisha.hussain88@outlook.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4268702",
+      "First Name": "Syed",
+      "Last Name": "Zaidi",
+      "Donation": "€85.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-09-16 03:47:54",
+      "Email": "shuaib_z@rediffmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4256972",
+      "First Name": "Sobia",
+      "Last Name": "Rasool",
+      "Donation": "£40.00",
+      "Currency": "GBP",
+      "Date (AET)": "2025-09-15 04:37:57",
+      "Email": "rasool_sobia@yahoo.co.uk",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    },
+    {
+      "ID": "4235632",
+      "First Name": "محمود",
+      "Last Name": "د",
+      "Donation": "€50.00",
+      "Currency": "EUR",
+      "Date (AET)": "2025-09-13 03:35:33",
+      "Email": "djdhgagywuit@gmail.com",
+      "Invoice URL": "View",
+      "Keep updated?": "No"
+    }
+  ],
+  "campaign_id": "148992",
+  "exported_at": "2026-01-31T18:10:34Z"
+}
