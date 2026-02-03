@@ -1,0 +1,190 @@
+DEBUGGING SINGLE CAMPAIGN: Help Gaza Nurse Abdel-Rahim Louh Rebuild His Home û He and His Family Are Living in a Tent
+Debugger active tabs: 16
+Connecting to: https://whydonate.com/fundraising/start
+Connection status: OK
+
+--- [START] Help Gaza Nurse Abdel-Rahim Louh Rebuild His Home û He and His Family Are Living in a Tent ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Clicked 'Start Fundraiser' landing button. Waiting for form...
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Gaza', 'Nurse', 'Abdel-Rahim', 'Louh', 'Rebuild', 'His', 'Home', 'His', 'Family', 'Are', 'Living', 'Tent']
+Found folder match: Iniative for Children in Gaza
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Iniative for Children in Gaza\WhatsApp Image 2025-09-21 α 19.49.35_37daf889.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2: Choosing target...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: None
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Iniative for Children in Gaza\WhatsApp Image 2025-09-21 α 19.49.35_37daf889.jpg
+Image upload command sent. Waiting for upload process...
+Step 4: Executing final click...
+Final click result: None
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+BUTTONS FOUND: [
+  {
+    "text": "right_panel_open",
+    "id": "toggleHeader",
+    "disabled": false,
+    "visible": true,
+    "classes": "border-none bg-transparent cursor-pointer ng-star-inserted"
+  },
+  {
+    "text": "Start Fundraiser",
+    "id": "start_fundraiser",
+    "disabled": false,
+    "visible": true,
+    "classes": "hidden lg:block px-5 py-2 md:py-3 rounded-full text-16 font-medium font-default border border-solid border-[#32BF55] title-text bg-transparent hover:shadow-lg hover:bg-[#E9F8ED] focus:text-[#32BF55] hyphens-auto w-auto max-w-[200px] inline-block text-wrap cursor-pointer ng-star-inserted"
+  },
+  {
+    "text": "",
+    "id": "headerDashboard",
+    "disabled": false,
+    "visible": true,
+    "classes": "mat-mdc-tooltip-trigger w-full px-3 py-3 border-none bg-transparent focus:bg-[#f5f5f5] hover:bg-[#f5f5f5] cursor-pointer ng-star-inserted"
+  },
+  {
+    "text": "",
+    "id": "headerMyFundraisers",
+    "disabled": false,
+    "visible": true,
+    "classes": "mat-mdc-tooltip-trigger w-full px-3 py-3 border-none bg-transparent focus:bg-[#f5f5f5] hover:bg-[#f5f5f5] cursor-pointer ng-star-inserted"
+  },
+  {
+    "text": "",
+    "id": "",
+    "disabled": false,
+    "visible": true,
+    "classes": "mat-mdc-tooltip-trigger w-full px-3 py-3 border-none bg-transparent focus:bg-[#f5f5f5] hover:bg-[#f5f5f5] cursor-pointer ng-star-inserted"
+  },
+  {
+    "text": "",
+    "id": "headerBalance",
+    "disabled": false,
+    "visible": true,
+    "classes": "mat-mdc-tooltip-trigger w-full px-3 py-3 border-none bg-transparent focus:bg-[#f5f5f5] hover:bg-[#f5f5f5] cursor-pointer ng-star-inserted"
+  },
+  {
+    "text": "",
+    "id": "headerPayoutSettings",
+    "disabled": false,
+    "visible": true,
+    "classes": "mat-mdc-tooltip-trigger w-full px-3 py-3 border-none bg-transparent focus:bg-[#f5f5f5] hover:bg-[#f5f5f5] cursor-pointer ng-star-inserted"
+  },
+  {
+    "text": "",
+    "id": "headerWidgets",
+    "disabled": false,
+    "visible": true,
+    "classes": "mat-mdc-tooltip-trigger w-full px-3 py-3 border-none bg-transparent focus:bg-[#f5f5f5] hover:bg-[#f5f5f5] cursor-pointer ng-star-inserted"
+  },
+  {
+    "text": "",
+    "id": "qrCodeSettings",
+    "disabled": false,
+    "visible": true,
+    "classes": "mat-mdc-tooltip-trigger w-full px-3 py-3 border-none bg-transparent focus:bg-[#f5f5f5] hover:bg-[#f5f5f5] cursor-pointer ng-star-inserted"
+  },
+  {
+    "text": "",
+    "id": "sidenavCustomBrandingMenu",
+    "disabled": false,
+    "visible": true,
+    "classes": "customBranding w-full px-3 py-3 border-none bg-transparent focus:bg-[#f5f5f5] hover:bg-[#f5f5f5] cursor-pointer ng-star-inserted"
+  },
+  {
+    "text": "",
+    "id": "sidenavIntegrationMenu",
+    "disabled": false,
+    "visible": true,
+    "classes": "w-full px-3 py-3 border-none bg-transparent focus:bg-[#f5f5f5] hover:bg-[#f5f5f5] cursor-pointer ng-star-inserted"
+  },
+  {
+    "text": "Back",
+    "id": "",
+    "disabled": false,
+    "visible": true,
+    "classes": "min-h-[48px] h-auto mdc-button mdc-button--outlined mat-mdc-outlined-button mat-accent mat-mdc-button-base"
+  },
+  {
+    "text": "Next",
+    "id": "saveStep2",
+    "disabled": false,
+    "visible": true,
+    "classes": "min-h-[48px] h-auto mdc-button mdc-button--unelevated mat-mdc-unelevated-button mat-accent mat-mdc-button-base"
+  },
+  {
+    "text": "En",
+    "id": "",
+    "disabled": false,
+    "visible": true,
+    "classes": "mat-mdc-menu-trigger language-chooser-button mdc-button mat-mdc-button mat-primary mat-mdc-button-base"
+  }
+]
+TOGGLES FOUND: []
+Page Snippet (Long): right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Start Fundraiser
+Step 2/4
+Who is this fundraiser for?
+Yourself
+Keep every donation for your cause. Funds go straight to your bank account.
+Someone Else
+Support a loved one or help a friend in need. Donations can be sent directly to them or managed by you.
+Charity
+Raise donations for nonprofits or communities in your neighborhood. Donations can be sent directly to the organization.
+Back
+Next
+á
+If you are looking for a cause to connectá Search Fundraiser
+Donate
+Categories
+Palestine Relief
+Ukraine
+Flood
+Earthquake
+Fundraiser on WhyDonate
+Fundraising Categories
+Fundraising Blogs
+Fundraising Tips
+Sign up as a non profit
+About
+About WhyDonate
+Helpdesk
+Fees
+Countries we support
+Contact us
+Platform features
+Global crowdfunding
+Custom branding
+Recurring donations
+QR code and payment requests
+Peer-to-peer fundraising
+Donation form plugin
+Zapier Integration
+En
+4.8 / 5 based on 400+ reviews
+⌐ 2012-2026 WhyDonate
+Privacy and cookies
+Terms and conditions
+cookie
+á
+Cookie Settings
+Made in Europe
+Messages
+Articles
+Questions? Chat with us.
+Last active 2 hours ago.
+Hello! How can I help you? 
+Monday, 2 February
+congrats for the two two states button on the campaigns, i signaled the bug. Wooaf.
+WhyDonateBot
+Hi! Our Customer support team is offline now. Our operating hours are 9am to 5pm CET, Monday to Sunday. Feel free to add any information to the previous message. Talk to you soon! 
+FINAL RESULT: False

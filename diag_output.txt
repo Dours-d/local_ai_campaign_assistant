@@ -1,0 +1,84 @@
+{'res': 'CLICKED_NEXT', 'debug': {'btnHTML': '<button _ngcontent-serverapp-c3635034480="" mat-flat-button="" color="accent" id="saveStep1" class="min-h-[48px] h-auto mdc-button mdc-button--unelevated mat-mdc-unelevated-button mat-accent mat-mdc-button-base" mat-ripple-loader-uninitialized="" mat-ripple-loader-class-name="mat-mdc-button-ripple" mat-ripple-loader-disabled="" disabled="true"><span class="mat-mdc-button-persistent-ripple mdc-button__ripple"></span><span class="mdc-button__label"><span _ngcontent-serverapp-c3635034480="" class="text-20 font-500 p-6">Next</span></span><span class="mat-mdc-focus-indicator"></span><span class="mat-mdc-button-touch-target"></span></button>'}}
+Step 2 detected! (Myself: False, Button2: True)
+Performing Step 2...
+STEP2_DONE
+Waiting for Step 3... (URL: https://whydonate.com/fundraising/start)
+Waiting for Step 3... (URL: https://whydonate.com/fundraising/start)
+Waiting for Step 3... (URL: https://whydonate.com/fundraising/start)
+Waiting for Step 3... (URL: https://whydonate.com/fundraising/start)
+Waiting for Step 3... (URL: https://whydonate.com/fundraising/start)
+Waiting for Step 3... (URL: https://whydonate.com/fundraising/start)
+Waiting for Step 3... (URL: https://whydonate.com/fundraising/start)
+Waiting for Step 3... (URL: https://whydonate.com/fundraising/start)
+Waiting for Step 3... (URL: https://whydonate.com/fundraising/start)
+Waiting for Step 3... (URL: https://whydonate.com/fundraising/start)
+--- URL AFTER STEP 2 ---
+https://whydonate.com/fundraising/start
+--- FORM ELEMENTS IN STEP 3 ---
+[{'tag': 'BUTTON', 'placeholder': None, 'id': 'toggleHeader', 'text': 'right_panel_open', 'type': 'submit', 'name': ''}, {'tag': 'BUTTON', 'placeholder': None, 'id': 'start_fundraiser', 'text': 'Start Fundraiser', 'type': 'submit', 'name': ''}, {'tag': 'BUTTON', 'placeholder': None, 'id': 'headerDashboard', 'text': 'Dashboard', 'type': 'submit', 'name': ''}, {'tag': 'BUTTON', 'placeholder': None, 'id': 'headerMyFundraisers', 'text': 'Fundraisers', 'type': 'submit', 'name': ''}, {'tag': 'BUTTON', 'placeholder': None, 'id': '', 'text': 'Donations', 'type': 'submit', 'name': ''}, {'tag': 'BUTTON', 'placeholder': None, 'id': 'headerBalance', 'text': 'Balance', 'type': 'submit', 'name': ''}, {'tag': 'BUTTON', 'placeholder': None, 'id': 'headerPayoutSettings', 'text': 'Payout Settings', 'type': 'submit', 'name': ''}, {'tag': 'BUTTON', 'placeholder': None, 'id': 'headerWidgets', 'text': 'Donation forms', 'type': 'submit', 'name': ''}, {'tag': 'BUTTON', 'placeholder': None, 'id': 'qrCodeSettings', 'text': 'QR Codes', 'type': 'submit', 'name': ''}, {'tag': 'BUTTON', 'placeholder': None, 'id': 'sidenavCustomBrandingMenu', 'text': 'color_lens\nCustom Branding\narr', 'type': 'submit', 'name': ''}, {'tag': 'BUTTON', 'placeholder': None, 'id': 'sidenavIntegrationMenu', 'text': 'Integration\narrow_drop_down', 'type': 'submit', 'name': ''}, {'tag': 'BUTTON', 'placeholder': None, 'id': '', 'text': 'Back', 'type': 'submit', 'name': ''}, {'tag': 'BUTTON', 'placeholder': None, 'id': 'saveStep2', 'text': 'Next', 'type': 'submit', 'name': ''}, {'tag': 'BUTTON', 'placeholder': None, 'id': '', 'text': 'En', 'type': 'submit', 'name': ''}]
+--- URL AFTER STEP 1 ---
+https://whydonate.com/fundraising/start
+--- VISIBLE ERRORS ---
+[]
+--- PAGE TEXT SNIPPET ---
+right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Dashboard
+Fundraisers
+Donations
+Balance
+Payout Settings
+Donation forms
+QR Codes
+color_lens
+Custom Branding
+arrow_drop_down
+Integration
+arrow_drop_down
+Let's Get Your Fundraiser Started!
+Step 1/4
+What is your address and which language do you prefer for the fundraiser?
+Use the address where you are officially registered.á These are the countries where we support fundraising campaigns.
+Address
+EN - English
+What best describes your fundraising cause?
+Animals
+Arts & Culture
+Celebrations
+Children & Family
+Climate & Environment
+Community
+Crisis & Emergency
+Dreams
+Education
+Entrepreneurship
+Events
+Food & Hunger
+Health & Medical
+Housing
+Human Rights
+Humanitarian Aid
+Legal Defense
+Memorials
+Other
+Religion & Faith
+Sport
+Travel & Volunteering
+Women Empowerment
+Next
+Donate
+Categories
+Palestine Relief
+Ukraine
+Flood
+Earthquake
+Fundraiser on WhyDonate
+Fundraising Categories
+Fundraising Blogs
+Fundraising Tips
+Sign up as a non profit
+About
+About

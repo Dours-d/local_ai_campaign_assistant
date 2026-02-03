@@ -1,0 +1,638 @@
+[
+  {
+    "name": "https://static.cloudflareinsights.com/beacon.min.js",
+    "type": "script",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015",
+    "type": "script",
+    "status": 200,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/personalHomepageBanner/public",
+    "type": "link",
+    "status": 0,
+    "duration": 78.19999998807907
+  },
+  {
+    "name": "https://sentry.io/api/1539961/envelope/?sentry_key=0fa2f497fca84f649148e2265d8d4785&sentry_version=7&sentry_client=sentry.javascript.angular%2F7.29.0",
+    "type": "fetch",
+    "status": 200,
+    "duration": 128
+  },
+  {
+    "name": "https://fundraiser.whydonate.dev/fundraiser/wordpress/all",
+    "type": "xmlhttprequest",
+    "status": 200,
+    "duration": 359.5
+  },
+  {
+    "name": "https://account.whydonate.dev/account/stripe/status",
+    "type": "xmlhttprequest",
+    "status": 200,
+    "duration": 161.69999998807907
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/WhyDonatesSVG/public",
+    "type": "img",
+    "status": 0,
+    "duration": 57.200000047683716
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/instaIconFooter/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/twitterIconFooter/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/facebookIconFooter/public",
+    "type": "img",
+    "status": 0,
+    "duration": 195.4000000357628
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/linkedinIconFooter/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/youtubeIconFooter/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/tiktokIconFooter/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/madeInEurope/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/StripePartnerBadge/public",
+    "type": "img",
+    "status": 0,
+    "duration": 300.69999998807907
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/sslCertificateFooter/public",
+    "type": "img",
+    "status": 0,
+    "duration": 299.19999998807907
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/isoIconFooter/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://fundraiser.whydonate.dev/fundraiser/summary",
+    "type": "xmlhttprequest",
+    "status": 200,
+    "duration": 268.80000001192093
+  },
+  {
+    "name": "https://fundraiser.whydonate.dev/fundraiser/wordpress/all",
+    "type": "xmlhttprequest",
+    "status": 200,
+    "duration": 399.80000001192093
+  },
+  {
+    "name": "https://account.whydonate.dev/account/profile",
+    "type": "xmlhttprequest",
+    "status": 200,
+    "duration": 850.0999999642372
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/whydonate_lg_logo/public",
+    "type": "img",
+    "status": 0,
+    "duration": 117.5
+  },
+  {
+    "name": "https://www.redditstatic.com/ads/pixel.js",
+    "type": "script",
+    "status": 0,
+    "duration": 646.5
+  },
+  {
+    "name": "https://bat.bing.com/bat.js",
+    "type": "script",
+    "status": 0,
+    "duration": 663.5
+  },
+  {
+    "name": "https://www.google.com/ccm/collect?frm=0&en=page_view&dl=https%3A%2F%2Fwhydonate.com%2Ffundraising%2Fstart&scrsrc=whydonate.com&rnd=384301042.1770055100&dt=WhyDonate%3A%20Personal%20Crowdfunding%20and%20Charity%20Fundraising&auid=469948376.1769849821&navt=n&npa=1&ep.ads_data_redaction=0&gdid=dYzg1YT&gtm=45E92e61s0v9219561883za204zd9219561883xea&gcd=13l3l3l2l1l1&dma_cps=syphamo&dma=1&tag_exp=103116026~103200004~104527907~104528501~104684208~104684211~115938466~115938468~116185181~116185182~116988316~117041588&apve=1&apvf=f&apvc=1&tft=1770055100235&tfd=733",
+    "type": "fetch",
+    "status": 0,
+    "duration": 43.90000003576279
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/dashboardNew/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/fundraisersNew/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/animalWelfare1/public",
+    "type": "img",
+    "status": 0,
+    "duration": 179.29999995231628
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/art_And_Culture1/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/wedding1/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/childWelfare1/public",
+    "type": "img",
+    "status": 0,
+    "duration": 177.80000001192093
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/nature&environment1/public",
+    "type": "img",
+    "status": 0,
+    "duration": 204
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/community.1/public",
+    "type": "img",
+    "status": 0,
+    "duration": 272.10000002384186
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/emergencyRelief1/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/wish1/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/education1/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/entrepreneurship1/public",
+    "type": "img",
+    "status": 0,
+    "duration": 280.5
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/event1/public",
+    "type": "img",
+    "status": 0,
+    "duration": 279.19999998807907
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/food1/public",
+    "type": "img",
+    "status": 0,
+    "duration": 321.80000001192093
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/healthcare1/public",
+    "type": "img",
+    "status": 0,
+    "duration": 329.39999997615814
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/housing1/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/humanRights1/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/refugeesPrimary/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/LegalDefense/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/funeral1/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/other1/public",
+    "type": "img",
+    "status": 0,
+    "duration": 326.60000002384186
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/religion1/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/sports1/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/Travel&Volunteering/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/womenEnpowerment1/public",
+    "type": "img",
+    "status": 0,
+    "duration": 379.5
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/donationsNew/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/balanceNew/public",
+    "type": "img",
+    "status": 0,
+    "duration": 408.5999999642372
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/payoutSettingsNew/public",
+    "type": "img",
+    "status": 0,
+    "duration": 422.7999999523163
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/qrNavigation/public",
+    "type": "img",
+    "status": 0,
+    "duration": 435.4000000357628
+  },
+  {
+    "name": "https://imagedelivery.net/_0vgnXOEIHPwLg2E52a7gg/shared/widgetsNew/public",
+    "type": "img",
+    "status": 0,
+    "duration": 0
+  },
+  {
+    "name": "https://bat.bing.com/action/0?evt=pageLoad&ti=187223152&tl=%0A%09%09%09WhyDonate%3A+Personal+Crowdfunding+and+Charity+Fundraising%0A%09%09&rn=895396&sw=1536&sh=864&lg=en-GB&p=https%3A%2F%2Fwhydonate.com%2Ffundraising%2Fstart&Ver=2&mid=c6a8d775-d10d-4b8c-a635-ca5b120b9e9c&msclkid=N&gdpr=1&gdpr_consent=CQe5LwAQe5LwAGxABAENCQFAAPLAAAAAAAAAIzQAgF5gRmAAAAAA.IIzQAgF5gRmA",
+    "type": "fetch",
+    "status": 204,
+    "duration": 60.30000001192093
+  },
+  {
+    "name": "https://www.googleadservices.com/pagead/conversion/11071932301/?guid=ON&rnd=1770056040842&fst=1770055101080&cv=9&sendb=1&num=1&u_java=false&url=https%3A%2F%2Fwhydonate.com%2Ffundraising%2Fstart&tiba=%0A%09%09%09WhyDonate%3A+Personal+Crowdfunding+and+Charity+Fundraising%0A%09%09&u_tz=0&u_his=10&u_h=714&u_w=1050&u_ah=864&u_aw=1536&ig=1&label=null&gcd=11p1p1p1p5&gdpr=1&gdpr_consent=CQe5LwAQe5LwAGxABAENCQFAAPLAAAAAAAAAIzQAgF5gRmAAAAAA.IIzQAgF5gRmA",
+    "type": "fetch",
+    "status": 0,
+    "duration": 51.39999997615814
+  },
+  {
+    "name": "https://alb.reddit.com/rp.gif?event=PageVisit&id=a2_i2pk0iudc6ko&ts=1770055101080&uuid=70ffb07d-5c18-46aa-b24f-289d332a2061&integration=reddit&opt_out=0&v=rdt_65e23bc4&sh=864&sw=1536",
+    "type": "fetch",
+    "status": 0,
+    "duration": 127
+  },
+  {
+    "name": "https://stats.g.doubleclick.net/g/collect?t=dc&aip=1&_r=3&v=1&_v=j86&tid=G-8B416GRV12&cid=dc42c8e3-d752-4254-9c5d-549e48a57863&_u=KGDAAEADQAAAAC%7E&z=601874090&gdpr=1&gdpr_consent=CQe5LwAQe5LwAGxABAENCQFAAPLAAAAAAAAAIzQAgF5gRmAAAAAA.IIzQAgF5gRmA",
+    "type": "fetch",
+    "status": 204,
+    "duration": 44.19999998807907
+  },
+  {
+    "name": "https://pixel-config.reddit.com/pixels/a2_i2pk0iudc6ko/config",
+    "type": "xmlhttprequest",
+    "status": 200,
+    "duration": 1.5
+  },
+  {
+    "name": "https://alb.reddit.com/rp.gif?ts=1770055100911&id=a2_i2pk0iudc6ko&event=gtm.init_consent&m.value=&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=38092f46-7a1a-4ca4-8011-116ca07d1a9f&aaid=&em=&pn=&external_id=&idfa=&integration=gtm&partner=AUTOMATIC_GTM&partner_version=1.0.2&opt_out=0&sh=1536&sw=864&v=rdt_b107b962&dpm=&dpcc=&dprc=",
+    "type": "img",
+    "status": 0,
+    "duration": 689.3999999761581
+  },
+  {
+    "name": "https://alb.reddit.com/rp.gif?ts=1770055100914&id=a2_i2pk0iudc6ko&event=gtm.init&m.value=&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=38092f46-7a1a-4ca4-8011-116ca07d1a9f&aaid=&em=&pn=&external_id=&idfa=&integration=gtm&partner=AUTOMATIC_GTM&partner_version=1.0.2&opt_out=0&sh=1536&sw=864&v=rdt_b107b962&dpm=&dpcc=&dprc=",
+    "type": "img",
+    "status": 0,
+    "duration": 811.4000000357628
+  },
+  {
+    "name": "https://alb.reddit.com/rp.gif?ts=1770055100916&id=a2_i2pk0iudc6ko&event=PageVisit&m.value=&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=38092f46-7a1a-4ca4-8011-116ca07d1a9f&aaid=&em=&pn=&external_id=&idfa=&integration=gtm&partner=&partner_version=1.0.2&opt_out=0&sh=1536&sw=864&v=rdt_b107b962&dpm=&dpcc=&dprc=",
+    "type": "img",
+    "status": 0,
+    "duration": 881.3000000119209
+  },
+  {
+    "name": "https://alb.reddit.com/rp.gif?ts=1770055100918&id=a2_i2pk0iudc6ko&event=gtm.js&m.value=&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=38092f46-7a1a-4ca4-8011-116ca07d1a9f&aaid=&em=&pn=&external_id=&idfa=&integration=gtm&partner=AUTOMATIC_GTM&partner_version=1.0.2&opt_out=0&sh=1536&sw=864&v=rdt_b107b962&dpm=&dpcc=&dprc=",
+    "type": "img",
+    "status": 0,
+    "duration": 880.3999999761581
+  },
+  {
+    "name": "https://alb.reddit.com/rp.gif?ts=1770055100920&id=a2_i2pk0iudc6ko&event=gtm.dom&m.value=&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=38092f46-7a1a-4ca4-8011-116ca07d1a9f&aaid=&em=&pn=&external_id=&idfa=&integration=gtm&partner=AUTOMATIC_GTM&partner_version=1.0.2&opt_out=0&sh=1536&sw=864&v=rdt_b107b962&dpm=&dpcc=&dprc=",
+    "type": "img",
+    "status": 0,
+    "duration": 942.9000000357628
+  },
+  {
+    "name": "https://alb.reddit.com/rp.gif?ts=1770055100922&id=a2_i2pk0iudc6ko&event=gtm.click&m.value=&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=38092f46-7a1a-4ca4-8011-116ca07d1a9f&aaid=&em=&pn=&external_id=&idfa=&integration=gtm&partner=AUTOMATIC_GTM&partner_version=1.0.2&opt_out=0&sh=1536&sw=864&v=rdt_b107b962&dpm=&dpcc=&dprc=",
+    "type": "img",
+    "status": 0,
+    "duration": 1011
+  },
+  {
+    "name": "https://bat.bing.com/p/action/187223152.js",
+    "type": "script",
+    "status": 0,
+    "duration": 934.3999999761581
+  },
+  {
+    "name": "https://client.crisp.chat/l.js",
+    "type": "script",
+    "status": 0,
+    "duration": 932.5
+  },
+  {
+    "name": "https://www.google.com/ccm/collect?frm=0&dl=https%3A%2F%2Fwhydonate.com%2Ffundraising%2Fstart&scrsrc=whydonate.com&rnd=384301042.1770055100&dt=WhyDonate%3A%20Personal%20Crowdfunding%20and%20Charity%20Fundraising&auid=469948376.1769849821&navt=n&npa=1&did=dYzg1YT&gdid=dYzg1YT&_tu=CA&gtm=45892e61s0z89219561883za20kzb9219561883zd9219561883xea&gcd=13l3l3l2l1l1&dma_cps=syphamo&dma=1&tcfd=10001&tag_exp=103116026~103200004~104527907~104528501~104684208~104684211~115938466~115938468~116185181~116185182~116988315~117041588&apve=1&apvf=f&apvc=0&tids=AW-123123123&tid=AW-123123123&tft=1770055101071&tfd=1569",
+    "type": "fetch",
+    "status": 0,
+    "duration": 38.39999997615814
+  },
+  {
+    "name": "https://bat.bing.com/actionp/0?ti=187223152&tm=gtm002&Ver=2&mid=32ef672d-0775-48b6-b8af-1211839b3dfa&bo=1&evt=consent&src=tcf&cdb=AQAU&tcf=st%3DL%26al%3D1%26gdpr%3DY%26as%3DG%26ms%3DG%26pz%3DG",
+    "type": "beacon",
+    "status": 0,
+    "duration": 60.60000002384186
+  },
+  {
+    "name": "https://bat.bing.com/p/insights/t/187223152",
+    "type": "script",
+    "status": 0,
+    "duration": 100.39999997615814
+  },
+  {
+    "name": "https://bat.bing.com/action/0?ti=187223152&tm=gtm002&Ver=2&mid=32ef672d-0775-48b6-b8af-1211839b3dfa&bo=2&sid=eec59b90ff6511f0bd913bc4ba63ff63&vid=d7df9a70fe8211f0bd466fe6690136d9&vids=0&msclkid=N&gtm_tag_source=1&uach=pv%3D19.0.0&pi=918639831&lg=en-GB&sw=1536&sh=864&sc=30&tl=WhyDonate%3A%20Personal%20Crowdfunding%20and%20Charity%20Fundraising&p=https%3A%2F%2Fwhydonate.com%2Ffundraising%2Fstart&r=&lt=538&evt=pageLoad&sv=2&tcf=st%3DL%26al%3D1%26gdpr%3DY%26as%3DG%26ms%3DG%26pz%3DG&cdb=AQAU&rn=784609",
+    "type": "img",
+    "status": 0,
+    "duration": 108
+  },
+  {
+    "name": "https://bat.bing.com/action/0?ti=187223152&tm=gtm002&Ver=2&mid=32ef672d-0775-48b6-b8af-1211839b3dfa&bo=3&sid=eec59b90ff6511f0bd913bc4ba63ff63&vid=d7df9a70fe8211f0bd466fe6690136d9&vids=0&msclkid=N&ea=UFFC&en=Y&p=https%3A%2F%2Fwhydonate.com%2Ffundraising%2Fstart&sw=1536&sh=864&sc=30&evt=custom&tcf=st%3DL%26al%3D1%26gdpr%3DY%26as%3DG%26ms%3DG%26pz%3DG&cdb=AQAU&rn=200370",
+    "type": "img",
+    "status": 0,
+    "duration": 143.69999998807907
+  },
+  {
+    "name": "https://client.crisp.chat/static/javascripts/client_default_439a0bf.js",
+    "type": "script",
+    "status": 200,
+    "duration": 45.30000001192093
+  },
+  {
+    "name": "https://client.crisp.chat/static/stylesheets/client_default_439a0bf.css",
+    "type": "link",
+    "status": 0,
+    "duration": 43.80000001192093
+  },
+  {
+    "name": "https://bat.bing.com/p/insights/s/0.8.53",
+    "type": "script",
+    "status": 0,
+    "duration": 2
+  },
+  {
+    "name": "https://cloudflareinsights.com/cdn-cgi/rum",
+    "type": "xmlhttprequest",
+    "status": 204,
+    "duration": 82.19999998807907
+  },
+  {
+    "name": "https://alb.reddit.com/rp.gif?ts=1770055102049&id=a2_i2pk0iudc6ko&event=gtm.load&m.value=&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=38092f46-7a1a-4ca4-8011-116ca07d1a9f&aaid=&em=&pn=&external_id=&idfa=&integration=gtm&partner=AUTOMATIC_GTM&partner_version=1.0.2&opt_out=0&sh=1536&sw=864&v=rdt_b107b962&dpm=&dpcc=&dprc=",
+    "type": "img",
+    "status": 0,
+    "duration": 155.10000002384186
+  },
+  {
+    "name": "https://client.crisp.chat/settings/website/26dcc138-6a23-47f7-93c3-92ed66fe2afd/prelude/?2026-1-2-17-58",
+    "type": "fetch",
+    "status": 200,
+    "duration": 73
+  },
+  {
+    "name": "https://bat.bing.com/p/insights/c/z",
+    "type": "xmlhttprequest",
+    "status": 204,
+    "duration": 367.5
+  },
+  {
+    "name": "https://client.crisp.chat/settings/website/26dcc138-6a23-47f7-93c3-92ed66fe2afd/?1770047561968",
+    "type": "fetch",
+    "status": 200,
+    "duration": 1.300000011920929
+  },
+  {
+    "name": "https://client.crisp.chat/static/javascripts/en_default_439a0bf.js",
+    "type": "script",
+    "status": 200,
+    "duration": 1.100000023841858
+  },
+  {
+    "name": "https://sentry.io/api/1539961/envelope/?sentry_key=0fa2f497fca84f649148e2265d8d4785&sentry_version=7&sentry_client=sentry.javascript.angular%2F7.29.0",
+    "type": "fetch",
+    "status": 200,
+    "duration": 164.5
+  },
+  {
+    "name": "https://alb.reddit.com/rp.gif?ts=1770055105544&id=a2_i2pk0iudc6ko&event=gtm.click&m.value=&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=38092f46-7a1a-4ca4-8011-116ca07d1a9f&aaid=&em=&pn=&external_id=&idfa=&integration=gtm&partner=AUTOMATIC_GTM&partner_version=1.0.2&opt_out=0&sh=1536&sw=864&v=rdt_b107b962&dpm=&dpcc=&dprc=",
+    "type": "img",
+    "status": 0,
+    "duration": 138.10000002384186
+  },
+  {
+    "name": "https://bat.bing.com/p/insights/c/z",
+    "type": "xmlhttprequest",
+    "status": 204,
+    "duration": 153.5
+  },
+  {
+    "name": "https://alb.reddit.com/rp.gif?ts=1770055109289&id=a2_i2pk0iudc6ko&event=gtm.click&m.value=&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=38092f46-7a1a-4ca4-8011-116ca07d1a9f&aaid=&em=&pn=&external_id=&idfa=&integration=gtm&partner=AUTOMATIC_GTM&partner_version=1.0.2&opt_out=0&sh=1536&sw=864&v=rdt_b107b962&dpm=&dpcc=&dprc=",
+    "type": "img",
+    "status": 0,
+    "duration": 131.60000002384186
+  },
+  {
+    "name": "https://bat.bing.com/p/insights/c/z",
+    "type": "xmlhttprequest",
+    "status": 204,
+    "duration": 133.5
+  },
+  {
+    "name": "https://sentry.io/api/1539961/envelope/?sentry_key=0fa2f497fca84f649148e2265d8d4785&sentry_version=7&sentry_client=sentry.javascript.angular%2F7.29.0",
+    "type": "fetch",
+    "status": 200,
+    "duration": 131.69999998807907
+  },
+  {
+    "name": "https://sentry.io/api/1539961/envelope/?sentry_key=0fa2f497fca84f649148e2265d8d4785&sentry_version=7&sentry_client=sentry.javascript.angular%2F7.29.0",
+    "type": "fetch",
+    "status": 200,
+    "duration": 130.0999999642372
+  },
+  {
+    "name": "https://alb.reddit.com/rp.gif?ts=1770055117330&id=a2_i2pk0iudc6ko&event=gtm.click&m.value=&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=38092f46-7a1a-4ca4-8011-116ca07d1a9f&aaid=&em=&pn=&external_id=&idfa=&integration=gtm&partner=AUTOMATIC_GTM&partner_version=1.0.2&opt_out=0&sh=1536&sw=864&v=rdt_b107b962&dpm=&dpcc=&dprc=",
+    "type": "img",
+    "status": 0,
+    "duration": 134
+  },
+  {
+    "name": "https://sentry.io/api/1539961/envelope/?sentry_key=0fa2f497fca84f649148e2265d8d4785&sentry_version=7&sentry_client=sentry.javascript.angular%2F7.29.0",
+    "type": "fetch",
+    "status": 429,
+    "duration": 187.70000004768372
+  },
+  {
+    "name": "https://sentry.io/api/1539961/envelope/?sentry_key=0fa2f497fca84f649148e2265d8d4785&sentry_version=7&sentry_client=sentry.javascript.angular%2F7.29.0",
+    "type": "fetch",
+    "status": 429,
+    "duration": 235.5999999642372
+  },
+  {
+    "name": "https://bat.bing.com/p/insights/c/z",
+    "type": "xmlhttprequest",
+    "status": 204,
+    "duration": 142.5999999642372
+  },
+  {
+    "name": "https://sentry.io/api/1539961/envelope/?sentry_key=0fa2f497fca84f649148e2265d8d4785&sentry_version=7&sentry_client=sentry.javascript.angular%2F7.29.0",
+    "type": "fetch",
+    "status": 429,
+    "duration": 128.5
+  },
+  {
+    "name": "https://bat.bing.com/p/insights/c/z",
+    "type": "xmlhttprequest",
+    "status": 204,
+    "duration": 159.10000002384186
+  },
+  {
+    "name": "https://sentry.io/api/1539961/envelope/?sentry_key=0fa2f497fca84f649148e2265d8d4785&sentry_version=7&sentry_client=sentry.javascript.angular%2F7.29.0",
+    "type": "fetch",
+    "status": 429,
+    "duration": 126.30000001192093
+  },
+  {
+    "name": "https://cloudflareinsights.com/cdn-cgi/rum",
+    "type": "beacon",
+    "status": 204,
+    "duration": 77.40000003576279
+  },
+  {
+    "name": "https://stats.g.doubleclick.net/g/collect?t=dc&aip=1&_r=3&v=1&_v=j86&tid=G-8B416GRV12&cid=dc42c8e3-d752-4254-9c5d-549e48a57863&_u=KGDAAEADQAAAAC%7E&z=364794995&gdpr=1&gdpr_consent=CQe5LwAQe5LwAGxABAENCQFAAPLAAAAAAAAAIzQAgF5gRmAAAAAA.IIzQAgF5gRmA",
+    "type": "fetch",
+    "status": 204,
+    "duration": 55.90000003576279
+  },
+  {
+    "name": "https://sentry.io/api/1539961/envelope/?sentry_key=0fa2f497fca84f649148e2265d8d4785&sentry_version=7&sentry_client=sentry.javascript.angular%2F7.29.0",
+    "type": "fetch",
+    "status": 200,
+    "duration": 139.69999998807907
+  },
+  {
+    "name": "https://alb.reddit.com/rp.gif?ts=1770055145414&id=a2_i2pk0iudc6ko&event=gtm.click&m.value=&m.transactionId=&m.customEventName=&m.products=&m.conversionId=&uuid=38092f46-7a1a-4ca4-8011-116ca07d1a9f&aaid=&em=&pn=&external_id=&idfa=&integration=gtm&partner=AUTOMATIC_GTM&partner_version=1.0.2&opt_out=0&sh=1536&sw=864&v=rdt_b107b962&dpm=&dpcc=&dprc=",
+    "type": "img",
+    "status": 0,
+    "duration": 135.4000000357628
+  },
+  {
+    "name": "https://bat.bing.com/p/insights/c/z",
+    "type": "xmlhttprequest",
+    "status": 204,
+    "duration": 202.60000002384186
+  },
+  {
+    "name": "https://sentry.io/api/1539961/envelope/?sentry_key=0fa2f497fca84f649148e2265d8d4785&sentry_version=7&sentry_client=sentry.javascript.angular%2F7.29.0",
+    "type": "fetch",
+    "status": 429,
+    "duration": 123.69999998807907
+  },
+  {
+    "name": "https://bat.bing.com/p/insights/c/z",
+    "type": "xmlhttprequest",
+    "status": 204,
+    "duration": 5611.299999952316
+  },
+  {
+    "name": "https://bat.bing.com/p/insights/c/z",
+    "type": "xmlhttprequest",
+    "status": 204,
+    "duration": 192.39999997615814
+  },
+  {
+    "name": "https://bat.bing.com/p/insights/c/z",
+    "type": "xmlhttprequest",
+    "status": 204,
+    "duration": 180.39999997615814
+  },
+  {
+    "name": "https://bat.bing.com/p/insights/c/z",
+    "type": "xmlhttprequest",
+    "status": 204,
+    "duration": 148.10000002384186
+  },
+  {
+    "name": "https://bat.bing.com/p/insights/c/z",
+    "type": "beacon",
+    "status": 0,
+    "duration": 273.4000000357628
+  }
+]

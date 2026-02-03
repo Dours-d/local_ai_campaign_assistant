@@ -1,0 +1,18 @@
+DEBUGGING SINGLE CAMPAIGN: Help Gaza Nurse Abdel-Rahim Louh Rebuild His Home û He and His Family Are Living in a Tent
+Debugger active tabs: 15
+Connecting to: https://whydonate.com/fundraising/start
+Connection status: OK
+
+--- [START] Help Gaza Nurse Abdel-Rahim Louh Rebuild His Home û He and His Family Are Living in a Tent ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Clicked 'Start Fundraiser' landing button. Waiting for form...
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Gaza', 'Nurse', 'Abdel-Rahim', 'Louh', 'Rebuild', 'His', 'Home', 'His', 'Family', 'Are', 'Living', 'Tent']
+Found folder match: Iniative for Children in Gaza
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Iniative for Children in Gaza\WhatsApp Image 2025-09-21 α 19.49.35_37daf889.jpg
+Step 1 execution...
+Step 1 Result: None
+Step 1 Failed. Stopping campaign process.
+FINAL RESULT: False

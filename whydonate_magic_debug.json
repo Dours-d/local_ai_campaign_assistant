@@ -1,0 +1,32 @@
+{
+  "cookies": "WD_locale_preference=en; _gcl_au=1.1.469948376.1769849821; __stripe_mid=40657acb-3b7d-43e8-9100-29619532606f6be3db; cf_consent_vendors={\"755\":true,\"1126\":true,\"nonTcf-Cloudflare\":true,\"nonTcf-Meta\":true,\"nonTcf-Reddit\":true,\"nonTcf-TikTok\":true}; cf_consent={\"OmeS\":true,\"aEhR\":true,\"tcf-purposes-1\":true,\"tcf-purposes-3\":true,\"tcf-purposes-4\":true,\"tcf-purposes-2\":true,\"tcf-purposes-7\":true,\"tcf-purposes-9\":true,\"tcf-purposes-10\":true}; euconsent-v2=CQe5LwAQe5LwAGxABAENCQFAAPLAAAAAAAAAIzQAgF5gRmAAAAAA.IIzQAgF5gRmA; wp-wpml_current_language=en; __stripe_sid=cfcd587c-75a3-449d-b92b-cbce4e05847318f746; crisp-client%2Fsession%2F26dcc138-6a23-47f7-93c3-92ed66fe2afd=session_c7976f0e-f0b8-432f-a29a-19ee25d26e4e; _rdt_uuid=1769849821666.38092f46-7a1a-4ca4-8011-116ca07d1a9f; _uetsid=eec59b90ff6511f0bd913bc4ba63ff63|196rz65|2|g38|0|2223; _uetvid=d7df9a70fe8211f0bd466fe6690136d9",
+  "config": {
+    "windowKeys": [],
+    "localStorage": [],
+    "nav": {
+      "language": "en-GB",
+      "languages": [
+        "en-GB"
+      ],
+      "onLine": true,
+      "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"
+    }
+  },
+  "meta": [
+    {
+      "name": "",
+      "content": "",
+      "property": null
+    },
+    {
+      "name": "google",
+      "content": "notranslate",
+      "property": null
+    },
+    {
+      "name": "viewport",
+      "content": "width=device-width, initial-scale=1 maximum-scale=1",
+      "property": null
+    }
+  ]
+}

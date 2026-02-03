@@ -1,0 +1,747 @@
+[
+  {
+    "tag": "BUTTON",
+    "text": "right_panel_open",
+    "classes": "border-none bg-transparent cursor-pointer ng-star-inserted"
+  },
+  {
+    "tag": "SPAN",
+    "text": "right_panel_open",
+    "classes": "material-symbols-outlined ng-star-inserted"
+  },
+  {
+    "tag": "SPAN",
+    "text": "view_cozy",
+    "classes": "mat-mdc-menu-trigger material-symbols-outlined hidden lg:block cursor-pointer ng-star-inserted"
+  },
+  {
+    "tag": "SPAN",
+    "text": "search\nSearch",
+    "classes": "flex flex-row items-center gap-1"
+  },
+  {
+    "tag": "SPAN",
+    "text": "search",
+    "classes": "material-icons-outlined text-20"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Search",
+    "classes": "hidden md:block text-16 font-500"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Start Fundraiser",
+    "classes": "hidden lg:block px-5 py-2 md:py-3 rounded-full text-16 font-medium font-default border border-solid border-[#32BF55] title-text bg-transparent hover:shadow-lg hover:bg-[#E9F8ED] focus:text-[#32BF55] hyphens-auto w-auto max-w-[200px] inline-block text-wrap cursor-pointer ng-star-inserted"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Dashboard",
+    "classes": "mat-mdc-tooltip-trigger w-full px-3 py-3 border-none bg-transparent focus:bg-[#f5f5f5] hover:bg-[#f5f5f5] cursor-pointer ng-star-inserted"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Dashboard",
+    "classes": "w-full flex flex-row items-center font-default"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Dashboard",
+    "classes": "text-16 text-start ng-star-inserted"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Fundraisers",
+    "classes": "mat-mdc-tooltip-trigger w-full px-3 py-3 border-none bg-transparent focus:bg-[#f5f5f5] hover:bg-[#f5f5f5] cursor-pointer ng-star-inserted"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Fundraisers",
+    "classes": "w-full flex flex-row items-center font-default"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Fundraisers",
+    "classes": "text-16 text-start ng-star-inserted"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Donations",
+    "classes": "mat-mdc-tooltip-trigger w-full px-3 py-3 border-none bg-transparent focus:bg-[#f5f5f5] hover:bg-[#f5f5f5] cursor-pointer ng-star-inserted"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Donations",
+    "classes": "w-full flex flex-row items-center font-default"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Donations",
+    "classes": "text-16 text-start ng-star-inserted"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Balance",
+    "classes": "mat-mdc-tooltip-trigger w-full px-3 py-3 border-none bg-transparent focus:bg-[#f5f5f5] hover:bg-[#f5f5f5] cursor-pointer ng-star-inserted"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Balance",
+    "classes": "w-full flex flex-row items-center font-default"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Balance",
+    "classes": "text-16 text-start ng-star-inserted"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Payout Settings",
+    "classes": "mat-mdc-tooltip-trigger w-full px-3 py-3 border-none bg-transparent focus:bg-[#f5f5f5] hover:bg-[#f5f5f5] cursor-pointer ng-star-inserted"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Payout Settings",
+    "classes": "flex flex-row w-full items-center font-default"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Payout Settings",
+    "classes": "text-16 text-start ng-star-inserted"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Donation forms",
+    "classes": "mat-mdc-tooltip-trigger w-full px-3 py-3 border-none bg-transparent focus:bg-[#f5f5f5] hover:bg-[#f5f5f5] cursor-pointer ng-star-inserted"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Donation forms",
+    "classes": "w-full flex flex-row items-center font-default"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Donation forms",
+    "classes": "text-16 text-start ng-star-inserted"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "QR Codes",
+    "classes": "mat-mdc-tooltip-trigger w-full px-3 py-3 border-none bg-transparent focus:bg-[#f5f5f5] hover:bg-[#f5f5f5] cursor-pointer ng-star-inserted"
+  },
+  {
+    "tag": "SPAN",
+    "text": "QR Codes",
+    "classes": "w-full flex flex-row items-center font-default"
+  },
+  {
+    "tag": "SPAN",
+    "text": "QR Codes",
+    "classes": "text-16 text-start ng-star-inserted"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "color_lens\nCustom Branding\narrow_drop_down",
+    "classes": "customBranding w-full px-3 py-3 border-none bg-transparent focus:bg-[#f5f5f5] hover:bg-[#f5f5f5] cursor-pointer ng-star-inserted"
+  },
+  {
+    "tag": "SPAN",
+    "text": "color_lens\nCustom Branding\narrow_drop_down",
+    "classes": "flex flex-row items-center font-default"
+  },
+  {
+    "tag": "SPAN",
+    "text": "color_lens",
+    "classes": "material-icons-outlined text-20"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Custom Branding\narrow_drop_down",
+    "classes": "w-full flex flex-row items-center justify-between"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Custom Branding",
+    "classes": "ml-2 text-16 text-start ng-star-inserted"
+  },
+  {
+    "tag": "SPAN",
+    "text": "arrow_drop_down",
+    "classes": "material-icons-outlined text-20"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Integration\narrow_drop_down",
+    "classes": "w-full px-3 py-3 border-none bg-transparent focus:bg-[#f5f5f5] hover:bg-[#f5f5f5] cursor-pointer ng-star-inserted"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Integration\narrow_drop_down",
+    "classes": "flex flex-row items-center w-full"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Integration\narrow_drop_down",
+    "classes": "w-full flex flex-row items-center justify-between font-default"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Integration",
+    "classes": "ml-2 text-16 text-start ng-star-inserted"
+  },
+  {
+    "tag": "SPAN",
+    "text": "arrow_drop_down",
+    "classes": "material-icons-outlined text-20"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Step 1/4",
+    "classes": "text-[#32bf55] font-400 self-end sm:self-auto"
+  },
+  {
+    "tag": "SPAN",
+    "text": "What is your address and which language do you prefer for the fundraiser?",
+    "classes": "text-16 font-500"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Use the address where you are officially registered.\u00a0 These are the countries where we support fundraising campaigns.",
+    "classes": "w-full text-14"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Use the address where you are officially registered.",
+    "classes": ""
+  },
+  {
+    "tag": "SPAN",
+    "text": "These are the countries where we support fundraising campaigns.",
+    "classes": ""
+  },
+  {
+    "tag": "SPAN",
+    "text": "EN - English",
+    "classes": "mat-mdc-select-value-text ng-tns-c3393473648-10 ng-star-inserted"
+  },
+  {
+    "tag": "SPAN",
+    "text": "EN - English",
+    "classes": "mat-mdc-select-min-line ng-tns-c3393473648-10 ng-star-inserted"
+  },
+  {
+    "tag": "SPAN",
+    "text": "What best describes your fundraising cause?",
+    "classes": "text-16 font-500"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Animals",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Animals",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Animals",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Animals",
+    "classes": "title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Arts & Culture",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Arts & Culture",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Arts & Culture",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Arts & Culture",
+    "classes": "title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Celebrations",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Celebrations",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Celebrations",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Celebrations",
+    "classes": "title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Children & Family",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Children & Family",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Children & Family",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Children & Family",
+    "classes": "title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Climate & Environment",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Climate & Environment",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Climate & Environment",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Climate & Environment",
+    "classes": "title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Community",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Community",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Community",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Community",
+    "classes": "title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Crisis & Emergency",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Crisis & Emergency",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Crisis & Emergency",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Crisis & Emergency",
+    "classes": "title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Dreams",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Dreams",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Dreams",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Dreams",
+    "classes": "title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Education",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Education",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Education",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Education",
+    "classes": "title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Entrepreneurship",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Entrepreneurship",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Entrepreneurship",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Entrepreneurship",
+    "classes": "title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Events",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Events",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Events",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Events",
+    "classes": "title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Food & Hunger",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Food & Hunger",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Food & Hunger",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Food & Hunger",
+    "classes": "title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Health & Medical",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Health & Medical",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Health & Medical",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Health & Medical",
+    "classes": "title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Housing",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Housing",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Housing",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Housing",
+    "classes": "title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Human Rights",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Human Rights",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Human Rights",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Human Rights",
+    "classes": "title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Humanitarian Aid",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Humanitarian Aid",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Humanitarian Aid",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Humanitarian Aid",
+    "classes": "title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Legal Defense",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Legal Defense",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Legal Defense",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Legal Defense",
+    "classes": "title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Memorials",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Memorials",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Memorials",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Memorials",
+    "classes": "title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Other",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Other",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Other",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Other",
+    "classes": "title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Religion & Faith",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Religion & Faith",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Religion & Faith",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Religion & Faith",
+    "classes": "title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Sport",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Sport",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Sport",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Sport",
+    "classes": "title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Travel & Volunteering",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Travel & Volunteering",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Travel & Volunteering",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Travel & Volunteering",
+    "classes": "title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Women Empowerment",
+    "classes": "mdc-evolution-chip__cell mdc-evolution-chip__cell--primary"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Women Empowerment",
+    "classes": "mdc-evolution-chip__action mat-mdc-chip-action mdc-evolution-chip__action--primary mdc-evolution-chip__action--presentational"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Women Empowerment",
+    "classes": "mdc-evolution-chip__text-label mat-mdc-chip-action-label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Women Empowerment",
+    "classes": "title-text"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "Next",
+    "classes": "min-h-[48px] h-auto mdc-button mdc-button--unelevated mat-mdc-unelevated-button mat-accent mat-mdc-button-base"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Next",
+    "classes": "mdc-button__label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Next",
+    "classes": "text-20 font-500 p-6"
+  },
+  {
+    "tag": "BUTTON",
+    "text": "En",
+    "classes": "mat-mdc-menu-trigger language-chooser-button mdc-button mat-mdc-button mat-primary mat-mdc-button-base"
+  },
+  {
+    "tag": "SPAN",
+    "text": "En",
+    "classes": "mdc-button__label"
+  },
+  {
+    "tag": "SPAN",
+    "text": "En",
+    "classes": "text-20 font-500 title-text"
+  },
+  {
+    "tag": "SPAN",
+    "text": "cookie",
+    "classes": "material-icons-outlined"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Cookie Settings",
+    "classes": ""
+  },
+  {
+    "tag": "SPAN",
+    "text": "Made in Europe",
+    "classes": "text-[#363396] text-16"
+  },
+  {
+    "tag": "SPAN",
+    "text": "Made in Europe",
+    "classes": "text-[#363396] text-16"
+  }
+]

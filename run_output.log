@@ -1,0 +1,1554 @@
+Loaded 172 existing campaigns to check for doubles.
+Debugger active tabs: 15
+Connecting to: https://whydonate.com/fundraising/start
+Starting full creation for 59 remaining campaigns...
+
+--- [START] Help Haytham and his large family rebuild their lives in Gaza, Palestine. ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Haytham', 'Gaza', 'Palestine.']
+Found folder match: Abo Deyab (haytham)
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Abo Deyab (haytham)\IMG-20251125-WA0007.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: ERROR: TITLE_INPUT_NOT_FOUND
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Abo Deyab (haytham)\IMG-20251125-WA0007.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: SUCCESS_CLICKED
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Dashboard
+Fundraisers
+Donations
+Balance
+Payout Settings
+Donation forms
+QR Codes
+color_lens
+Custom Branding
+arrow_drop_down
+Integration
+arrow_drop_down
+Start Fundraiser
+Step 2/4
+Who is this fundraiser for?
+Yourself
+Keep every donation for your cause. Funds go straight to your bank account.
+Someone Else
+Support a loved one or help a friend in need. Donations can be sent directly to them or managed by you.
+Charity
+Raise donations for nonprof
+FAILURE: Campaign 'Help Haytham and his large family rebuild their lives in Gaza, Palestine.' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Marah and her family rebuild their lives, Palestine. ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Marah', 'Palestine.']
+Found folder match: Marah 19 siblings pop
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Marah 19 siblings pop\WhatsApp Image 2025-05-23 α 10.54.41_69348fff.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: None
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Marah 19 siblings pop\WhatsApp Image 2025-05-23 α 10.54.41_69348fff.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: SUCCESS_CLICKED
+Final URL after save: https://whydonate.com/
+SUCCESS: Campaign created. Finished 1/59. Waiting 15s...
+
+--- [START] Help Mohammed and his family survive the bombings and find safety ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Mohammed']
+Found folder match: Abdullah Mohammed
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Abdullah Mohammed\WhatsApp Image 2025-09-18 α 12.56.39_d7d87198.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: ERROR: TITLE_INPUT_NOT_FOUND
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Abdullah Mohammed\WhatsApp Image 2025-09-18 α 12.56.39_d7d87198.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: SUCCESS_CLICKED
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Dashboard
+Fundraisers
+Donations
+Balance
+Payout Settings
+Donation forms
+QR Codes
+color_lens
+Custom Branding
+arrow_drop_down
+Integration
+arrow_drop_down
+Start Fundraiser
+Step 2/4
+Who is this fundraiser for?
+Yourself
+Keep every donation for your cause. Funds go straight to your bank account.
+Someone Else
+Support a loved one or help a friend in need. Donations can be sent directly to them or managed by you.
+Charity
+Raise donations for nonprof
+FAILURE: Campaign 'Help Mohammed and his family survive the bombings and find safety' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Aya and her family survive the bombings and find safety, Gaza, Palestine. ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Aya', 'Gaza', 'Palestine.']
+Found folder match: Aya Fayyad
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Aya Fayyad\WhatsApp Image 2025-07-10 α 22.02.01_83ce5d58.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: ERROR: TITLE_INPUT_NOT_FOUND
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Aya Fayyad\WhatsApp Image 2025-07-10 α 22.02.01_83ce5d58.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: SUCCESS_CLICKED
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Dashboard
+Fundraisers
+Donations
+Balance
+Payout Settings
+Donation forms
+QR Codes
+color_lens
+Custom Branding
+arrow_drop_down
+Integration
+arrow_drop_down
+Start Fundraiser
+Step 2/4
+Who is this fundraiser for?
+Yourself
+Keep every donation for your cause. Funds go straight to your bank account.
+Someone Else
+Support a loved one or help a friend in need. Donations can be sent directly to them or managed by you.
+Charity
+Raise donations for nonprof
+FAILURE: Campaign 'Help Aya and her family survive the bombings and find safety, Gaza, Palestine.' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Youssef and his family survive the genocide by finding safety within Gaza, Palestine. ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Youssef', 'Gaza', 'Palestine.']
+Found folder match: Heba Um Youssef
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Heba Um Youssef\IMG-20250919-WA0021.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: None
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Heba Um Youssef\IMG-20250919-WA0021.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: None
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Dashboard
+Fundraisers
+Donations
+Balance
+Payout Settings
+Donation forms
+QR Codes
+color_lens
+Custom Branding
+arrow_drop_down
+Integration
+arrow_drop_down
+Let's Get Your Fundraiser Started!
+Step 1/4
+What is your address and which language do you prefer for the fundraiser?
+Use the address where you are officially registered.á These are the countries where we support fundraising campaigns.
+Address
+EN - English
+What best describes your fundraisi
+FAILURE: Campaign 'Help Youssef and his family survive the genocide by finding safety within Gaza, Palestine.' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Maha and Her family survive the genocide in Gaza, Palestine. ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Maha', 'Her', 'Gaza', 'Palestine.']
+Found folder match: Ahmad (Mahamad Daoud)
+Found folder match: Iman (Faris' mother)
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Iman (Faris' mother)\WhatsApp Image 2025-09-23 α 19.37.41_73930648.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: SUCCESS: FILLED
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Iman (Faris' mother)\WhatsApp Image 2025-09-23 α 19.37.41_73930648.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: None
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Dashboard
+Fundraisers
+Donations
+Balance
+Payout Settings
+Donation forms
+QR Codes
+color_lens
+Custom Branding
+arrow_drop_down
+Integration
+arrow_drop_down
+Let's Get Your Fundraiser Started!
+Step 1/4
+What is your address and which language do you prefer for the fundraiser?
+Use the address where you are officially registered.á These are the countries where we support fundraising campaigns.
+Address
+EN - English
+What best describes your fundraisi
+FAILURE: Campaign 'Help Maha and Her family survive the genocide in Gaza, Palestine.' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Abdul Rahman and His family of 7 rent a house in Gaza, Palestine. ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Abdul', 'Rahman', 'His', 'Gaza', 'Palestine.']
+Found folder match: Abdul Rahman (Ahmad Magde)
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Abdul Rahman (Ahmad Magde)\WhatsApp Image 2025-05-09 α 20.46.56_23ed90b4.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: SUCCESS: FILLED
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Abdul Rahman (Ahmad Magde)\WhatsApp Image 2025-05-09 α 20.46.56_23ed90b4.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: None
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Dashboard
+Fundraisers
+Donations
+Balance
+Payout Settings
+Donation forms
+QR Codes
+color_lens
+Custom Branding
+arrow_drop_down
+Integration
+arrow_drop_down
+Let's Get Your Fundraiser Started!
+Step 1/4
+What is your address and which language do you prefer for the fundraiser?
+Use the address where you are officially registered.á These are the countries where we support fundraising campaigns.
+Address
+EN - English
+What best describes your fundraisi
+FAILURE: Campaign 'Help Abdul Rahman and His family of 7 rent a house in Gaza, Palestine.' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Faten to help His daughter and to rebuild their life in Gaza, Palestine. ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Faten', 'His', 'Gaza', 'Palestine.']
+Found folder match: Faten pop
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Faten pop\WhatsApp Image 2025-05-12 α 14.43.34_84039f85.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: None
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Faten pop\WhatsApp Image 2025-05-12 α 14.43.34_84039f85.jpg
+File input not found.
+Step 4: Executing final click...
+Final click result: None
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_close
+view_cozy
+search
+Search
+Start Fundraiser
+Donate
+Categories
+Palestine Relief
+Ukraine
+Flood
+Earthquake
+Fundraiser on WhyDonate
+Fundraising Categories
+Fundraising Blogs
+Fundraising Tips
+Sign up as a non profit
+About
+About WhyDonate
+Helpdesk
+Fees
+Countries we support
+Contact us
+Platform features
+Global crowdfunding
+Custom branding
+Recurring donations
+QR code and payment requests
+Peer-to-peer fundraising
+Donation form plugin
+Zapier Integration
+En
+4.8 / 5 based on 400+ reviews
+⌐ 2012
+FAILURE: Campaign 'Help Faten to help His daughter and to rebuild their life in Gaza, Palestine.' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Hamed and His family to rebuild their life in Gaza, Palestine. ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page didn't load target text. Current snippet:
+Snippet: 
+Navigation attempt 2...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Hamed', 'His', 'Gaza', 'Palestine.']
+Found folder match: Hamed
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Hamed\WhatsApp Image 2025-05-14 α 18.36.59_14f72e73.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: SUCCESS: FILLED
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Hamed\WhatsApp Image 2025-05-14 α 18.36.59_14f72e73.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: None
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Dashboard
+Fundraisers
+Donations
+Balance
+Payout Settings
+Donation forms
+QR Codes
+color_lens
+Custom Branding
+arrow_drop_down
+Integration
+arrow_drop_down
+Let's Get Your Fundraiser Started!
+Step 1/4
+What is your address and which language do you prefer for the fundraiser?
+Use the address where you are officially registered.á These are the countries where we support fundraising campaigns.
+Address
+EN - English
+What best describes your fundraisi
+FAILURE: Campaign 'Help Hamed and His family to rebuild their life in Gaza, Palestine.' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Abdullah and his family to rebuild their life in Gaza, Palestine. ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Abdullah', 'Gaza', 'Palestine.']
+Found folder match: Abdullah 2
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Abdullah 2\WhatsApp Image 2025-09-17 α 10.29.09_0edee781.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: None
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Abdullah 2\WhatsApp Image 2025-09-17 α 10.29.09_0edee781.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: None
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Dashboard
+Fundraisers
+Donations
+Balance
+Payout Settings
+Donation forms
+QR Codes
+color_lens
+Custom Branding
+arrow_drop_down
+Integration
+arrow_drop_down
+Let's Get Your Fundraiser Started!
+Step 1/4
+What is your address and which language do you prefer for the fundraiser?
+Use the address where you are officially registered.á These are the countries where we support fundraising campaigns.
+Address
+EN - English
+What best describes your fundraisi
+FAILURE: Campaign 'Help Abdullah and his family to rebuild their life in Gaza, Palestine.' failed verification. Marking as failed_debug for now.
+
+--- [START] Save Salman Ali and his family from the awful destruction in Gaza, Palestine. ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Save', 'Salman', 'Ali', 'Gaza', 'Palestine.']
+Found folder match: Ahmed Salman
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Ahmed Salman\WhatsApp Image 2025-07-06 α 11.05.26_d260e7de.jpg
+Step 1 execution...
+Step 1 Result: None
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: SUCCESS: FILLED
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Ahmed Salman\WhatsApp Image 2025-07-06 α 11.05.26_d260e7de.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: None
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Dashboard
+Fundraisers
+Donations
+Balance
+Payout Settings
+Donation forms
+QR Codes
+color_lens
+Custom Branding
+arrow_drop_down
+Integration
+arrow_drop_down
+Let's Get Your Fundraiser Started!
+Step 1/4
+What is your address and which language do you prefer for the fundraiser?
+Use the address where you are officially registered.á These are the countries where we support fundraising campaigns.
+Address
+EN - English
+What best describes your fundraisi
+FAILURE: Campaign 'Save Salman Ali and his family from the awful destruction in Gaza, Palestine.' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Heba & Hassan and their children rebuild their life in Gaza ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Heba', 'Hassan', 'Gaza']
+Found folder match: Heba and Hassan
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Heba and Hassan\WhatsApp Image 2025-05-17 α 11.43.21_6a321bb6.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: SUCCESS: FILLED
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Heba and Hassan\WhatsApp Image 2025-05-17 α 11.43.21_6a321bb6.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: None
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Dashboard
+Fundraisers
+Donations
+Balance
+Payout Settings
+Donation forms
+QR Codes
+color_lens
+Custom Branding
+arrow_drop_down
+Integration
+arrow_drop_down
+Let's Get Your Fundraiser Started!
+Step 1/4
+What is your address and which language do you prefer for the fundraiser?
+Use the address where you are officially registered.á These are the countries where we support fundraising campaigns.
+Address
+EN - English
+What best describes your fundraisi
+FAILURE: Campaign 'Help Heba & Hassan and their children rebuild their life in Gaza' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Gaza Nurse Abdel-Rahim Louh Rebuild His Home û He and His Family Are Living in a Tent ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Gaza', 'Nurse', 'Abdel-Rahim', 'Louh', 'Rebuild', 'His', 'Home', 'His', 'Family', 'Are', 'Living', 'Tent']
+Found folder match: Iniative for Children in Gaza
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Iniative for Children in Gaza\WhatsApp Image 2025-09-21 α 19.49.35_37daf889.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: None
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Iniative for Children in Gaza\WhatsApp Image 2025-09-21 α 19.49.35_37daf889.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: None
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Dashboard
+Fundraisers
+Donations
+Balance
+Payout Settings
+Donation forms
+QR Codes
+color_lens
+Custom Branding
+arrow_drop_down
+Integration
+arrow_drop_down
+Let's Get Your Fundraiser Started!
+Step 1/4
+What is your address and which language do you prefer for the fundraiser?
+Use the address where you are officially registered.á These are the countries where we support fundraising campaigns.
+Address
+EN - English
+What best describes your fundraisi
+FAILURE: Campaign 'Help Gaza Nurse Abdel-Rahim Louh Rebuild His Home û He and His Family Are Living in a Tent' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Khaled Yahya rebuild his life in Gaza, Palestine ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Khaled', 'Yahya', 'Gaza', 'Palestine']
+Found folder match: Khaled (mahmoud)
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Khaled (mahmoud)\WhatsApp Image 2025-06-08 α 20.40.03_076a3f3b.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: SUCCESS: FILLED
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Khaled (mahmoud)\WhatsApp Image 2025-06-08 α 20.40.03_076a3f3b.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: None
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Dashboard
+Fundraisers
+Donations
+Balance
+Payout Settings
+Donation forms
+QR Codes
+color_lens
+Custom Branding
+arrow_drop_down
+Integration
+arrow_drop_down
+Let's Get Your Fundraiser Started!
+Step 1/4
+What is your address and which language do you prefer for the fundraiser?
+Use the address where you are officially registered.á These are the countries where we support fundraising campaigns.
+Address
+EN - English
+What best describes your fundraisi
+FAILURE: Campaign 'Help Khaled Yahya rebuild his life in Gaza, Palestine' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Shereen and her family survive Gaza genocide ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Shereen', 'Gaza']
+Found folder match: Shereen Marwan
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Shereen Marwan\five.png
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: SUCCESS: FILLED
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Shereen Marwan\five.png
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: None
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Dashboard
+Fundraisers
+Donations
+Balance
+Payout Settings
+Donation forms
+QR Codes
+color_lens
+Custom Branding
+arrow_drop_down
+Integration
+arrow_drop_down
+Let's Get Your Fundraiser Started!
+Step 1/4
+What is your address and which language do you prefer for the fundraiser?
+Use the address where you are officially registered.á These are the countries where we support fundraising campaigns.
+Address
+EN - English
+What best describes your fundraisi
+FAILURE: Campaign 'Help Shereen and her family survive Gaza genocide' failed verification. Marking as failed_debug for now.
+
+--- [START] Together we narrate the hearts of thirst and feed hungry souls ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Together']
+Downloading from https://prod-chuffedcontent.s3.amazonaws.com/images/gjS0DuwDSbOOLkPe1ErD_screenshot_-_whatsapp.jpg...
+Saved to C:\Users\gaelf\Documents\GitHub\local_ai_campaign_assistant\data\temp_image_138673.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: SUCCESS: FILLED
+Uploading image: C:\Users\gaelf\Documents\GitHub\local_ai_campaign_assistant\data\temp_image_138673.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: None
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Dashboard
+Fundraisers
+Donations
+Balance
+Payout Settings
+Donation forms
+QR Codes
+color_lens
+Custom Branding
+arrow_drop_down
+Integration
+arrow_drop_down
+Let's Get Your Fundraiser Started!
+Step 1/4
+What is your address and which language do you prefer for the fundraiser?
+Use the address where you are officially registered.á These are the countries where we support fundraising campaigns.
+Address
+EN - English
+What best describes your fundraisi
+FAILURE: Campaign 'Together we narrate the hearts of thirst and feed hungry souls' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Mohammed Suhail support his family and his injured father in Gaza ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Mohammed', 'Suhail', 'Gaza']
+Found folder match: Abdullah Mohammed
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Abdullah Mohammed\WhatsApp Image 2025-09-18 α 12.56.39_d7d87198.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: SUCCESS: FILLED
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Abdullah Mohammed\WhatsApp Image 2025-09-18 α 12.56.39_d7d87198.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: BUTTON_NOT_FOUND_OR_DISABLED
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Dashboard
+Fundraisers
+Donations
+Balance
+Payout Settings
+Donation forms
+QR Codes
+color_lens
+Custom Branding
+arrow_drop_down
+Integration
+arrow_drop_down
+Let's Get Your Fundraiser Started!
+Step 1/4
+What is your address and which language do you prefer for the fundraiser?
+Use the address where you are officially registered.á These are the countries where we support fundraising campaigns.
+Address
+EN - English
+What best describes your fundraisi
+FAILURE: Campaign 'Help Mohammed Suhail support his family and his injured father in Gaza' failed verification. Marking as failed_debug for now.
+
+--- [START] Save Um Mohammed's children and support rebuilding their lives in Gaza ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Save', "Mohammed's", 'Gaza']
+Found folder match: Iniative for Children in Gaza
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Iniative for Children in Gaza\WhatsApp Image 2025-09-21 α 19.49.35_37daf889.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: ERROR: TITLE_INPUT_NOT_FOUND
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Iniative for Children in Gaza\WhatsApp Image 2025-09-21 α 19.49.35_37daf889.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: SUCCESS_CLICKED
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Dashboard
+Fundraisers
+Donations
+Balance
+Payout Settings
+Donation forms
+QR Codes
+color_lens
+Custom Branding
+arrow_drop_down
+Integration
+arrow_drop_down
+Start Fundraiser
+Step 2/4
+Who is this fundraiser for?
+Yourself
+Keep every donation for your cause. Funds go straight to your bank account.
+Someone Else
+Support a loved one or help a friend in need. Donations can be sent directly to them or managed by you.
+Charity
+Raise donations for nonprof
+FAILURE: Campaign 'Save Um Mohammed's children and support rebuilding their lives in Gaza' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Iman Abu Mustafa to provide for her family of 6, in Gaza ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Iman', 'Abu', 'Mustafa', 'Gaza']
+Found folder match: Iman (f) pop
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Iman (f) pop\WhatsApp Image 2025-05-08 α 17.56.22_9e0b5d0f.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: ERROR: TITLE_INPUT_NOT_FOUND
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Iman (f) pop\WhatsApp Image 2025-05-08 α 17.56.22_9e0b5d0f.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: SUCCESS_CLICKED
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Dashboard
+Fundraisers
+Donations
+Balance
+Payout Settings
+Donation forms
+QR Codes
+color_lens
+Custom Branding
+arrow_drop_down
+Integration
+arrow_drop_down
+Start Fundraiser
+Step 2/4
+Who is this fundraiser for?
+Yourself
+Keep every donation for your cause. Funds go straight to your bank account.
+Someone Else
+Support a loved one or help a friend in need. Donations can be sent directly to them or managed by you.
+Charity
+Raise donations for nonprof
+FAILURE: Campaign 'Help Iman Abu Mustafa to provide for her family of 6, in Gaza' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Rahaf Baha and her family of 11 souls in Gaza ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Rahaf', 'Baha', 'Gaza']
+Found folder match: Rahaf Baha (Um Mohammed)
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Rahaf Baha (Um Mohammed)\WhatsApp Image 2025-09-01 α 15.06.17_a3f1f2b8.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: ERROR: TITLE_INPUT_NOT_FOUND
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Rahaf Baha (Um Mohammed)\WhatsApp Image 2025-09-01 α 15.06.17_a3f1f2b8.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: SUCCESS_CLICKED
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Dashboard
+Fundraisers
+Donations
+Balance
+Payout Settings
+Donation forms
+QR Codes
+color_lens
+Custom Branding
+arrow_drop_down
+Integration
+arrow_drop_down
+Start Fundraiser
+Step 2/4
+Who is this fundraiser for?
+Yourself
+Keep every donation for your cause. Funds go straight to your bank account.
+Someone Else
+Support a loved one or help a friend in need. Donations can be sent directly to them or managed by you.
+Charity
+Raise donations for nonprof
+FAILURE: Campaign 'Help Rahaf Baha and her family of 11 souls in Gaza' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Lama regain control of her destiny in Gaza ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Lama', 'Gaza']
+Found folder match: Ibrahim Alamassi
+Found folder match: Iniative for Children in Gaza
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Iniative for Children in Gaza\WhatsApp Image 2025-09-21 α 19.49.35_37daf889.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: ERROR: TITLE_INPUT_NOT_FOUND
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Iniative for Children in Gaza\WhatsApp Image 2025-09-21 α 19.49.35_37daf889.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: SUCCESS_CLICKED
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Dashboard
+Fundraisers
+Donations
+Balance
+Payout Settings
+Donation forms
+QR Codes
+color_lens
+Custom Branding
+arrow_drop_down
+Integration
+arrow_drop_down
+Start Fundraiser
+Step 2/4
+Who is this fundraiser for?
+Yourself
+Keep every donation for your cause. Funds go straight to your bank account.
+Someone Else
+Support a loved one or help a friend in need. Donations can be sent directly to them or managed by you.
+Charity
+Raise donations for nonprof
+FAILURE: Campaign 'Help Lama regain control of her destiny in Gaza' failed verification. Marking as failed_debug for now.
+
+--- [START] Save Aya's son life and restore their hopes in Gaza ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Save', "Aya's", 'Gaza']
+Found folder match: Aya's son
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Aya's son\WhatsApp Image 2025-09-07 α 12.46.30_2f3a1ec9.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: ERROR: TITLE_INPUT_NOT_FOUND
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Aya's son\WhatsApp Image 2025-09-07 α 12.46.30_2f3a1ec9.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: SUCCESS_CLICKED
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Dashboard
+Fundraisers
+Donations
+Balance
+Payout Settings
+Donation forms
+QR Codes
+color_lens
+Custom Branding
+arrow_drop_down
+Integration
+arrow_drop_down
+Start Fundraiser
+Step 2/4
+Who is this fundraiser for?
+Yourself
+Keep every donation for your cause. Funds go straight to your bank account.
+Someone Else
+Support a loved one or help a friend in need. Donations can be sent directly to them or managed by you.
+Charity
+Raise donations for nonprof
+FAILURE: Campaign 'Save Aya's son life and restore their hopes in Gaza' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Ismail's family of 12 members in destroyed Gaza, Palestine ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', "Ismail's", 'Gaza', 'Palestine']
+Found folder match: Iniative for Children in Gaza
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Iniative for Children in Gaza\WhatsApp Image 2025-09-21 α 19.49.35_37daf889.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: ERROR: TITLE_INPUT_NOT_FOUND
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Iniative for Children in Gaza\WhatsApp Image 2025-09-21 α 19.49.35_37daf889.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: SUCCESS_CLICKED
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Dashboard
+Fundraisers
+Donations
+Balance
+Payout Settings
+Donation forms
+QR Codes
+color_lens
+Custom Branding
+arrow_drop_down
+Integration
+arrow_drop_down
+Start Fundraiser
+Step 2/4
+Who is this fundraiser for?
+Yourself
+Keep every donation for your cause. Funds go straight to your bank account.
+Someone Else
+Support a loved one or help a friend in need. Donations can be sent directly to them or managed by you.
+Charity
+Raise donations for nonprof
+FAILURE: Campaign 'Help Ismail's family of 12 members in destroyed Gaza, Palestine' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Anas support his family of 7 sibblings in Gaza ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Anas', 'Gaza']
+Found folder match: Abood (Anas)
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Abood (Anas)\WhatsApp Image 2025-06-23 α 13.45.49_3c669c82.jpg
+Step 1 execution...
+Step 1 Result: None
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: ERROR: TITLE_INPUT_NOT_FOUND
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Abood (Anas)\WhatsApp Image 2025-06-23 α 13.45.49_3c669c82.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: SUCCESS_CLICKED
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Start Fundraiser
+Step 2/4
+Who is this fundraiser for?
+Yourself
+Keep every donation for your cause. Funds go straight to your bank account.
+Someone Else
+Support a loved one or help a friend in need. Donations can be sent directly to them or managed by you.
+Charity
+Raise donations for nonprofits or communities in your neighborhood. Donations can be sent directly to the organization.
+Back
+Next
+á
+If you are looking for a cause to connectá Sea
+FAILURE: Campaign 'Help Anas support his family of 7 sibblings in Gaza' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Muhammad support his family of seven in Gaza ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Muhammad', 'Gaza']
+Found folder match: Abu Haytham (Umm Muhammad)
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Abu Haytham (Umm Muhammad)\IMG-20251002-WA0014.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: ERROR: TITLE_INPUT_NOT_FOUND
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Abu Haytham (Umm Muhammad)\IMG-20251002-WA0014.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: SUCCESS_CLICKED
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Start Fundraiser
+Step 2/4
+Who is this fundraiser for?
+Yourself
+Keep every donation for your cause. Funds go straight to your bank account.
+Someone Else
+Support a loved one or help a friend in need. Donations can be sent directly to them or managed by you.
+Charity
+Raise donations for nonprofits or communities in your neighborhood. Donations can be sent directly to the organization.
+Back
+Next
+á
+If you are looking for a cause to connectá Sea
+FAILURE: Campaign 'Help Muhammad support his family of seven in Gaza' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Ehsan mother of three and pregnant in Gaza, Palestine ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Ehsan', 'Gaza', 'Palestine']
+Found folder match: Ehsan ( Om Hassan)
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Ehsan ( Om Hassan)\WhatsApp Image 2025-09-11 α 21.57.53_6f47e44a.jpg
+Step 1 execution...
+Step 1 Result: None
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: ERROR: TITLE_INPUT_NOT_FOUND
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Ehsan ( Om Hassan)\WhatsApp Image 2025-09-11 α 21.57.53_6f47e44a.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: SUCCESS_CLICKED
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Start Fundraiser
+Step 2/4
+Who is this fundraiser for?
+Yourself
+Keep every donation for your cause. Funds go straight to your bank account.
+Someone Else
+Support a loved one or help a friend in need. Donations can be sent directly to them or managed by you.
+Charity
+Raise donations for nonprofits or communities in your neighborhood. Donations can be sent directly to the organization.
+Back
+Next
+á
+If you are looking for a cause to connectá Sea
+FAILURE: Campaign 'Help Ehsan mother of three and pregnant in Gaza, Palestine' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Samir, father of four survive in Gaza, Palestine ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Samir', 'Gaza', 'Palestine']
+Found folder match: Mohamed Samir
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Mohamed Samir\WhatsApp Image 2025-09-03 α 21.45.21_cd86aafc.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: ERROR: TITLE_INPUT_NOT_FOUND
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Mohamed Samir\WhatsApp Image 2025-09-03 α 21.45.21_cd86aafc.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: SUCCESS_CLICKED
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Start Fundraiser
+Step 2/4
+Who is this fundraiser for?
+Yourself
+Keep every donation for your cause. Funds go straight to your bank account.
+Someone Else
+Support a loved one or help a friend in need. Donations can be sent directly to them or managed by you.
+Charity
+Raise donations for nonprofits or communities in your neighborhood. Donations can be sent directly to the organization.
+Back
+Next
+á
+If you are looking for a cause to connectá Sea
+FAILURE: Campaign 'Help Samir, father of four survive in Gaza, Palestine' failed verification. Marking as failed_debug for now.
+
+--- [START] Help sister Nagham provide for her brother and her parents in Gaza ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Nagham', 'Gaza']
+Found folder match: Iniative for Children in Gaza
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Iniative for Children in Gaza\WhatsApp Image 2025-09-21 α 19.49.35_37daf889.jpg
+Step 1 execution...
+Step 1 Result: None
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: ERROR: TITLE_INPUT_NOT_FOUND
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Iniative for Children in Gaza\WhatsApp Image 2025-09-21 α 19.49.35_37daf889.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: SUCCESS_CLICKED
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Start Fundraiser
+Step 2/4
+Who is this fundraiser for?
+Yourself
+Keep every donation for your cause. Funds go straight to your bank account.
+Someone Else
+Support a loved one or help a friend in need. Donations can be sent directly to them or managed by you.
+Charity
+Raise donations for nonprofits or communities in your neighborhood. Donations can be sent directly to the organization.
+Back
+Next
+á
+If you are looking for a cause to connectá Sea
+FAILURE: Campaign 'Help sister Nagham provide for her brother and her parents in Gaza' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Fares recover and help his family in Gaza ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Fares', 'Gaza']
+Found folder match: Fares (Ahmad Madge)
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Fares (Ahmad Madge)\WhatsApp Image 2025-03-30 α 16.48.18_64c3fe37.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: ERROR: TITLE_INPUT_NOT_FOUND
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Fares (Ahmad Madge)\WhatsApp Image 2025-03-30 α 16.48.18_64c3fe37.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: SUCCESS_CLICKED
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Start Fundraiser
+Step 2/4
+Who is this fundraiser for?
+Yourself
+Keep every donation for your cause. Funds go straight to your bank account.
+Someone Else
+Support a loved one or help a friend in need. Donations can be sent directly to them or managed by you.
+Charity
+Raise donations for nonprofits or communities in your neighborhood. Donations can be sent directly to the organization.
+Back
+Next
+á
+If you are looking for a cause to connectá Sea
+FAILURE: Campaign 'Help Fares recover and help his family in Gaza' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Hisham rebuild a life in dignity in Gaza ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Hisham', 'Gaza']
+Found folder match: Hisham Nazir Farih Muheisen
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Hisham Nazir Farih Muheisen\IMG-20250928-WA0028.jpg
+Step 1 execution...
+Step 1 Result: None
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: ERROR: TITLE_INPUT_NOT_FOUND
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Hisham Nazir Farih Muheisen\IMG-20250928-WA0028.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: SUCCESS_CLICKED
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Start Fundraiser
+Step 2/4
+Who is this fundraiser for?
+Yourself
+Keep every donation for your cause. Funds go straight to your bank account.
+Someone Else
+Support a loved one or help a friend in need. Donations can be sent directly to them or managed by you.
+Charity
+Raise donations for nonprofits or communities in your neighborhood. Donations can be sent directly to the organization.
+Back
+Next
+á
+If you are looking for a cause to connectá Sea
+FAILURE: Campaign 'Help Hisham rebuild a life in dignity in Gaza' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Khalil's mother provide her son a good life in Gaza ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', "Khalil's", 'Gaza']
+Found folder match: Iniative for Children in Gaza
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Iniative for Children in Gaza\WhatsApp Image 2025-09-21 α 19.49.35_37daf889.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: ERROR: TITLE_INPUT_NOT_FOUND
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Iniative for Children in Gaza\WhatsApp Image 2025-09-21 α 19.49.35_37daf889.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: SUCCESS_CLICKED
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Start Fundraiser
+Step 2/4
+Who is this fundraiser for?
+Yourself
+Keep every donation for your cause. Funds go straight to your bank account.
+Someone Else
+Support a loved one or help a friend in need. Donations can be sent directly to them or managed by you.
+Charity
+Raise donations for nonprofits or communities in your neighborhood. Donations can be sent directly to the organization.
+Back
+Next
+á
+If you are looking for a cause to connectá Sea
+FAILURE: Campaign 'Help Khalil's mother provide her son a good life in Gaza' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Lina mother of two surviving without a shelter in Gaza ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Lina', 'Gaza']
+Found folder match: Lina
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Lina\WhatsApp Image 2025-09-16 α 05.08.39_85223ae5.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: ERROR: TITLE_INPUT_NOT_FOUND
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Lina\WhatsApp Image 2025-09-16 α 05.08.39_85223ae5.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: SUCCESS_CLICKED
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Start Fundraiser
+Step 2/4
+Who is this fundraiser for?
+Yourself
+Keep every donation for your cause. Funds go straight to your bank account.
+Someone Else
+Support a loved one or help a friend in need. Donations can be sent directly to them or managed by you.
+Charity
+Raise donations for nonprofits or communities in your neighborhood. Donations can be sent directly to the organization.
+Back
+Next
+á
+If you are looking for a cause to connectá Sea
+FAILURE: Campaign 'Help Lina mother of two surviving without a shelter in Gaza' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Sister Reem's son with skin condition and survival in Gaza ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Sister', "Reem's", 'Gaza']
+Found folder match: Our sister
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Our sister\WhatsApp Image 2025-09-24 α 06.30.52_e02551f1.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: ERROR: TITLE_INPUT_NOT_FOUND
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Our sister\WhatsApp Image 2025-09-24 α 06.30.52_e02551f1.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: SUCCESS_CLICKED
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Start Fundraiser
+Step 2/4
+Who is this fundraiser for?
+Yourself
+Keep every donation for your cause. Funds go straight to your bank account.
+Someone Else
+Support a loved one or help a friend in need. Donations can be sent directly to them or managed by you.
+Charity
+Raise donations for nonprofits or communities in your neighborhood. Donations can be sent directly to the organization.
+Back
+Next
+á
+If you are looking for a cause to connectá Sea
+FAILURE: Campaign 'Help Sister Reem's son with skin condition and survival in Gaza' failed verification. Marking as failed_debug for now.
+
+--- [START] Help Mohammed his family of 9 surviving in Gaza ---
+Navigation attempt 1...
+Navigation command acknowledged.
+Page loaded (found text or button).
+Searching local images for campaign title parts...
+Looking for names: ['Help', 'Mohammed', 'Gaza']
+Found folder match: Abdullah Mohammed
+Valid local image match: C:\Users\gaelf\Pictures\GAZA\Abdullah Mohammed\WhatsApp Image 2025-09-18 α 12.56.39_d7d87198.jpg
+Step 1 execution...
+Step 1 Result: SUCCESS
+Step 2 execution...
+Step 2 Result: SUCCESS
+Step 3 execution...
+Step 3 Details: ERROR: TITLE_INPUT_NOT_FOUND
+Uploading image: C:\Users\gaelf\Pictures\GAZA\Abdullah Mohammed\WhatsApp Image 2025-09-18 α 12.56.39_d7d87198.jpg
+Image upload command sent.
+Step 4: Executing final click...
+Final click result: SUCCESS_CLICKED
+Final URL after save: https://whydonate.com/fundraising/start
+STILL ON START PAGE - Submission likely failed or was blocked by validation.
+VISIBLE ERRORS: []
+Page Snippet: right_panel_open
+view_cozy
+search
+Search
+Start Fundraiser
+Start Fundraiser
+Step 2/4
+Who is this fundraiser for?
+Yourself
+Keep every donation for your cause. Funds go straight to your bank account.
+Someone Else
+Support a loved one or help a friend in need. Donations can be sent directly to them or managed by you.
+Charity
+Raise donations for nonprofits or communities in your neighborhood. Donations can be sent directly to the organization.
+Back
+Next
+á
+If you are looking for a cause to connectá Sea
+FAILURE: Campaign 'Help Mohammed his family of 9 surviving in Gaza' failed verification. Marking as failed_debug for now.
+Traceback (most recent call last):
+  File "C:\Users\gaelf\Documents\GitHub\local_ai_campaign_assistant\scripts\batch_create_campaigns.py", line 609, in <module>
+  File "C:\Users\gaelf\Documents\GitHub\local_ai_campaign_assistant\scripts\batch_create_campaigns.py", line 585, in main
+    continue
+      ^^^^^^
+  File "C:\Users\gaelf\Documents\GitHub\local_ai_campaign_assistant\scripts\batch_create_campaigns.py", line 150, in process_campaign
+    return None
+  File "C:\Users\gaelf\miniconda3\Lib\encodings\cp1252.py", line 19, in encode
+    return codecs.charmap_encode(input,self.errors,encoding_table)[0]
+           ~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+UnicodeEncodeError: 'charmap' codec can't encode character '\U0001f349' in position 65: character maps to <undefined>
