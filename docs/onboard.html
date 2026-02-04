@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting to Onboarding Portal...</title>
+    <script>
+        // This URL is automatically updated by the local monitor service
+        const destination = "https://thirty-con-expensive-landscapes.trycloudflare.com";
+
+        // Preserve the path (e.g. /onboard/123)
+        const path = window.location.search || window.location.hash || "";
+        // Note: GitHub Pages often treats URL parameters/paths differently, 
+        // but for our simple /onboard/PHONE case, we might need to handle it carefully.
+        // If the user visits .../onboard?id=123, search is available.
+        // If the user visits .../onboard/123, it might ideally be caught by 404.html hack or similar, 
+        // BUT for simplicity in this specific "stable link" use case:
+
+        // The messages are generated as: https://dours-d.github.io/local_ai_campaign_assistant/onboard
+        // We probably want to pass the phone number. 
+        // Ideally, the stable link in the SMS is just the base portal, OR we use query params.
+
+        // Let's assume the destination is the base URL.
+        // If we want to support specific paths, we need to grab them from the current URL.
+        // For now, let's redirect to the base portal + any query parameters.
+
+        window.location.replace(destination + window.location.search);
+    </script>
+</head>
+
+<body>
+    <p>Redirecting to secure portal: <a href="#" id="link">Click here if not redirected</a></p>
+    <script>
+        document.getElementById("link").href = destination + window.location.search;
+    </script>
+</body>
+
+</html>
