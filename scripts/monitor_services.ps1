@@ -38,24 +38,28 @@ while ($true) {
             $TunnelLog = Get-Content "data/tunnel.log" -Tail 100 | Out-String
             if ($TunnelLog -match "https://[a-z0-9-]+\.trycloudflare\.com") {
                 $CurrentUrl = $matches[0]
-                $HtmlPath = "docs/onboard.html"
+                $CurrentUrl = $matches[0]
+                $TargetFile = "docs/index.md"
                 
-                if (Test-Path $HtmlPath) {
-                    $HtmlContent = Get-Content $HtmlPath -Raw
-                    # Extract the destination URL from the HTML file
-                    if ($HtmlContent -match 'const destination = "([^"]+)";') {
+                if (Test-Path $TargetFile) {
+                    $Content = Get-Content $TargetFile -Raw
+                    # Regex to find the javascript variable definition
+                    if ($Content -match 'var destination = "([^"]+)";') {
                         $StoredUrl = $matches[1]
                          
                         if ($StoredUrl -ne $CurrentUrl) {
-                            Write-Log "Tunnel URL changed to $CurrentUrl. Updating GitHub Pages..."
-                            $NewHtml = $HtmlContent -replace 'const destination = "[^"]+";', "const destination = `"$CurrentUrl`";"
-                            Set-Content -Path $HtmlPath -Value $NewHtml
+                            Write-Log "Tunnel URL changed to $CurrentUrl. Updating $TargetFile..."
+                            $NewContent = $Content -replace 'var destination = "[^"]+";', "var destination = `"$CurrentUrl`";"
+                            Set-Content -Path $TargetFile -Value $NewContent
                              
-                            # Git Automation (Explicit check for git)
+                            # Git Automation
                             if (Get-Command git -ErrorAction SilentlyContinue) {
-                                Write-Log "Tunnel URL changed to $CurrentUrl. Committing updates..."
-                                git add $HtmlPath
-                                git commit -m "Auto-update tunnel URL to $CurrentUrl"
+                                Write-Log "Committing direct link update to GitHub..."
+                                git add $TargetFile
+                                # Remove data file if it exists, as we are deprecated it to avoid confusion
+                                if (Test-Path "docs/_data/tunnel.yml") { git rm "docs/_data/tunnel.yml" -ErrorAction SilentlyContinue }
+                                
+                                git commit -m "Auto-update tunnel URL in index.md"
                                 git push
                                 Write-Log "GitHub Pages updated successfully."
                             }
