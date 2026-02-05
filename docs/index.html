@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Redirecting to Onboarding Portal...</title>
+    <script>
+        const destination = "https://fellow-blonde-automatically-cordless.trycloudflare.com";
+        const search = window.location.search || "";
+        window.location.replace(destination + search);
+    </script>
+</head>
+
+<body>
+    <p>Redirecting to secure portal: <a href="#" id="link">Click here if not redirected</a></p>
+    <script>
+        const destinationLink = "https://fellow-blonde-automatically-cordless.trycloudflare.com";
+        document.getElementById("link").href = destinationLink + window.location.search;
+    </script>
+</body>
+
+</html>
