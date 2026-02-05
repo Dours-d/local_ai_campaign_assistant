@@ -4,7 +4,8 @@ from sovereign_vault import SovereignVault
 
 DATA_FILE = "data/potential_beneficiaries.json"
 OUTPUT_FILE = "data/onboarding_messages.txt"
-PORTAL_URL = "https://dours-d.github.io/local-ai-campaign-assistant/index.html"
+PORTAL_URL = "https://dours-d.github.io/local_ai_campaign_assistant/#"
+VIRAL_URL = "https://bit.ly/g-gz-resi-fund"
 
 def generate_messages():
     if not os.path.exists(DATA_FILE):
@@ -64,8 +65,9 @@ def generate_messages():
         # Arabic Section (Polite & Direct)
         msg += f"السلام عليكم ورحمة الله.\n\n"
         msg += f"نتواصل معك لتقديم الدعم في تفعيل ووصول قصتك إلى الداعمين حول العالم. حتى لو لم تكن متأكداً تماماً من الخطوات الآن، فقد قمنا بإعداد هذا المسار لمساعدتك في بناء حملتك.\n\n"
+        msg += f"⚠️ **ملاحظة تقنية هامة**: هذا النظام يعمل من سيرفر خاص لضمان أمن بياناتك. إذا لم يفتح الرابط معك فوراً، فهذا يعني أن السيرفر في وضع الصيانة المؤقتة. يرجى المحاولة مرة أخرى في وقت لاحق من اليوم، وسيعمل بإذن الله.\n\n"
         msg += f"أنت صاحب هذه القصة. يرجى استخدام الرابط الخاص بك لإضافة تفاصيلك وصورك. كما يمكنك تزويدنا بعنوان محفظتك الرقمية الخاصة إذا كنت تملك واحدة:\n"
-        msg += f"{PORTAL_URL}?u={name}\n\n"
+        msg += f"{PORTAL_URL}/onboard/{name}\n\n"
         msg += "إدارة المساعدات والسيادة الرقمية:\n"
         msg += f"- 'محفظة رقمية مخصصة': {address}\n"
         msg += "  هذا العنوان مخصص حصراً لتأمين المبالغ التي تُجمع لقصتك.\n"
@@ -77,15 +79,16 @@ def generate_messages():
         msg += "- سيادة كاملة: أنت تعدّل قصتك ونحن نقوم بتحديثها فوراً في الصندوق العالمي.\n"
         
         msg += f"\nمبادرة الجيران: إذا كنت تعرف أشخاصاً آخرين في حاجة ماسة، يمكنك مشاركة هذا الرابط العام معهم للبدء في توثيق قصتهم:\n"
-        msg += f"{PORTAL_URL}\n"
+        msg += f"{VIRAL_URL}\n"
         
         msg += "\n" + "-"*30 + "\n"
         
         # English Section (Strict & Professional)
         msg += f"Salam Alaykum.\n\n"
         msg += f"We are reaching out to support you in activating your story and reaching donors globally. Even if you are not yet fully aware of the process, we have established this path to assist you in building your campaign.\n\n"
+        msg += f"⚠️ **Important Technical Note**: This system runs on a secure private server to protect your data. If the link does not open immediately, the server may be in temporary maintenance. Please try again at different times of the day, and it will work.\n\n"
         msg += f"You are the author of your own story. Use your unique link to provide details and photos. You may also provide your own personal digital wallet address if you have one:\n"
-        msg += f"{PORTAL_URL}/{name}\n\n"
+        msg += f"{PORTAL_URL}/onboard/{name}\n\n"
         msg += "Fund Management & Legal Safety:\n"
         msg += f"- Your Personal 'Digital Wallet' (Address): {address}\n"
         msg += f"  This is your dedicated address for aid accumulation.\n"
@@ -97,7 +100,7 @@ def generate_messages():
         msg += "- Direct Participation: You edit your story, we sync it instantly to the Global Fund.\n"
         
         msg += f"\nCommunity Viral Window: If you know others who also need support, you can share this general link with them to start their own journey:\n"
-        msg += f"{PORTAL_URL}\n"
+        msg += f"{VIRAL_URL}\n"
         
         msg += "----------------------------\n\n"
         messages.append(msg)
