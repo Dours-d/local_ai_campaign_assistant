@@ -1,6 +1,8 @@
 
 import os
 import json
+import hashlib
+import base58
 from eth_account import Account
 from dotenv import load_dotenv
 
@@ -37,13 +39,19 @@ class SovereignVault:
             try:
                 with open(VAULT_MAPPING, 'r') as f:
                     self.mapping = json.load(f)
-            except json.JSONDecodeError:
+            except (json.JSONDecodeError, StopIteration):
                 self.mapping = {}
+
+    def eth_to_tron(self, eth_address):
+        """Converts an Ethereum-style 0x address to a TRON address."""
+        address_bytes = bytes.fromhex(eth_address[2:])
+        prefixed_address = b'\x41' + address_bytes
+        checksum = hashlib.sha256(hashlib.sha256(prefixed_address).digest()).digest()[:4]
+        return base58.b58encode(prefixed_address + checksum).decode()
 
     def get_address(self, beneficiary_id):
         """
         Returns a unique, provisioned USDT address for a beneficiary.
-        Enforces a 1-person-1-address policy.
         """
         if beneficiary_id in self.mapping:
             return self.mapping[beneficiary_id]["address"]
@@ -56,34 +64,39 @@ class SovereignVault:
         self.mapping[beneficiary_id] = {
             "address": address,
             "status": "Self-Custody",
-            "network": "USDT-External"
+            "network": "USDT-TRC20-External"
         }
         self.save_mapping()
 
     def provision_new_address(self, beneficiary_id):
         """
-        Derives a new HD wallet address at the next available index.
+        Derives a new TRON HD wallet address at the next available index.
+        Uses the standard BIP44 path for TRON: m/44'/195'/0'/0/index
         """
         if beneficiary_id in self.mapping:
             return self.mapping[beneficiary_id]["address"]
 
         # Derive new address at the next available index
         index = len(self.mapping)
-        path = f"m/44'/60'/0'/0/{index}"
+        path = f"m/44'/195'/0'/0/{index}"
         
         try:
+            # We use eth_account to derive the key, then format it as TRON
             acct = Account.from_mnemonic(self.mnemonic, account_path=path)
+            tron_address = self.eth_to_tron(acct.address)
+            
             self.mapping[beneficiary_id] = {
-                "address": acct.address,
+                "address": tron_address,
+                "eth_compat_address": acct.address, # Keep for internal reference
                 "index": index,
                 "path": path,
                 "status": "Provisional",
-                "network": "USDT-ERC20/BEP20/Polygon"
+                "network": "USDT-TRC20"
             }
             self.save_mapping()
-            return acct.address
+            return tron_address
         except Exception as e:
-            print(f"Error deriving address: {e}")
+            print(f"Error deriving TRON address: {e}")
             return None
 
     def save_mapping(self):
@@ -93,7 +106,4 @@ class SovereignVault:
 
 if __name__ == "__main__":
     vault = SovereignVault()
-    print("Sovereign Vault Initialized.")
-    # Example usage:
-    # addr = vault.get_address("Test-User-001")
-    # print(f"Provisioned Address: {addr}")
+    print("Sovereign Vault Initialized for TRON/TRC20.")
