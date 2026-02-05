@@ -123,8 +123,8 @@ def upload_file():
             if not exists:
                 submission_data["files"].append({
                     "path": file_path,
-                    "is_flagged": is_flagged,
-                    "blood_density": blood_density
+                    "is_flagged": bool(is_flagged),
+                    "blood_density": float(blood_density)
                 })
                 if is_flagged:
                     submission_data["flagged_for_review"] = True
