@@ -12,7 +12,7 @@ This portal ensures secure access to your local AI campaign assistant.
 
 <script>
   // Read the URL directly injected by the monitoring script
-  var destination = "https://dours-laptop-2cli8k04.tail482749.ts.net";
+  var destination = "https://sight-moderator-easter-framing.trycloudflare.com";
   
   // Handle Deep Linking via Hash (e.g. https://gd-pages/#/onboard/123 -> https://tunnel/onboard/123)
   var hash = window.location.hash;
@@ -33,4 +33,5 @@ This portal ensures secure access to your local AI campaign assistant.
     window.location.replace(finalUrl);
   }, 1000); 
 </script>
+
 
