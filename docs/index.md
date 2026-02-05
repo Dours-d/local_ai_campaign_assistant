@@ -12,7 +12,7 @@ This portal ensures secure access to your local AI campaign assistant.
 
 <script>
   // Read the URL directly injected by the monitoring script
-  var destination = "https://beautiful-civil-joined-careers.trycloudflare.com";
+  var destination = "https://significant-folks-predicted-eat.trycloudflare.com";
   var search = window.location.search || "";
   var finalUrl = destination + search;
 
