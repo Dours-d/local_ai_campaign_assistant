@@ -250,11 +250,11 @@
                 btn_next: "Next",
                 step3_title: "Final Review",
                 step3_desc: "Your unique Profile ID will be assigned upon documentation sync.",
-                label_whatsapp: "WhatsApp (Optional)",
+                label_whatsapp: "WhatsApp",
                 placeholder_whatsapp: "+970 ...",
-                whatsapp_help: "Optional: Provide a number if you'd like us to reach out.",
+                whatsapp_help: "You can provide a number if you'd like us to reach out (completely optional).",
                 error_invalid_phone: "Note: Phone numbers usually start with +.",
-                label_name: "Preferred Name (Optional)",
+                label_name: "Preferred Name",
                 placeholder_name: "First Name Only",
                 label_wallet: "Your Digital Wallet (Optional)",
                 placeholder_wallet: "USDT Address (TRC20)",
@@ -295,11 +295,11 @@
                 btn_next: "التالي",
                 step3_title: "المراجعة النهائية",
                 step3_desc: "سيتم تخصيص رقم تعريفي فريد لك عند مزامنة المستندات.",
-                label_whatsapp: "واتساب (اختياري)",
+                label_whatsapp: "واتساب",
                 placeholder_whatsapp: "+970 ...",
-                whatsapp_help: "اختياري: زودنا برقم إذا كنت ترغب في التواصل معك.",
+                whatsapp_help: "يمكنك تزويدنا برقم إذا كنت ترغب في التواصل معك (اختياري تماماً).",
                 error_invalid_phone: "ملاحظة: تبدأ أرقام الهاتف عادة بـ +.",
-                label_name: "الاسم المفضل (اختياري)",
+                label_name: "الاسم المفضل",
                 placeholder_name: "الاسم الأول فقط",
                 label_wallet: "محفظتك الرقمية (اختياري)",
                 placeholder_wallet: "عنوان USDT (TRC20)",
@@ -405,19 +405,23 @@
             }
 
             try {
+                console.log('Starting upload for beneficiary:', beneficiaryId);
                 const response = await fetch('/upload', {
                     method: 'POST',
                     body: formData
                 });
 
                 if (response.ok) {
+                    console.log('Upload successful');
                     nextStep('success');
                 } else {
-                    const errorMsg = currentLang === 'ar' ? 'فشل الإرسال. يرجى المحاولة مرة أخرى.' : 'Submission failed. Please try again.';
+                    const status = response.status;
+                    console.error('Upload failed with status:', status);
+                    const errorMsg = currentLang === 'ar' ? `فشل الإرسال (Error ${status}). يرجى المحاولة مرة أخرى.` : `Submission failed (Error ${status}). Please try again.`;
                     alert(errorMsg);
                 }
             } catch (error) {
-                console.error('Error:', error);
+                console.error('Fetch error:', error);
                 const errorMsg = currentLang === 'ar' ? 'حدث خطأ في الاتصال. يرجى المحاولة مرة أخرى.' : 'Connection error. Please try again.';
                 alert(errorMsg);
             }

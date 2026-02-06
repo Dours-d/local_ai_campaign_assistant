@@ -8,6 +8,7 @@ from blood_detect import check_for_blood
 
 app = Flask(__name__, static_folder="../onboarding", static_url_path="")
 CORS(app)
+app.config['MAX_CONTENT_LENGTH'] = 50 * 1024 * 1024  # 50MB limit
 app.secret_key = os.getenv("ADMIN_SECRET_KEY", "sovereign_fallback_key_123")
 ADMIN_PASSWORD = os.getenv("ADMIN_PASSWORD", "admin123")
 
