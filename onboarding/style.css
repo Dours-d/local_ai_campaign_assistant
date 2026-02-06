@@ -23,9 +23,12 @@ body {
     color: var(--text-main);
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
+    /* Fix: flex-start prevents top/bottom clipping */
     min-height: 100vh;
     overflow-x: hidden;
+    padding: 20px 0;
+    /* Add padding for breathing room */
 }
 
 .container {
@@ -39,7 +42,15 @@ body {
     padding: 48px;
     box-shadow: 0 40px 100px -20px rgba(0, 0, 0, 0.7);
     animation: slideUpFade 0.7s cubic-bezier(0.16, 1, 0.3, 1);
-    margin: 20px;
+    margin: auto;
+    /* Ensure it stays centered but scrollable */
+}
+
+/* Loading State */
+button:disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+    filter: grayscale(0.5);
 }
 
 @keyframes slideUpFade {
