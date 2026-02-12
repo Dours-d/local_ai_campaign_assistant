@@ -1,0 +1,3928 @@
+{
+  "Marah-002": {
+    "raised_gross_eur": 50.0,
+    "chuffed_raised_eur": 50.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 12.5,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 37.5,
+    "campaigns": [
+      "chuffed_133129"
+    ]
+  },
+  "Akram-002": {
+    "raised_gross_eur": 294.57,
+    "chuffed_raised_eur": 294.57,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 73.64,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 220.93,
+    "campaigns": [
+      "chuffed_143463"
+    ]
+  },
+  "Raghad": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_147916"
+    ]
+  },
+  "Umm Ahmed-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_140648"
+    ]
+  },
+  "Ahmed-013": {
+    "raised_gross_eur": 284.43,
+    "chuffed_raised_eur": 284.43,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 71.11,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 213.32,
+    "campaigns": [
+      "chuffed_150870"
+    ]
+  },
+  "Moataz-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_141745"
+    ]
+  },
+  "Redemption": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_151030"
+    ]
+  },
+  "Mohammed-001": {
+    "raised_gross_eur": 390.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 390.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 97.5,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 292.5,
+    "campaigns": [
+      "whydonate_support-mohammed-al-louh,-a-father-of-seven-from-g"
+    ]
+  },
+  "Wesam": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_128734"
+    ]
+  },
+  "Akram-003": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_150060"
+    ]
+  },
+  "Hamdi-002": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_152475"
+    ]
+  },
+  "Marouf": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_152420"
+    ]
+  },
+  "Mohammed-011": {
+    "raised_gross_eur": 5614.7,
+    "chuffed_raised_eur": 5614.7,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 1403.67,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 4211.02,
+    "campaigns": [
+      "chuffed_144118"
+    ]
+  },
+  "Maryam-001": {
+    "raised_gross_eur": 10.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 10.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 2.5,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 7.5,
+    "campaigns": [
+      "whydonate_help-maryam-ahmed-&-her-sister-survive-starvation-"
+    ]
+  },
+  "Nagham": {
+    "raised_gross_eur": 25.0,
+    "chuffed_raised_eur": 25.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 6.25,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 18.75,
+    "campaigns": [
+      "chuffed_149061"
+    ]
+  },
+  "Amir": {
+    "raised_gross_eur": 175.95,
+    "chuffed_raised_eur": 175.95,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 43.99,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 131.96,
+    "campaigns": [
+      "chuffed_144854"
+    ]
+  },
+  "Abu Abdul-001": {
+    "raised_gross_eur": 78.6,
+    "chuffed_raised_eur": 78.6,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 19.65,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 58.95,
+    "campaigns": [
+      "chuffed_149886"
+    ]
+  },
+  "Um Youssef-001": {
+    "raised_gross_eur": 295.85,
+    "chuffed_raised_eur": 295.85,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 73.96,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 221.89,
+    "campaigns": [
+      "chuffed_150423"
+    ]
+  },
+  "Hisham-001": {
+    "raised_gross_eur": 140.0,
+    "chuffed_raised_eur": 140.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 35.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 105.0,
+    "campaigns": [
+      "chuffed_149369"
+    ]
+  },
+  "Amna": {
+    "raised_gross_eur": 40.0,
+    "chuffed_raised_eur": 40.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 10.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 30.0,
+    "campaigns": [
+      "chuffed_151971"
+    ]
+  },
+  "Ahmed-005": {
+    "raised_gross_eur": 2155.82,
+    "chuffed_raised_eur": 2155.82,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 538.96,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 1616.87,
+    "campaigns": [
+      "chuffed_138292"
+    ]
+  },
+  "Hanin-003": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_151378"
+    ]
+  },
+  "Hazem": {
+    "raised_gross_eur": 128.21,
+    "chuffed_raised_eur": 128.21,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 32.05,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 96.16,
+    "campaigns": [
+      "chuffed_152161"
+    ]
+  },
+  "Muhammad-001": {
+    "raised_gross_eur": 43.28,
+    "chuffed_raised_eur": 43.28,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 10.82,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 32.46,
+    "campaigns": [
+      "chuffed_133327"
+    ]
+  },
+  "Ahmed-016": {
+    "raised_gross_eur": 783.79,
+    "chuffed_raised_eur": 783.79,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 195.95,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 587.84,
+    "campaigns": [
+      "chuffed_151256"
+    ]
+  },
+  "Bilal": {
+    "raised_gross_eur": 712.05,
+    "chuffed_raised_eur": 712.05,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 178.01,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 534.04,
+    "campaigns": [
+      "chuffed_147592"
+    ]
+  },
+  "Abu Haytham-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_152352"
+    ]
+  },
+  "Mohammed-014": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_151174"
+    ]
+  },
+  "Wissam": {
+    "raised_gross_eur": 111.21,
+    "chuffed_raised_eur": 111.21,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 27.8,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 83.41,
+    "campaigns": [
+      "chuffed_151172"
+    ]
+  },
+  "Stand-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_149809"
+    ]
+  },
+  "Rania": {
+    "raised_gross_eur": 5536.12,
+    "chuffed_raised_eur": 5536.12,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 1384.03,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 4152.09,
+    "campaigns": [
+      "chuffed_138558"
+    ]
+  },
+  "Rashad": {
+    "raised_gross_eur": 3165.61,
+    "chuffed_raised_eur": 3165.61,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 791.4,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 2374.21,
+    "campaigns": [
+      "chuffed_148184"
+    ]
+  },
+  "Sahar-002": {
+    "raised_gross_eur": 50.0,
+    "chuffed_raised_eur": 50.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 12.5,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 37.5,
+    "campaigns": [
+      "chuffed_146255"
+    ]
+  },
+  "Wafaa-002": {
+    "raised_gross_eur": 285.38,
+    "chuffed_raised_eur": 285.38,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 71.34,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 214.03,
+    "campaigns": [
+      "chuffed_149154"
+    ]
+  },
+  "Noor-002": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_153158"
+    ]
+  },
+  "Reems-005": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_152501"
+    ]
+  },
+  "Jamil": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_126990"
+    ]
+  },
+  "Youssef-001": {
+    "raised_gross_eur": 111.15,
+    "chuffed_raised_eur": 111.15,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 27.79,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 83.36,
+    "campaigns": [
+      "chuffed_130822"
+    ]
+  },
+  "Zina-002": {
+    "raised_gross_eur": 2975.02,
+    "chuffed_raised_eur": 2975.02,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 743.75,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 2231.26,
+    "campaigns": [
+      "chuffed_132501"
+    ]
+  },
+  "Aya-003": {
+    "raised_gross_eur": 1638.01,
+    "chuffed_raised_eur": 1638.01,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 409.5,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 1228.51,
+    "campaigns": [
+      "chuffed_138859"
+    ]
+  },
+  "Hamed": {
+    "raised_gross_eur": 206.17,
+    "chuffed_raised_eur": 206.17,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 51.54,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 154.63,
+    "campaigns": [
+      "chuffed_131832"
+    ]
+  },
+  "Nermin": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_150149"
+    ]
+  },
+  "Martyr": {
+    "raised_gross_eur": 231.48,
+    "chuffed_raised_eur": 231.48,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 57.87,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 173.61,
+    "campaigns": [
+      "chuffed_146029"
+    ]
+  },
+  "Ahmed-014": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_151267"
+    ]
+  },
+  "Gazas-002": {
+    "raised_gross_eur": 398.35,
+    "chuffed_raised_eur": 398.35,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 99.59,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 298.76,
+    "campaigns": [
+      "chuffed_150566"
+    ]
+  },
+  "Khaled-002": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_135257"
+    ]
+  },
+  "Noor-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_146553"
+    ]
+  },
+  "Family-007": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_151040"
+    ]
+  },
+  "A\u00efsha": {
+    "raised_gross_eur": 25.0,
+    "chuffed_raised_eur": 25.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 6.25,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 18.75,
+    "campaigns": [
+      "chuffed_150787"
+    ]
+  },
+  "Alaa-002": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_147385"
+    ]
+  },
+  "Duaa-001": {
+    "raised_gross_eur": 405.0,
+    "chuffed_raised_eur": 405.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 101.25,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 303.75,
+    "campaigns": [
+      "chuffed_136985"
+    ]
+  },
+  "Anonymous": {
+    "raised_gross_eur": 74.93,
+    "chuffed_raised_eur": 74.93,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 18.73,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 56.2,
+    "campaigns": [
+      "chuffed_145051"
+    ]
+  },
+  "Ayad": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_129083"
+    ]
+  },
+  "Maysun": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_150382"
+    ]
+  },
+  "Dana": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_140322"
+    ]
+  },
+  "Iman-003": {
+    "raised_gross_eur": 89.66,
+    "chuffed_raised_eur": 89.66,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 22.41,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 67.25,
+    "campaigns": [
+      "chuffed_150554"
+    ]
+  },
+  "Sahar-001": {
+    "raised_gross_eur": 22.43,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 22.43,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 5.61,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 16.82,
+    "campaigns": [
+      "whydonate_help-sister-sahar-with-her-family,-providing-a-sub"
+    ]
+  },
+  "Anas-003": {
+    "raised_gross_eur": 1554.86,
+    "chuffed_raised_eur": 1554.86,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 388.71,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 1166.14,
+    "campaigns": [
+      "chuffed_144377"
+    ]
+  },
+  "Suleiman-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_148631"
+    ]
+  },
+  "Nurse": {
+    "raised_gross_eur": 1593.05,
+    "chuffed_raised_eur": 1593.05,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 398.26,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 1194.79,
+    "campaigns": [
+      "chuffed_135075"
+    ]
+  },
+  "Hossam": {
+    "raised_gross_eur": 205.96,
+    "chuffed_raised_eur": 205.96,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 51.49,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 154.47,
+    "campaigns": [
+      "chuffed_141499"
+    ]
+  },
+  "Sister-002": {
+    "raised_gross_eur": 37.68,
+    "chuffed_raised_eur": 37.68,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 9.42,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 28.26,
+    "campaigns": [
+      "chuffed_149700"
+    ]
+  },
+  "Sham": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_152165"
+    ]
+  },
+  "Reems-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_152492"
+    ]
+  },
+  "Umm Abed-001": {
+    "raised_gross_eur": 62.55,
+    "chuffed_raised_eur": 62.55,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 15.64,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 46.91,
+    "campaigns": [
+      "chuffed_141387"
+    ]
+  },
+  "Fatima-002": {
+    "raised_gross_eur": 774.57,
+    "chuffed_raised_eur": 774.57,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 193.64,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 580.93,
+    "campaigns": [
+      "chuffed_145793"
+    ]
+  },
+  "Mohamad-001": {
+    "raised_gross_eur": 522.11,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 522.11,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 130.53,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 391.58,
+    "campaigns": [
+      "whydonate_help-mohamad-support-his-family-and-save-them-from"
+    ]
+  },
+  "Mohammed-007": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_133353"
+    ]
+  },
+  "Aya-001": {
+    "raised_gross_eur": 160.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 160.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 40.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 120.0,
+    "campaigns": [
+      "whydonate_help-aya-and-her-family-survive-the-bombings-and-f"
+    ]
+  },
+  "Ahed-002": {
+    "raised_gross_eur": 4180.36,
+    "chuffed_raised_eur": 4180.36,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 1045.09,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 3135.27,
+    "campaigns": [
+      "chuffed_131860"
+    ]
+  },
+  "Mohammed-003": {
+    "raised_gross_eur": 902.37,
+    "chuffed_raised_eur": 902.37,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 225.59,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 676.78,
+    "campaigns": [
+      "chuffed_126464"
+    ]
+  },
+  "Hana": {
+    "raised_gross_eur": 296.59,
+    "chuffed_raised_eur": 296.59,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 74.15,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 222.44,
+    "campaigns": [
+      "chuffed_134232"
+    ]
+  },
+  "Sami": {
+    "raised_gross_eur": 452.92,
+    "chuffed_raised_eur": 452.92,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 113.23,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 339.69,
+    "campaigns": [
+      "chuffed_146227"
+    ]
+  },
+  "Abdullah-001": {
+    "raised_gross_eur": 449.32,
+    "chuffed_raised_eur": 449.32,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 112.33,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 336.99,
+    "campaigns": [
+      "chuffed_131847"
+    ]
+  },
+  "Eman": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_151628"
+    ]
+  },
+  "Akram-001": {
+    "raised_gross_eur": 226.09,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 226.09,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 56.52,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 169.57,
+    "campaigns": [
+      "whydonate_help-akram-mahmoud-feed-his-family-in-gaza"
+    ]
+  },
+  "Muhammad-005": {
+    "raised_gross_eur": 162.65,
+    "chuffed_raised_eur": 162.65,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 40.66,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 121.99,
+    "campaigns": [
+      "chuffed_148673"
+    ]
+  },
+  "Maryam-002": {
+    "raised_gross_eur": 3947.5,
+    "chuffed_raised_eur": 3947.5,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 986.88,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 2960.62,
+    "campaigns": [
+      "chuffed_132783"
+    ]
+  },
+  "Mahmoud-003": {
+    "raised_gross_eur": 195.92,
+    "chuffed_raised_eur": 195.92,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 48.98,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 146.94,
+    "campaigns": [
+      "chuffed_139091"
+    ]
+  },
+  "Firas": {
+    "raised_gross_eur": 359.97,
+    "chuffed_raised_eur": 359.97,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 89.99,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 269.98,
+    "campaigns": [
+      "chuffed_138680"
+    ]
+  },
+  "Abdul": {
+    "raised_gross_eur": 2048.34,
+    "chuffed_raised_eur": 2048.34,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 512.09,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 1536.26,
+    "campaigns": [
+      "chuffed_131221"
+    ]
+  },
+  "Rawan": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_149502"
+    ]
+  },
+  "Abdullah-002": {
+    "raised_gross_eur": 2108.79,
+    "chuffed_raised_eur": 2108.79,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 527.2,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 1581.59,
+    "campaigns": [
+      "chuffed_149762"
+    ]
+  },
+  "Family-006": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_150326"
+    ]
+  },
+  "Abdullah-004": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_150608"
+    ]
+  },
+  "Rafat": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_148124"
+    ]
+  },
+  "Rola": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_152443"
+    ]
+  },
+  "Rozan-001": {
+    "raised_gross_eur": 10.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 10.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 2.5,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 7.5,
+    "campaigns": [
+      "whydonate_help-rozan-and-her-family-rebuild-their-lives-in-g"
+    ]
+  },
+  "Hope": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_146996"
+    ]
+  },
+  "Tekeat": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_145030"
+    ]
+  },
+  "Ibtisam-003": {
+    "raised_gross_eur": 202.86,
+    "chuffed_raised_eur": 202.86,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 50.72,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 152.15,
+    "campaigns": [
+      "chuffed_148426"
+    ]
+  },
+  "Hiba": {
+    "raised_gross_eur": 29.58,
+    "chuffed_raised_eur": 29.58,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 7.39,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 22.18,
+    "campaigns": [
+      "chuffed_152085"
+    ]
+  },
+  "Ahmed-006": {
+    "raised_gross_eur": 3482.93,
+    "chuffed_raised_eur": 3482.93,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 870.73,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 2612.2,
+    "campaigns": [
+      "chuffed_140389"
+    ]
+  },
+  "Iman-002": {
+    "raised_gross_eur": 96.78,
+    "chuffed_raised_eur": 96.78,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 24.2,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 72.59,
+    "campaigns": [
+      "chuffed_146542"
+    ]
+  },
+  "Waleed": {
+    "raised_gross_eur": 435.77,
+    "chuffed_raised_eur": 435.77,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 108.94,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 326.83,
+    "campaigns": [
+      "chuffed_149921"
+    ]
+  },
+  "Khatam-001": {
+    "raised_gross_eur": 341.25,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 341.25,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 85.31,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 255.94,
+    "campaigns": [
+      "whydonate_help-khatam-hamdi-and-her-family-of-17-survive-in-"
+    ]
+  },
+  "Fares-001": {
+    "raised_gross_eur": 3807.14,
+    "chuffed_raised_eur": 3807.14,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 951.78,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 2855.36,
+    "campaigns": [
+      "chuffed_126401"
+    ]
+  },
+  "Khalils": {
+    "raised_gross_eur": 4.17,
+    "chuffed_raised_eur": 4.17,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 1.04,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 3.13,
+    "campaigns": [
+      "chuffed_149485"
+    ]
+  },
+  "Together": {
+    "raised_gross_eur": 65.0,
+    "chuffed_raised_eur": 65.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 16.25,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 48.75,
+    "campaigns": [
+      "chuffed_138673"
+    ]
+  },
+  "Reems-006": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_152503"
+    ]
+  },
+  "Anas-001": {
+    "raised_gross_eur": 17.94,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 17.94,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 4.49,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 13.46,
+    "campaigns": [
+      "whydonate_help-anas-mohammed's-family-survive-the-destructio"
+    ]
+  },
+  "Jihan": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_132273"
+    ]
+  },
+  "Ismail": {
+    "raised_gross_eur": 907.57,
+    "chuffed_raised_eur": 907.57,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 226.89,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 680.68,
+    "campaigns": [
+      "chuffed_148498"
+    ]
+  },
+  "Shereens": {
+    "raised_gross_eur": 50.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 50.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 12.5,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 37.5,
+    "campaigns": [
+      "whydonate_help-shereen\u2019s-displaced-family-survive-the-gaza-w"
+    ]
+  },
+  "Bahaa": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_128641"
+    ]
+  },
+  "Fadi-001": {
+    "raised_gross_eur": 185.43,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 185.43,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 46.36,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 139.07,
+    "campaigns": [
+      "whydonate_help-fadi-abu-odeh-rebuild-his-family's-security"
+    ]
+  },
+  "Abu Muhammads-001": {
+    "raised_gross_eur": 100.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 100.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 25.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 75.0,
+    "campaigns": [
+      "whydonate_save-abu-muhammad's-children-from-the-engineered-s"
+    ]
+  },
+  "Umm Baha-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_136879"
+    ]
+  },
+  "Mahmoud-002": {
+    "raised_gross_eur": 3235.14,
+    "chuffed_raised_eur": 3235.14,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 808.78,
+    "payouts_completed_eur": 2776.49,
+    "unpaid_balance_eur": -350.13,
+    "campaigns": [
+      "chuffed_137168"
+    ]
+  },
+  "Shereen": {
+    "raised_gross_eur": 638.4,
+    "chuffed_raised_eur": 638.4,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 159.6,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 478.8,
+    "campaigns": [
+      "chuffed_135364"
+    ]
+  },
+  "Duaa-002": {
+    "raised_gross_eur": 997.67,
+    "chuffed_raised_eur": 997.67,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 249.42,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 748.25,
+    "campaigns": [
+      "chuffed_137373"
+    ]
+  },
+  "Abdallah": {
+    "raised_gross_eur": 91.0,
+    "chuffed_raised_eur": 91.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 22.75,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 68.25,
+    "campaigns": [
+      "chuffed_127037"
+    ]
+  },
+  "Salman": {
+    "raised_gross_eur": 1292.85,
+    "chuffed_raised_eur": 1292.85,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 323.21,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 969.64,
+    "campaigns": [
+      "chuffed_131857"
+    ]
+  },
+  "Mohammed-008": {
+    "raised_gross_eur": 95.0,
+    "chuffed_raised_eur": 95.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 23.75,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 71.25,
+    "campaigns": [
+      "chuffed_135278"
+    ]
+  },
+  "Muhammad-002": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_136636"
+    ]
+  },
+  "Khaled-004": {
+    "raised_gross_eur": 5293.65,
+    "chuffed_raised_eur": 5293.65,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 1323.41,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 3970.24,
+    "campaigns": [
+      "chuffed_149758"
+    ]
+  },
+  "Warda-001": {
+    "raised_gross_eur": 220.28,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 220.28,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 55.07,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 165.21,
+    "campaigns": [
+      "whydonate_help-sister-warda-with-her-medical-conditions-in-g"
+    ]
+  },
+  "Fadi-002": {
+    "raised_gross_eur": 516.26,
+    "chuffed_raised_eur": 516.26,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 129.06,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 387.19,
+    "campaigns": [
+      "chuffed_137395"
+    ]
+  },
+  "Rozan-002": {
+    "raised_gross_eur": 2456.67,
+    "chuffed_raised_eur": 2456.67,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 614.17,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 1842.5,
+    "campaigns": [
+      "chuffed_126471"
+    ]
+  },
+  "Zina-001": {
+    "raised_gross_eur": 60.25,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 60.25,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 15.06,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 45.19,
+    "campaigns": [
+      "whydonate_help-zina-and-her-family-rebuild-their-lives-in-ga"
+    ]
+  },
+  "Yasmine-002": {
+    "raised_gross_eur": 1535.34,
+    "chuffed_raised_eur": 1535.34,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 383.83,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 1151.5,
+    "campaigns": [
+      "chuffed_148238"
+    ]
+  },
+  "Manar": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_130875"
+    ]
+  },
+  "Muhammad-003": {
+    "raised_gross_eur": 181.61,
+    "chuffed_raised_eur": 181.61,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 45.4,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 136.21,
+    "campaigns": [
+      "chuffed_140240"
+    ]
+  },
+  "Om Ayan-001": {
+    "raised_gross_eur": 35.0,
+    "chuffed_raised_eur": 35.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 8.75,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 26.25,
+    "campaigns": [
+      "chuffed_147145"
+    ]
+  },
+  "Sharihan": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_144477"
+    ]
+  },
+  "Samirah": {
+    "raised_gross_eur": 14121.22,
+    "chuffed_raised_eur": 14121.22,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 3530.3,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 10590.91,
+    "campaigns": [
+      "chuffed_132402"
+    ]
+  },
+  "Fadda": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_148361"
+    ]
+  },
+  "Sister-001": {
+    "raised_gross_eur": 225.09,
+    "chuffed_raised_eur": 225.09,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 56.27,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 168.82,
+    "campaigns": [
+      "chuffed_149481"
+    ]
+  },
+  "Reems-004": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_152500"
+    ]
+  },
+  "Ahmed-003": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_129480"
+    ]
+  },
+  "Oday": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_131306"
+    ]
+  },
+  "Khaled-003": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_149756"
+    ]
+  },
+  "Abu AlWalid-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_147204"
+    ]
+  },
+  "Nahed": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_140313"
+    ]
+  },
+  "Five": {
+    "raised_gross_eur": 42.04,
+    "chuffed_raised_eur": 42.04,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 10.51,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 31.53,
+    "campaigns": [
+      "chuffed_150094"
+    ]
+  },
+  "Family-008": {
+    "raised_gross_eur": 4187.76,
+    "chuffed_raised_eur": 4187.76,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 1046.94,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 3140.82,
+    "campaigns": [
+      "chuffed_151966"
+    ]
+  },
+  "Ahed-001": {
+    "raised_gross_eur": 110.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 110.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 27.5,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 82.5,
+    "campaigns": [
+      "whydonate_save-ahed-and-his-family-from-the-genocide-in-gaza"
+    ]
+  },
+  "Ibtisam-004": {
+    "raised_gross_eur": 3357.18,
+    "chuffed_raised_eur": 3357.18,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 839.29,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 2517.88,
+    "campaigns": [
+      "chuffed_150134"
+    ]
+  },
+  "Ahmed-002": {
+    "raised_gross_eur": 262.43,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 262.43,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 65.61,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 196.82,
+    "campaigns": [
+      "whydonate_help-ahmed-survive-in-gaza-during-the-genocide"
+    ]
+  },
+  "Mohammeds": {
+    "raised_gross_eur": 41.43,
+    "chuffed_raised_eur": 41.43,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 10.36,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 31.07,
+    "campaigns": [
+      "chuffed_150322"
+    ]
+  },
+  "Muhammad-004": {
+    "raised_gross_eur": 9.33,
+    "chuffed_raised_eur": 9.33,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 2.33,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 7.0,
+    "campaigns": [
+      "chuffed_148010"
+    ]
+  },
+  "Ahlam": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_132288"
+    ]
+  },
+  "Ahmed-001": {
+    "raised_gross_eur": 40.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 40.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 10.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 30.0,
+    "campaigns": [
+      "whydonate_help-ahmed-o.-and-his-family-of-22-souls,-survive-"
+    ]
+  },
+  "Muhammad-006": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_148688"
+    ]
+  },
+  "Iman-004": {
+    "raised_gross_eur": 2591.83,
+    "chuffed_raised_eur": 2591.83,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 647.96,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 1943.87,
+    "campaigns": [
+      "chuffed_150866"
+    ]
+  },
+  "Warda-002": {
+    "raised_gross_eur": 220.28,
+    "chuffed_raised_eur": 220.28,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 55.07,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 165.21,
+    "campaigns": [
+      "chuffed_149672"
+    ]
+  },
+  "Lama-002": {
+    "raised_gross_eur": 435.18,
+    "chuffed_raised_eur": 435.18,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 108.8,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 326.38,
+    "campaigns": [
+      "chuffed_147369"
+    ]
+  },
+  "Om Hassan-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_148740"
+    ]
+  },
+  "Rosella": {
+    "raised_gross_eur": 963.16,
+    "chuffed_raised_eur": 963.16,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 240.79,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 722.37,
+    "campaigns": [
+      "chuffed_128714"
+    ]
+  },
+  "Mohammed-009": {
+    "raised_gross_eur": 229.79,
+    "chuffed_raised_eur": 229.79,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 57.45,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 172.34,
+    "campaigns": [
+      "chuffed_139586"
+    ]
+  },
+  "Hanin-001": {
+    "raised_gross_eur": 19.5,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 19.5,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 4.88,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 14.62,
+    "campaigns": [
+      "whydonate_help-hanin-support-her-family-and-her-injured-husb"
+    ]
+  },
+  "Shaimaa": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_142469"
+    ]
+  },
+  "Mohamed-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_147594"
+    ]
+  },
+  "Tareq": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_143400"
+    ]
+  },
+  "Alaa-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_137004"
+    ]
+  },
+  "Ahmed-009": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_143895"
+    ]
+  },
+  "Baha": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_150281"
+    ]
+  },
+  "Reda": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_143547"
+    ]
+  },
+  "Youssef-002": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_145751"
+    ]
+  },
+  "Ayas": {
+    "raised_gross_eur": 3.02,
+    "chuffed_raised_eur": 3.02,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.76,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 2.27,
+    "campaigns": [
+      "chuffed_148147"
+    ]
+  },
+  "Rami": {
+    "raised_gross_eur": 1677.25,
+    "chuffed_raised_eur": 1677.25,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 419.31,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 1257.94,
+    "campaigns": [
+      "chuffed_145225"
+    ]
+  },
+  "Hala-003": {
+    "raised_gross_eur": 94.17,
+    "chuffed_raised_eur": 94.17,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 23.54,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 70.63,
+    "campaigns": [
+      "chuffed_148348"
+    ]
+  },
+  "Mohammed-005": {
+    "raised_gross_eur": 4.36,
+    "chuffed_raised_eur": 4.36,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 1.09,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 3.27,
+    "campaigns": [
+      "chuffed_130374"
+    ]
+  },
+  "Talia": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_149848"
+    ]
+  },
+  "Alaas": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_144609"
+    ]
+  },
+  "Tasneem": {
+    "raised_gross_eur": 25.0,
+    "chuffed_raised_eur": 25.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 6.25,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 18.75,
+    "campaigns": [
+      "chuffed_128945"
+    ]
+  },
+  "Fatima-001": {
+    "raised_gross_eur": 117.38,
+    "chuffed_raised_eur": 117.38,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 29.34,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 88.03,
+    "campaigns": [
+      "chuffed_132785"
+    ]
+  },
+  "Hassan": {
+    "raised_gross_eur": 1011.13,
+    "chuffed_raised_eur": 1011.13,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 252.78,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 758.35,
+    "campaigns": [
+      "chuffed_139277"
+    ]
+  },
+  "Alaa-003": {
+    "raised_gross_eur": 174.31,
+    "chuffed_raised_eur": 174.31,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 43.58,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 130.73,
+    "campaigns": [
+      "chuffed_152064"
+    ]
+  },
+  "Samira": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_132679"
+    ]
+  },
+  "Abdullah-003": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_149915"
+    ]
+  },
+  "Family-003": {
+    "raised_gross_eur": 10880.3,
+    "chuffed_raised_eur": 10880.3,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 2720.07,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 8160.22,
+    "campaigns": [
+      "chuffed_142462"
+    ]
+  },
+  "Karam": {
+    "raised_gross_eur": 997.84,
+    "chuffed_raised_eur": 997.84,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 249.46,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 748.38,
+    "campaigns": [
+      "chuffed_143442"
+    ]
+  },
+  "Tarek": {
+    "raised_gross_eur": 99.71,
+    "chuffed_raised_eur": 99.71,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 24.93,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 74.78,
+    "campaigns": [
+      "chuffed_144305"
+    ]
+  },
+  "Siham": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_135177"
+    ]
+  },
+  "Mohammed-006": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_132722"
+    ]
+  },
+  "Mohammed-013": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_149833"
+    ]
+  },
+  "Yousef": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_149760"
+    ]
+  },
+  "Umm Sami-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_151590"
+    ]
+  },
+  "Ahmed-012": {
+    "raised_gross_eur": 1169.92,
+    "chuffed_raised_eur": 1169.92,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 292.48,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 877.44,
+    "campaigns": [
+      "chuffed_148222"
+    ]
+  },
+  "Ahmed-007": {
+    "raised_gross_eur": 409.48,
+    "chuffed_raised_eur": 409.48,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 102.37,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 307.11,
+    "campaigns": [
+      "chuffed_141692"
+    ]
+  },
+  "Ehsan": {
+    "raised_gross_eur": 70.0,
+    "chuffed_raised_eur": 70.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 17.5,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 52.5,
+    "campaigns": [
+      "chuffed_148905"
+    ]
+  },
+  "Hayam-002": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_151617"
+    ]
+  },
+  "Suleiman-002": {
+    "raised_gross_eur": 44.19,
+    "chuffed_raised_eur": 44.19,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 11.05,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 33.14,
+    "campaigns": [
+      "chuffed_151852"
+    ]
+  },
+  "Mohammed-004": {
+    "raised_gross_eur": 50.0,
+    "chuffed_raised_eur": 50.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 12.5,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 37.5,
+    "campaigns": [
+      "chuffed_128635"
+    ]
+  },
+  "Khaled-001": {
+    "raised_gross_eur": 411.92,
+    "chuffed_raised_eur": 411.92,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 102.98,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 308.94,
+    "campaigns": [
+      "chuffed_135256"
+    ]
+  },
+  "Samir-001": {
+    "raised_gross_eur": 1330.67,
+    "chuffed_raised_eur": 1330.67,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 332.67,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 998.0,
+    "campaigns": [
+      "chuffed_148975"
+    ]
+  },
+  "Ahmed-004": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_129858"
+    ]
+  },
+  "Ibrahim": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_136915"
+    ]
+  },
+  "Gazas-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_149908"
+    ]
+  },
+  "Hanan-002": {
+    "raised_gross_eur": 5.0,
+    "chuffed_raised_eur": 5.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 1.25,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 3.75,
+    "campaigns": [
+      "chuffed_151319"
+    ]
+  },
+  "Wasem": {
+    "raised_gross_eur": 313.43,
+    "chuffed_raised_eur": 313.43,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 78.36,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 235.07,
+    "campaigns": [
+      "chuffed_126491"
+    ]
+  },
+  "Mohamed-002": {
+    "raised_gross_eur": 1927.57,
+    "chuffed_raised_eur": 1927.57,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 481.89,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 1445.68,
+    "campaigns": [
+      "chuffed_148221"
+    ]
+  },
+  "Azhar": {
+    "raised_gross_eur": 436.78,
+    "chuffed_raised_eur": 436.78,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 109.19,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 327.58,
+    "campaigns": [
+      "chuffed_146820"
+    ]
+  },
+  "Maha": {
+    "raised_gross_eur": 17.42,
+    "chuffed_raised_eur": 17.42,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 4.36,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 13.07,
+    "campaigns": [
+      "chuffed_130898"
+    ]
+  },
+  "Sarah": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_149957"
+    ]
+  },
+  "Maom\u00e9": {
+    "raised_gross_eur": 59.0,
+    "chuffed_raised_eur": 59.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 14.75,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 44.25,
+    "campaigns": [
+      "chuffed_150521"
+    ]
+  },
+  "Ibtisam-001": {
+    "raised_gross_eur": 4.49,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 4.49,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 1.12,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 3.36,
+    "campaigns": [
+      "whydonate_help-ibtisam-and-her-family-surviving-in-gaza"
+    ]
+  },
+  "Abu Muhammads-002": {
+    "raised_gross_eur": 1707.7,
+    "chuffed_raised_eur": 1707.7,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 426.93,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 1280.78,
+    "campaigns": [
+      "chuffed_146162"
+    ]
+  },
+  "Hamdi-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_152469"
+    ]
+  },
+  "Lama-003": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_150342"
+    ]
+  },
+  "Ahmad": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_131193"
+    ]
+  },
+  "Family-002": {
+    "raised_gross_eur": 11015.47,
+    "chuffed_raised_eur": 11015.47,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 2753.87,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 8261.6,
+    "campaigns": [
+      "chuffed_138610"
+    ]
+  },
+  "Mohammed-012": {
+    "raised_gross_eur": 30.96,
+    "chuffed_raised_eur": 30.96,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 7.74,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 23.22,
+    "campaigns": [
+      "chuffed_149709"
+    ]
+  },
+  "Mohammed-002": {
+    "raised_gross_eur": 125.0,
+    "chuffed_raised_eur": 125.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 31.25,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 93.75,
+    "campaigns": [
+      "chuffed_126397"
+    ]
+  },
+  "Anas-004": {
+    "raised_gross_eur": 241.24,
+    "chuffed_raised_eur": 241.24,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 60.31,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 180.93,
+    "campaigns": [
+      "chuffed_148652"
+    ]
+  },
+  "Mercy": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_132893"
+    ]
+  },
+  "Safia-002": {
+    "raised_gross_eur": 231.51,
+    "chuffed_raised_eur": 231.51,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 57.88,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 173.63,
+    "campaigns": [
+      "chuffed_146504"
+    ]
+  },
+  "Family-005": {
+    "raised_gross_eur": 3242.19,
+    "chuffed_raised_eur": 3242.19,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 810.55,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 2431.64,
+    "campaigns": [
+      "chuffed_146409"
+    ]
+  },
+  "Heba-002": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_151509"
+    ]
+  },
+  "Ahmed-011": {
+    "raised_gross_eur": 943.59,
+    "chuffed_raised_eur": 943.59,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 235.9,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 707.69,
+    "campaigns": [
+      "chuffed_146004"
+    ]
+  },
+  "Haytham": {
+    "raised_gross_eur": 315.0,
+    "chuffed_raised_eur": 315.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 78.75,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 236.25,
+    "campaigns": [
+      "chuffed_126413"
+    ]
+  },
+  "Ghadeer-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_138024"
+    ]
+  },
+  "Sabreen": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_152071"
+    ]
+  },
+  "Family-004": {
+    "raised_gross_eur": 4373.53,
+    "chuffed_raised_eur": 4373.53,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 1093.38,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 3280.15,
+    "campaigns": [
+      "chuffed_143387"
+    ]
+  },
+  "Magda": {
+    "raised_gross_eur": 15.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 15.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 3.75,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 11.25,
+    "campaigns": [
+      "whydonate_help-magda's-family-after-two-years-of-displacemen"
+    ]
+  },
+  "Akram-004": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_152416"
+    ]
+  },
+  "Sister-003": {
+    "raised_gross_eur": 108.74,
+    "chuffed_raised_eur": 108.74,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 27.18,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 81.55,
+    "campaigns": [
+      "chuffed_149822"
+    ]
+  },
+  "Safia-001": {
+    "raised_gross_eur": 19.5,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 19.5,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 4.88,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 14.62,
+    "campaigns": [
+      "whydonate_help-safia-to-provide-a-subsistence-for-her-family"
+    ]
+  },
+  "Hisham-002": {
+    "raised_gross_eur": 39.65,
+    "chuffed_raised_eur": 39.65,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 9.91,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 29.74,
+    "campaigns": [
+      "chuffed_151986"
+    ]
+  },
+  "Ahmed-008": {
+    "raised_gross_eur": 212.0,
+    "chuffed_raised_eur": 212.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 53.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 159.0,
+    "campaigns": [
+      "chuffed_142176"
+    ]
+  },
+  "Mohamad-002": {
+    "raised_gross_eur": 1273.52,
+    "chuffed_raised_eur": 1273.52,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 318.38,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 955.14,
+    "campaigns": [
+      "chuffed_150402"
+    ]
+  },
+  "Manal": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_148042"
+    ]
+  },
+  "Malak": {
+    "raised_gross_eur": 96.69,
+    "chuffed_raised_eur": 96.69,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 24.17,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 72.52,
+    "campaigns": [
+      "chuffed_148955"
+    ]
+  },
+  "Reem-002": {
+    "raised_gross_eur": 37.0,
+    "chuffed_raised_eur": 37.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 9.25,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 27.75,
+    "campaigns": [
+      "chuffed_149668"
+    ]
+  },
+  "Asmaa": {
+    "raised_gross_eur": 8.31,
+    "chuffed_raised_eur": 8.31,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 2.08,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 6.23,
+    "campaigns": [
+      "chuffed_149222"
+    ]
+  },
+  "Abdulrahman": {
+    "raised_gross_eur": 720.2,
+    "chuffed_raised_eur": 720.2,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 180.05,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 540.15,
+    "campaigns": [
+      "chuffed_151158"
+    ]
+  },
+  "Lana": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_150684"
+    ]
+  },
+  "Hala-002": {
+    "raised_gross_eur": 3034.56,
+    "chuffed_raised_eur": 3034.56,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 758.64,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 2275.92,
+    "campaigns": [
+      "chuffed_145811"
+    ]
+  },
+  "Ghadeer-002": {
+    "raised_gross_eur": 4.21,
+    "chuffed_raised_eur": 4.21,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 1.05,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 3.16,
+    "campaigns": [
+      "chuffed_138358"
+    ]
+  },
+  "Umm Masoud-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_149509"
+    ]
+  },
+  "Initiative": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_150527"
+    ]
+  },
+  "Mohammad": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_129845"
+    ]
+  },
+  "Hala-001": {
+    "raised_gross_eur": 10.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 10.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 2.5,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 7.5,
+    "campaigns": [
+      "whydonate_help-hala-and-her-family-rebuild-their-lives-in-ga"
+    ]
+  },
+  "Rabin": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_133873"
+    ]
+  },
+  "Abood": {
+    "raised_gross_eur": 3638.2,
+    "chuffed_raised_eur": 3638.2,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 909.55,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 2728.65,
+    "campaigns": [
+      "chuffed_136634"
+    ]
+  },
+  "Neama": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_144699"
+    ]
+  },
+  "Islam": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_153247"
+    ]
+  },
+  "Faten": {
+    "raised_gross_eur": 459.61,
+    "chuffed_raised_eur": 459.61,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 114.9,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 344.71,
+    "campaigns": [
+      "chuffed_131539"
+    ]
+  },
+  "Stand-002": {
+    "raised_gross_eur": 199.09,
+    "chuffed_raised_eur": 199.09,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 49.77,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 149.32,
+    "campaigns": [
+      "chuffed_151954"
+    ]
+  },
+  "Umm Hani-001": {
+    "raised_gross_eur": 637.48,
+    "chuffed_raised_eur": 637.48,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 159.37,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 478.11,
+    "campaigns": [
+      "chuffed_142951"
+    ]
+  },
+  "Ayman": {
+    "raised_gross_eur": 517.66,
+    "chuffed_raised_eur": 517.66,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 129.41,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 388.25,
+    "campaigns": [
+      "chuffed_146802"
+    ]
+  },
+  "Anas-002": {
+    "raised_gross_eur": 3140.58,
+    "chuffed_raised_eur": 3140.58,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 785.14,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 2355.43,
+    "campaigns": [
+      "chuffed_135558"
+    ]
+  },
+  "Walid": {
+    "raised_gross_eur": 141.2,
+    "chuffed_raised_eur": 141.2,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 35.3,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 105.9,
+    "campaigns": [
+      "chuffed_151750"
+    ]
+  },
+  "Umm Hassan-002": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_148863"
+    ]
+  },
+  "Batoul": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_149780"
+    ]
+  },
+  "Heba-001": {
+    "raised_gross_eur": 12.0,
+    "chuffed_raised_eur": 12.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 3.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 9.0,
+    "campaigns": [
+      "chuffed_132231"
+    ]
+  },
+  "Mahmoud-001": {
+    "raised_gross_eur": 5.0,
+    "chuffed_raised_eur": 5.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 1.25,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 3.75,
+    "campaigns": [
+      "chuffed_134027"
+    ]
+  },
+  "Reems-002": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_152494"
+    ]
+  },
+  "Wadie": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_151851"
+    ]
+  },
+  "Fadi-003": {
+    "raised_gross_eur": 2075.52,
+    "chuffed_raised_eur": 2075.52,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 518.88,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 1556.64,
+    "campaigns": [
+      "chuffed_143827"
+    ]
+  },
+  "Hanin-002": {
+    "raised_gross_eur": 921.37,
+    "chuffed_raised_eur": 921.37,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 230.34,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 691.03,
+    "campaigns": [
+      "chuffed_150558"
+    ]
+  },
+  "Aya-002": {
+    "raised_gross_eur": 3601.79,
+    "chuffed_raised_eur": 3601.79,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 900.45,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 2701.34,
+    "campaigns": [
+      "chuffed_130620"
+    ]
+  },
+  "Hanan-001": {
+    "raised_gross_eur": 370.92,
+    "chuffed_raised_eur": 370.92,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 92.73,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 278.19,
+    "campaigns": [
+      "chuffed_151008"
+    ]
+  },
+  "Hayam-001": {
+    "raised_gross_eur": 5.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 5.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 1.25,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 3.75,
+    "campaigns": [
+      "whydonate_in-displacement..-help-hayam-mohammed-and-her-5-ch"
+    ]
+  },
+  "Qais": {
+    "raised_gross_eur": 875.09,
+    "chuffed_raised_eur": 875.09,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 218.77,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 656.32,
+    "campaigns": [
+      "chuffed_151648"
+    ]
+  },
+  "Mohannad": {
+    "raised_gross_eur": 1052.29,
+    "chuffed_raised_eur": 1052.29,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 263.07,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 789.22,
+    "campaigns": [
+      "chuffed_147584"
+    ]
+  },
+  "Lina": {
+    "raised_gross_eur": 35.0,
+    "chuffed_raised_eur": 35.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 8.75,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 26.25,
+    "campaigns": [
+      "chuffed_149566"
+    ]
+  },
+  "Rahaf": {
+    "raised_gross_eur": 20.86,
+    "chuffed_raised_eur": 20.86,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 5.21,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 15.64,
+    "campaigns": [
+      "chuffed_147165"
+    ]
+  },
+  "Lian": {
+    "raised_gross_eur": 190.29,
+    "chuffed_raised_eur": 190.29,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 47.57,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 142.72,
+    "campaigns": [
+      "chuffed_146867"
+    ]
+  },
+  "Mahmoud-004": {
+    "raised_gross_eur": 598.38,
+    "chuffed_raised_eur": 598.38,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 149.59,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 448.78,
+    "campaigns": [
+      "chuffed_143375"
+    ]
+  },
+  "Obaida": {
+    "raised_gross_eur": 85.0,
+    "chuffed_raised_eur": 85.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 21.25,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 63.75,
+    "campaigns": [
+      "chuffed_143756"
+    ]
+  },
+  "Om Omar-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_145091"
+    ]
+  },
+  "Yazan": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_153926"
+    ]
+  },
+  "Family-001": {
+    "raised_gross_eur": 5.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 5.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 1.25,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 3.75,
+    "campaigns": [
+      "whydonate_help-my-family-survive-and-rebuild-our-lives-in-ga"
+    ]
+  },
+  "Ola": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_141694"
+    ]
+  },
+  "Reem-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_138159"
+    ]
+  },
+  "Ahmed-010": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_143983"
+    ]
+  },
+  "Suhaib": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_151314"
+    ]
+  },
+  "Magdia": {
+    "raised_gross_eur": 310.83,
+    "chuffed_raised_eur": 310.83,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 77.71,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 233.12,
+    "campaigns": [
+      "chuffed_151764"
+    ]
+  },
+  "Marah-001": {
+    "raised_gross_eur": 17.86,
+    "chuffed_raised_eur": 17.86,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 4.46,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 13.39,
+    "campaigns": [
+      "chuffed_130195"
+    ]
+  },
+  "Hamza": {
+    "raised_gross_eur": 241.05,
+    "chuffed_raised_eur": 241.05,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 60.26,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 180.79,
+    "campaigns": [
+      "chuffed_137388"
+    ]
+  },
+  "Iman-001": {
+    "raised_gross_eur": 1012.72,
+    "chuffed_raised_eur": 1012.72,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 253.18,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 759.54,
+    "campaigns": [
+      "chuffed_142056"
+    ]
+  },
+  "Moataz-002": {
+    "raised_gross_eur": 584.66,
+    "chuffed_raised_eur": 584.66,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 146.16,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 438.5,
+    "campaigns": [
+      "chuffed_148419"
+    ]
+  },
+  "Lama-004": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_151977"
+    ]
+  },
+  "Ali": {
+    "raised_gross_eur": 75.0,
+    "chuffed_raised_eur": 75.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 18.75,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 56.25,
+    "campaigns": [
+      "chuffed_151982"
+    ]
+  },
+  "Saeed": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_136752"
+    ]
+  },
+  "Abu Muhammad-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_150453"
+    ]
+  },
+  "Lama-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_146498"
+    ]
+  },
+  "Samer": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_128916"
+    ]
+  },
+  "Fares-002": {
+    "raised_gross_eur": 15.0,
+    "chuffed_raised_eur": 15.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 3.75,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 11.25,
+    "campaigns": [
+      "chuffed_149365"
+    ]
+  },
+  "Muhammad-007": {
+    "raised_gross_eur": 100.0,
+    "chuffed_raised_eur": 100.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 25.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 75.0,
+    "campaigns": [
+      "chuffed_151602"
+    ]
+  },
+  "Ahmed-015": {
+    "raised_gross_eur": 30.0,
+    "chuffed_raised_eur": 30.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 7.5,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 22.5,
+    "campaigns": [
+      "chuffed_152169"
+    ]
+  },
+  "Reems-003": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_152499"
+    ]
+  },
+  "Ashraf": {
+    "raised_gross_eur": 1763.42,
+    "chuffed_raised_eur": 1763.42,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 440.86,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 1322.57,
+    "campaigns": [
+      "chuffed_148460"
+    ]
+  },
+  "Shireen": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_138260"
+    ]
+  },
+  "Mohammed-010": {
+    "raised_gross_eur": 378.93,
+    "chuffed_raised_eur": 378.93,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 94.73,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 284.2,
+    "campaigns": [
+      "chuffed_143424"
+    ]
+  },
+  "Mohammed-015": {
+    "raised_gross_eur": 104.01,
+    "chuffed_raised_eur": 104.01,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 26.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 78.01,
+    "campaigns": [
+      "chuffed_151305"
+    ]
+  },
+  "Umm Hassan-001": {
+    "raised_gross_eur": 148.62,
+    "chuffed_raised_eur": 148.62,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 37.16,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 111.47,
+    "campaigns": [
+      "chuffed_142771"
+    ]
+  },
+  "Samir-002": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_152850"
+    ]
+  },
+  "Emad": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_153234"
+    ]
+  },
+  "Yasmine-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_131837"
+    ]
+  },
+  "Fayezs": {
+    "raised_gross_eur": 19624.71,
+    "chuffed_raised_eur": 19624.71,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 4906.18,
+    "payouts_completed_eur": 10271.11,
+    "unpaid_balance_eur": 4447.42,
+    "campaigns": [
+      "chuffed_139982"
+    ]
+  },
+  "Um Mohammeds-001": {
+    "raised_gross_eur": 45.91,
+    "chuffed_raised_eur": 45.91,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 11.48,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 34.43,
+    "campaigns": [
+      "chuffed_146171"
+    ]
+  },
+  "Shahd": {
+    "raised_gross_eur": 42.21,
+    "chuffed_raised_eur": 42.21,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 10.55,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 31.66,
+    "campaigns": [
+      "chuffed_147517"
+    ]
+  },
+  "Alma": {
+    "raised_gross_eur": 30.33,
+    "chuffed_raised_eur": 30.33,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 7.58,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 22.75,
+    "campaigns": [
+      "chuffed_139342"
+    ]
+  },
+  "Mlalak": {
+    "raised_gross_eur": 53.99,
+    "chuffed_raised_eur": 53.99,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 13.5,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 40.49,
+    "campaigns": [
+      "chuffed_149451"
+    ]
+  },
+  "Ibtisam-002": {
+    "raised_gross_eur": 11903.51,
+    "chuffed_raised_eur": 11903.51,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 2975.88,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 8927.63,
+    "campaigns": [
+      "chuffed_138822"
+    ]
+  },
+  "Wafaa-001": {
+    "raised_gross_eur": 108.82,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 108.82,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 27.2,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 81.61,
+    "campaigns": [
+      "whydonate_help-wafaa-and-her-family-rebuild-sustainibilty-in"
+    ]
+  },
+  "Amira": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_148473"
+    ]
+  },
+  "Khatam-002": {
+    "raised_gross_eur": 457.99,
+    "chuffed_raised_eur": 457.99,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 114.5,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 343.49,
+    "campaigns": [
+      "chuffed_143254"
+    ]
+  },
+  "Umm Iman-001": {
+    "raised_gross_eur": 0.0,
+    "chuffed_raised_eur": 0.0,
+    "whydonate_raised_eur": 0.0,
+    "launchgood_raised_eur": 0.0,
+    "stripe_fx_fees_eur": 0.0,
+    "sustainability_fees_eur": 0.0,
+    "payouts_completed_eur": 0.0,
+    "unpaid_balance_eur": 0.0,
+    "campaigns": [
+      "chuffed_131077"
+    ]
+  }
+}
