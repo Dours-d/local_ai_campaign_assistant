@@ -57,16 +57,23 @@ def process_clipboard_logic():
 
     # 1. Clear Clipboard to detect if Copy worked
     pyperclip.copy("")
+    time.sleep(0.1)
     
-    # 2. Simulate Ctrl+C
-    keyboard.send('ctrl+c')
-    time.sleep(0.3) # Increased wait for OS
-    
-    # 3. Read Clipboard
-    selected_text = pyperclip.paste()
-    
-    if not selected_text.strip():
-        print("No text selected or copy failed.")
+    # 2. Simulate Ctrl+C (multiple attempts)
+    for attempt in range(2):
+        keyboard.send('ctrl+c')
+        time.sleep(0.5) # Increased wait for OS
+        
+        # 3. Read Clipboard
+        selected_text = pyperclip.paste()
+        
+        if selected_text.strip():
+            break
+        
+        print(f"Attempt {attempt + 1} failed, retrying...")
+    else:
+        # All attempts failed
+        print("No text selected or copy failed after retries.")
         try:
             import winsound
             winsound.Beep(500, 200) # Low beep for error
@@ -76,21 +83,36 @@ def process_clipboard_logic():
 
     print(f"Captured: {selected_text}")
     
-    # 4. Clean Input (Extract numbers)
+    # 4. Clean Input (Extract numbers) - LIMIT TO 15 DIGITS MAX
     clean_id = re.sub(r'\D', '', selected_text)
+    
+    # Take only first 15 digits (max international phone number length)
+    if len(clean_id) > 15:
+        print(f"Warning: Extracted {len(clean_id)} digits, truncating to first 15")
+        clean_id = clean_id[:15]
+    
     if not clean_id or len(clean_id) < 5:
         # Fallback: maybe they selected a name? Use text as is, just strip
         clean_id = selected_text.strip()
+        # But limit to reasonable length
+        if len(clean_id) > 50:
+            print(f"Warning: Text too long ({len(clean_id)} chars), truncating")
+            clean_id = clean_id[:50]
     
     # 5. Generate Message
     onboarding_msg = generate_standard_message(clean_id)
     
     # 6. Copy New Message to Clipboard
     pyperclip.copy(onboarding_msg)
-    time.sleep(0.2)
+    time.sleep(0.3)
     
     # 7. Simulate Ctrl+V
     keyboard.send('ctrl+v')
+    time.sleep(0.2)
+    
+    # 8. Clear clipboard to prevent re-reading the pasted message
+    pyperclip.copy("")
+    
     print(f"Pasted onboarding message for ID: {clean_id}")
     try:
         import winsound
@@ -100,6 +122,15 @@ def process_clipboard_logic():
 
 def on_trigger():
     # Prevent recursive triggers or processing
+    global last_trigger_time
+    current_time = time.time()
+    
+    # Debounce: Ignore triggers within 3 seconds of the last one
+    if current_time - last_trigger_time < 3.0:
+        print(f"Debounced (too soon: {current_time - last_trigger_time:.2f}s)")
+        return
+    
+    last_trigger_time = current_time
     time.sleep(0.1) 
     process_clipboard_logic()
 
@@ -120,6 +151,9 @@ def quit_app(icon, item):
     os._exit(0)
 
 def main():
+    global last_trigger_time
+    last_trigger_time = 0
+    
     setup_hotkey()
     
     # Setup System Tray
