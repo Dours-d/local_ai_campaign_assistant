@@ -42,301 +42,36 @@
         <p><a id="link" href="#">Click here if not redirected automatically</a></p>
     </div>
     <script>
-        // Updated automatically by monitor script
-        var destination = "https://relax-inspiration-quotes-stewart.trycloudflare.com";
+        // EMERGENCY FIX: Redirect to actual onboarding form on GitHub Pages
+        // Handles both old format (#/onboard/ID) and new format (#ID)
 
-        // Handle hash routing for deep links
         var hash = window.location.hash;
-        var path = "";
+        var beneficiaryId = "";
+
         if (hash && hash.length > 1) {
-            path = "/onboard/" + hash.substring(1);
-        } else {
-            path = "/onboard";
+            var cleanHash = hash.substring(1); // Remove #
+
+            // Parse old format: #/onboard/972567173987
+            if (cleanHash.startsWith("/onboard/")) {
+                beneficiaryId = cleanHash.replace("/onboard/", "");
+            } else if (cleanHash.startsWith("onboard/")) {
+                beneficiaryId = cleanHash.replace("onboard/", "");
+            } else {
+                // Direct ID
+                beneficiaryId = cleanHash;
+            }
         }
-        var search = window.location.search || "";
-        var finalUrl = destination + path + search;
+
+        // Redirect to actual onboarding form
+        var finalUrl = "/local-ai-campaign-assistant/onboarding";
+        if (beneficiaryId) {
+            finalUrl += "/" + beneficiaryId;
+        }
 
         document.getElementById("link").href = finalUrl;
-        document.getElementById("msg").innerText = "Redirecting to Sovereign Portal...";
-        setTimeout(() => { window.location.replace(finalUrl); }, 1000);
+        document.getElementById("msg").innerText = "Redirecting to Onboarding Form...";
+        window.location.replace(finalUrl);
     </script>
 </body>
 
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
