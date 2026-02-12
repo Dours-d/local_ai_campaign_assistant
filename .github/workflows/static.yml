@@ -1,4 +1,5 @@
 # Simple workflow for deploying static content to GitHub Pages
+# Triggering fresh deployment to resolve stale cache
 name: Deploy static content to Pages
 
 on:
@@ -37,7 +38,7 @@ jobs:
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository (excluding certain things)
-          path: '.'
+          path: "."
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
