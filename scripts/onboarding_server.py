@@ -22,6 +22,47 @@ def login_required(f):
         return f(*args, **kwargs)
     return decorated_function
 
+# --- SCOPE VALIDATION ---
+def load_valid_scopes():
+    valid = set()
+    try:
+        # Load campaign index
+        if os.path.exists('data/campaign_index.json'):
+            with open('data/campaign_index.json', 'r', encoding='utf-8') as f:
+                index_data = json.load(f)
+                for key in index_data.keys():
+                    # Clean the key to just digits for comparison
+                    clean_key = "".join([c for c in key if c.isdigit()])
+                    valid.add(clean_key)
+        
+        # Load potential beneficiaries
+        if os.path.exists('data/potential_beneficiaries.json'):
+            with open('data/potential_beneficiaries.json', 'r', encoding='utf-8') as f:
+                potential_data = json.load(f)
+                for p in potential_data:
+                    name = p.get('name', '')
+                    clean_name = "".join([c for c in name if c.isdigit()])
+                    if clean_name: valid.add(clean_name)
+                    
+                    pid = p.get('id', '')
+                    clean_id = "".join([c for c in pid if c.isdigit()])
+                    if clean_id: valid.add(clean_id)
+    except Exception as e:
+        print(f"Error loading scopes: {e}")
+    return valid
+
+VALID_SCOPES = load_valid_scopes()
+
+def is_in_scope(identifier):
+    if not identifier: return False
+    clean_id = "".join([c for c in str(identifier) if c.isdigit()])
+    return clean_id in VALID_SCOPES
+
+@app.route('/api/check_scope/<beneficiary_id>')
+def check_scope(beneficiary_id):
+    return jsonify({"in_scope": is_in_scope(beneficiary_id)})
+# -------------------------
+
 @app.route('/login', methods=['POST'])
 def login():
     data = request.json
@@ -60,24 +101,35 @@ def get_submission(beneficiary_id):
 @app.route('/upload', methods=['POST'])
 def upload_file():
     beneficiary_id = request.form.get('beneficiary_id', 'unknown')
+    whatsapp_number = request.form.get('whatsapp_number', '').strip()
+    
+    # Clean identifier for scope check
+    clean_id = "".join([c for c in beneficiary_id if c.isdigit()])
+    clean_wa = "".join([c for c in whatsapp_number if c.isdigit()])
+    
+    # Scope check: 
+    # 1. If the beneficiary_id itself (numeric) is in scope, we allow it.
+    # 2. If the beneficiary_id is non-numeric (e.g. "myself", "test"), we allow it for coordinator access.
+    # 3. Otherwise, the provided whatsapp_number MUST be in scope for "viral" arrivals.
+    
+    is_id_known = is_in_scope(clean_id) if clean_id else (not beneficiary_id.isdigit() and beneficiary_id not in ['unknown', 'onboard', 'index.html', ''])
+    is_wa_known = is_in_scope(clean_wa) if clean_wa else False
+
+    if not is_id_known and not is_wa_known:
+        return jsonify({"error": "Out of Scope", "message": "This number is not registered in our current assistance scope."}), 403
+
+    # If it's a "viral" entry but the number IS in scope, use the number as the ID
+    if beneficiary_id in ['unknown', 'onboard', 'index.html', '']:
+        if clean_wa:
+            beneficiary_id = f"viral_{clean_wa}"
+        else:
+            return jsonify({"error": "Missing WhatsApp", "message": "WhatsApp number is required for verification."}), 400
+
     title = request.form.get('title', '')
     story = request.form.get('story', '')
     display_name = request.form.get('display_name', '')
     personal_wallet = request.form.get('personal_wallet', '')
-    whatsapp_number = request.form.get('whatsapp_number', '').strip()
     
-    # viral entry handling: if generic ID, use whatsapp number as identifier
-    if beneficiary_id in ['unknown', 'onboard', 'index.html', '']:
-        if whatsapp_number:
-            # sanitize number for filename: keep only digits and +
-            sanitized_id = "".join([c for c in whatsapp_number if c.isdigit() or c == '+'])
-            beneficiary_id = f"viral_{sanitized_id}"
-        else:
-            # Generate a random temporary ID if no number provided
-            import uuid
-            random_id = str(uuid.uuid4())[:8]
-            beneficiary_id = f"viral_anon_{random_id}"
-
     # Load existing data if available
     json_path = os.path.join(DATA_DIR, f"{beneficiary_id}_submission.json")
     if os.path.exists(json_path):

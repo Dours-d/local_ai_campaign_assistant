@@ -283,7 +283,8 @@
                 success_footer: "Check back with your coordinator on Monday for the audit report.",
                 lookup_desc: "Enter your WhatsApp number to access your campaign:",
                 btn_go: "Go",
-                lookup_help: "Format: Country code + number (no + or spaces)"
+                lookup_help: "Format: Country code + number (no + or spaces)",
+                out_of_scope: "This number is not registered in our current scope. Please contact your coordinator."
             },
             ar: {
                 page_title: "بوابة غزة للصمود",
@@ -332,7 +333,8 @@
                 success_footer: "راجع منسقك يوم الاثنين للحصول على تقرير التدقيق.",
                 lookup_desc: "أدخل رقم الواتساب الخاص بك للوصول إلى حملتك:",
                 btn_go: "دخول",
-                lookup_help: "التنسيق: رمز الدولة + الرقم (بدون + أو مسافات)"
+                lookup_help: "التنسيق: رمز الدولة + الرقم (بدون + أو مسافات)",
+                out_of_scope: "هذا الرقم غير مسجل في نطاق مساعداتنا الحالي. يرجى التواصل مع المنسق الخاص بك."
             }
         };
 
@@ -410,6 +412,17 @@
             }
         };
 
+        async function checkScope(id) {
+            try {
+                const response = await fetch(`/api/check_scope/${id}`);
+                const data = await response.json();
+                return data.in_scope;
+            } catch (e) {
+                console.error('Scope check failed', e);
+                return false;
+            }
+        }
+
         function lookupIdentity() {
             const rawId = document.getElementById('lookup_id').value.trim();
             if (!rawId) return;
@@ -422,7 +435,6 @@
             }
 
             // Redirect to the same page with the ID in the path
-            // The server serves this same file for /onboard/<id>
             window.location.href = '/onboard/' + cleanId;
         }
 
