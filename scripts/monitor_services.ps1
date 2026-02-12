@@ -18,14 +18,21 @@ Write-Log "Starting Monitor Service..."
 
 while ($true) {
     # 1. Check Onboarding Server
-    $ServerProcess = Get-CimInstance Win32_Process -Filter "CommandLine LIKE '%onboarding_server.py%'"
+    $ServerProcess = Get-Process -Name python -ErrorAction SilentlyContinue | Where-Object { $_.CommandLine -like "*onboarding_server.py*" }
     if (-not $ServerProcess) {
         Write-Log "Onboarding Server NOT found. Restarting..."
         Start-Process $VenvPython -ArgumentList "$ServerScript" -WorkingDirectory $WorkDir -WindowStyle Hidden
     }
 
+    # 1.5. Check Watchdog Service
+    $WatchdogProcess = Get-Process -Name python -ErrorAction SilentlyContinue | Where-Object { $_.CommandLine -like "*watch_onboarding.py*" }
+    if (-not $WatchdogProcess) {
+        Write-Log "Watchdog Service NOT found. Restarting..."
+        Start-Process $VenvPython -ArgumentList "scripts/watch_onboarding.py" -WorkingDirectory $WorkDir -WindowStyle Hidden
+    }
+
     # 2. Check Stable Tunnel (Cloudflare)
-    $TunnelProcess = Get-CimInstance Win32_Process -Filter "Name = 'cloudflared.exe'"
+    $TunnelProcess = Get-Process -Name cloudflared -ErrorAction SilentlyContinue
     if (-not $TunnelProcess) {
         Write-Log "Stable Tunnel (Cloudflare) NOT found. Restarting..."
         Start-Process pwsh -ArgumentList "-File", "$WorkDir\scripts/start_stable_tunnel.ps1" -WorkingDirectory $WorkDir -WindowStyle Hidden
@@ -39,41 +46,68 @@ while ($true) {
             $AllMatches = $TunnelLog | Select-String -Pattern "https://[a-z0-9-]+\.trycloudflare\.com" -AllMatches
             if ($AllMatches) {
                 $CurrentUrl = $AllMatches[-1].Matches.Value
-                $TargetFile = "docs/index.md"
+                $TargetFiles = @("docs/index.md", "docs/index.html", "docs/onboard.html", "index.html", "onboard.html")
+                $FilesChanged = 0
                 
-                if (Test-Path $TargetFile) {
-                    $Content = Get-Content $TargetFile -Raw
-                    # Regex to find the javascript variable definition
-                    if ($Content -match 'var destination = "([^"]+)";') {
-                        $StoredUrl = $matches[1]
-                         
-                        if ($StoredUrl -ne $CurrentUrl) {
-                            Write-Log "Tunnel URL changed to $CurrentUrl. Updating $TargetFile..."
-                            $NewContent = $Content -replace 'var destination = "[^"]+";', "var destination = `"$CurrentUrl`";"
-                            Set-Content -Path $TargetFile -Value $NewContent
-                             
-                            # Git Automation
-                            if (Get-Command git -ErrorAction SilentlyContinue) {
-                                Write-Log "Committing direct link update to GitHub..."
-                                git add $TargetFile
-                                # Remove data file if it exists, as we are deprecated it to avoid confusion
-                                if (Test-Path "docs/_data/tunnel.yml") { git rm "docs/_data/tunnel.yml" -ErrorAction SilentlyContinue }
-                                
-                                git commit -m "Auto-update tunnel URL in index.md"
-                                git push
-                                Write-Log "GitHub Pages updated successfully."
-                            }
-                            else {
-                                Write-Log "WARNING: git command not found. Cannot update portal redirect."
+                foreach ($TargetFile in $TargetFiles) {
+                    if (Test-Path $TargetFile) {
+                        $Content = Get-Content $TargetFile -Raw
+                        if ($Content -match '(var|const) destination = "([^"]+)";') {
+                            $StoredUrl = $matches[2]
+                            if ($StoredUrl -ne $CurrentUrl) {
+                                Write-Log "Tunnel URL changed to $CurrentUrl. Updating $TargetFile..."
+                                $NewContent = $Content -replace '(var|const) destination = "[^"]+";', "$($matches[1]) destination = `"$CurrentUrl`";"
+                                Set-Content -Path $TargetFile -Value $NewContent
+                                if (Get-Command git -ErrorAction SilentlyContinue) {
+                                    git add $TargetFile
+                                    $FilesChanged++
+                                }
                             }
                         }
                     }
+                }
+
+                if ($FilesChanged -gt 0) {
+                    Write-Log "Committing $FilesChanged update(s) to GitHub..."
+                    git commit -m "Auto-update tunnel URL in $FilesChanged file(s)"
+                    git push
+                    Write-Log "GitHub Pages updated successfully."
                 }
             }
         }
     }
     catch {
         Write-Log "Error updating redirection: $_"
+    }
+
+    # 4. Verify Public URL Availability
+    try {
+        # Get Current URL from index.html if not already known from step 3
+        if (-not $CurrentUrl -and (Test-Path "index.html")) {
+            $IndexContent = Get-Content "index.html" -Raw
+            if ($IndexContent -match 'destination = "([^"]+)";') {
+                $CurrentUrl = $Matches[1]
+            }
+        }
+
+        if ($CurrentUrl) {
+            # Verify the actual onboarding page content
+            $CheckUrl = "$CurrentUrl/onboard"
+            $Response = Invoke-WebRequest -Uri $CheckUrl -UseBasicParsing -TimeoutSec 15 -ErrorAction Stop
+            
+            if ($Response.StatusCode -eq 200 -and $Response.Content -match "Gaza Resilience Portal") {
+                Write-Log "Public URL Verification SUCCESS: Onboarding page is ACTIVE at $CheckUrl"
+            } else {
+                Write-Log "Public URL Verification FAIL: $CheckUrl returned status $($Response.StatusCode) or invalid content."
+                Write-Log "Restarting Tunnel due to unhealthy response..."
+                Stop-Process -Name cloudflared -Force -ErrorAction SilentlyContinue
+            }
+        }
+    }
+    catch {
+        Write-Log "Public URL Verification ERROR: Could not reach $CurrentUrl. $_"
+        Write-Log "Restarting Tunnel due to connectivity failure..."
+        Stop-Process -Name cloudflared -Force -ErrorAction SilentlyContinue
     }
 
     # Wait for 60 seconds before next check
