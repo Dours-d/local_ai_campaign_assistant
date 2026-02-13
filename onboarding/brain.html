@@ -353,6 +353,33 @@
                 margin-bottom: 20px;
             }
 
+            .grid>* {
+                min-width: 0;
+                /* Fix CSS Grid overflow blowout */
+                width: 100%;
+            }
+
+            .sidebar,
+            .content-area {
+                width: 100%;
+                max-width: 100%;
+                margin: 0 0 20px 0;
+            }
+
+            .ki-item {
+                width: 100%;
+                max-width: 100%;
+                white-space: normal;
+                /* Force wrap */
+            }
+
+            .ki-item h3,
+            .ki-item p {
+                word-wrap: break-word;
+                overflow-wrap: break-word;
+                white-space: normal;
+            }
+
             .login-card {
                 padding: 20px;
                 /* Reduce padding to prevent overflow */
@@ -610,7 +637,7 @@
             </main>
         </div>
         <footer style="text-align: center; margin-top: 40px; color: var(--border); font-size: 0.8rem;">
-            Dunya System v1.1
+            Dunya System v1.2
         </footer>
     </div>
 
