@@ -9,80 +9,22 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&family=Cairo:wght@400;700&display=swap"
         rel="stylesheet">
     <style>
-        :root {
-            --primary: #00ff88;
-            --secondary: #60efff;
-            --accent: #38bdf8;
-            --bg: #0f172a;
+        /* Essential overrides for the lookup section that aren't in style.css */
+        #lookup_section {
+            background: rgba(212, 163, 115, 0.05);
+            padding: 24px;
+            border-radius: 20px;
+            margin-bottom: 32px;
+            border: 1px dashed var(--glass-border);
         }
 
-        body {
-            font-family: 'Inter', 'Cairo', sans-serif;
-            background: radial-gradient(circle at top left, #1e293b, #0f172a);
-            color: white;
-            min-height: 100vh;
-            margin: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-        }
-
-        .lang-toggle {
-            display: flex;
-            gap: 12px;
-            justify-content: flex-end;
-            margin-bottom: 30px;
-        }
-
-        .lang-btn {
-            background: rgba(255, 255, 255, 0.05);
-            border: 1px solid rgba(255, 255, 255, 0.1);
-            color: #94a3b8;
-            padding: 8px 16px;
-            border-radius: 12px;
-            cursor: pointer;
-            font-size: 0.85rem;
-            font-weight: 600;
-            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-            backdrop-filter: blur(10px);
-        }
-
-        .lang-btn:hover {
-            background: rgba(255, 255, 255, 0.1);
-            color: white;
-            transform: translateY(-1px);
-        }
-
-        .lang-btn.active {
-            background: var(--primary);
-            color: #0f172a;
-            border-color: var(--primary);
-            box-shadow: 0 0 20px rgba(0, 255, 136, 0.3);
-        }
-
-        /* RTL Specific Adjustments */
-        [dir="rtl"] {
-            font-family: 'Cairo', sans-serif;
-            text-align: right;
-        }
-
-        [dir="rtl"] .lang-toggle {
-            justify-content: flex-start;
-        }
-
-        [dir="rtl"] .progress-fill {
-            left: auto;
-            right: 0;
-        }
-
-        /* Identity Notice Refinement */
         .identity-notice {
             display: none;
-            background: rgba(0, 255, 136, 0.05);
+            background: rgba(212, 163, 115, 0.08);
             padding: 20px;
             border-radius: 20px;
             margin-bottom: 32px;
-            border: 1px solid rgba(0, 255, 136, 0.2);
+            border: 1px solid var(--primary);
             position: relative;
             overflow: hidden;
         }
@@ -100,12 +42,6 @@
         [dir="rtl"] .identity-notice::before {
             left: auto;
             right: 0;
-        }
-
-        .identity-notice p {
-            color: white;
-            margin: 0;
-            font-weight: 600;
         }
     </style>
 </head>
@@ -130,19 +66,17 @@
         <div class="step active" id="step1">
             <h2 id="welcome_title" data-i18n="welcome_title">Salam Alaykum</h2>
 
-            <!-- NEW: Identity Lookup -->
-            <div id="lookup_section"
-                style="background: rgba(255,255,255,0.03); padding: 20px; border-radius: 16px; margin-bottom: 24px; border: 1px dashed rgba(255,255,255,0.1);">
-                <p style="font-size: 0.9rem; margin-top: 0;" data-i18n="lookup_desc">Enter your WhatsApp number to
+            <!-- Identity Lookup -->
+            <div id="lookup_section">
+                <p style="font-size: 0.95rem; margin-top: 0;" data-i18n="lookup_desc">Enter your WhatsApp number to
                     access your campaign:</p>
-                <div style="display: flex; gap: 8px;">
-                    <input type="text" id="lookup_id" placeholder="970xxxxxxxxx"
-                        style="flex: 1; background: rgba(0,0,0,0.2); border: 1px solid rgba(255,255,255,0.1); color: white; padding: 12px; border-radius: 8px;">
-                    <button onclick="lookupIdentity()" style="width: auto; padding: 0 20px;"
+                <div style="display: flex; gap: 12px;">
+                    <input type="text" id="lookup_id" placeholder="970xxxxxxxxx">
+                    <button onclick="lookupIdentity()" style="width: auto; padding: 0 24px;"
                         data-i18n="btn_go">Go</button>
                 </div>
-                <p style="font-size: 0.75rem; color: #64748b; margin-bottom: 0; margin-top: 8px;"
-                    data-i18n="lookup_help">Format: Country code + number (no + or spaces)</p>
+                <p style="font-size: 0.8rem; opacity: 0.6; margin-bottom: 0; margin-top: 12px;" data-i18n="lookup_help">
+                    Format: Country code + number (no + or spaces)</p>
             </div>
 
             <div id="identity_notice" class="identity-notice">

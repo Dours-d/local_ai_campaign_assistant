@@ -89,8 +89,15 @@
 
         .grid {
             display: grid;
-            grid-template-columns: 300px 1fr;
-            gap: 30px;
+            grid-template-columns: 1fr;
+            gap: 20px;
+        }
+
+        @media (min-width: 768px) {
+            .grid {
+                grid-template-columns: 300px 1fr;
+                gap: 30px;
+            }
         }
 
         .sidebar {
@@ -300,6 +307,45 @@
             box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
         }
 
+        .chat-close {
+            background: rgba(0, 0, 0, 0.1);
+            color: #1a1612;
+            width: 28px;
+            height: 28px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.1rem;
+            line-height: 1;
+            transition: all 0.2s;
+        }
+
+        .chat-close:hover {
+            background: rgba(0, 0, 0, 0.2);
+            transform: scale(1.1);
+        }
+
+        /* Mobile specific chat adjustment */
+        @media (max-width: 600px) {
+            .chat-container:not(.chat-minimized) {
+                width: 100% !important;
+                height: 100% !important;
+                bottom: 0 !important;
+                right: 0 !important;
+                border-radius: 0 !important;
+            }
+
+            .login-card {
+                padding: 20px;
+                margin: 20px;
+            }
+
+            h1 {
+                font-size: 1.8rem;
+            }
+        }
+
         .chat-messages {
             flex: 1;
             padding: 15px;
@@ -441,7 +487,10 @@
     <div id="voice-chat" class="chat-container chat-minimized" onclick="toggleChat()">
         <div class="chat-header">
             <span>✨ NOOR نور</span>
-            <span id="chat-status" style="font-size: 0.7rem; opacity: 0.7;">Online</span>
+            <div style="display: flex; align-items: center; gap: 10px;">
+                <span id="chat-status" style="font-size: 0.7rem; opacity: 0.7;">Online</span>
+                <div class="chat-close" onclick="minimizeChat(event)" title="Minimize">×</div>
+            </div>
         </div>
         <div class="chat-messages" id="chat-msgs">
             <div class="msg ai">I am Noor. How can I assist the mission today?</div>
