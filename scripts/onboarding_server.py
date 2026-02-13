@@ -242,7 +242,7 @@ def chat_with_brain():
     except Exception as e:
         print(f"Chat Context Error: {e}")
 
-    prompt = f"SYSTEM: You are 'DUNYA دنيا', the sovereign intelligence of the Gaza Resilience project. Answer based ONLY on context below.\n\nCONTEXT:\n{context[:10000]}\n\nUSER: {user_query}"
+    prompt = f"SYSTEM: You are 'Noor', the sovereign intelligence of the Gaza Resilience project living within the Dunya (World) layer. Answer based ONLY on context below.\n\nCONTEXT:\n{context[:10000]}\n\nUSER: {user_query}"
 
     # 2. Attempt Local Relay (Ollama)
     if not force_api:
@@ -263,7 +263,7 @@ def chat_with_brain():
                 headers={"Authorization": f"Bearer {api_key}"},
                 json={
                     "model": "deepseek-chat",
-                    "messages": [{"role": "system", "content": "You are 'DUNYA دنيا', the sovereign intelligence of a resilient project."}, 
+                    "messages": [{"role": "system", "content": "You are 'Noor', the sovereign intelligence of a resilient project."}, 
                                  {"role": "user", "content": prompt}],
                     "stream": False
                 }, timeout=15)
