@@ -1,0 +1,547 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dunya دنيا - Gaza Resilience</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Cairo:wght@400;700&display=swap"
+        rel="stylesheet">
+    <style>
+        :root {
+            --primary: #00ff88;
+            --secondary: #60efff;
+            --accent: #38bdf8;
+            --bg: #0f172a;
+            --surface: rgba(255, 255, 255, 0.05);
+            --border: rgba(255, 255, 255, 0.1);
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: radial-gradient(circle at top left, #1e293b, #0f172a);
+            color: #f1f5f9;
+            margin: 0;
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        header {
+            text-align: center;
+            margin-bottom: 60px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            margin-bottom: 10px;
+            background: linear-gradient(to right, var(--primary), var(--secondary));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+
+        .role-badge {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 700;
+            color: var(--primary);
+            display: inline-block;
+            margin-top: 10px;
+        }
+
+        .grid {
+            display: grid;
+            grid-template-columns: 300px 1fr;
+            gap: 30px;
+        }
+
+        .sidebar {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            padding: 20px;
+            height: fit-content;
+        }
+
+        .ki-list {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .ki-item {
+            padding: 12px 16px;
+            margin-bottom: 8px;
+            border-radius: 12px;
+            cursor: pointer;
+            transition: all 0.2s;
+            border: 1px solid transparent;
+        }
+
+        .ki-item:hover {
+            background: rgba(255, 255, 255, 0.05);
+        }
+
+        .ki-item.active {
+            background: rgba(0, 255, 136, 0.1);
+            border-color: var(--primary);
+            color: var(--primary);
+        }
+
+        .ki-item h3 {
+            margin: 0;
+            font-size: 0.95rem;
+        }
+
+        .ki-item p {
+            margin: 4px 0 0;
+            font-size: 0.75rem;
+            color: #94a3b8;
+            white-space: nowrap;
+            overflow: hidden;
+            text-overflow: ellipsis;
+        }
+
+        .content-area {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            padding: 40px;
+            min-height: 500px;
+        }
+
+        .artifact {
+            margin-bottom: 40px;
+        }
+
+        .artifact h2 {
+            font-size: 1.5rem;
+            border-bottom: 1px solid var(--border);
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+            color: var(--secondary);
+        }
+
+        .artifact-content {
+            white-space: pre-wrap;
+            font-family: 'Inter', sans-serif;
+            font-size: 1rem;
+            color: #cbd5e1;
+        }
+
+        code {
+            background: rgba(0, 0, 0, 0.3);
+            padding: 2px 6px;
+            border-radius: 4px;
+            color: var(--primary);
+            font-family: monospace;
+        }
+
+        .loading {
+            text-align: center;
+            padding: 40px;
+            color: #64748b;
+        }
+
+        #login-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: var(--bg);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+
+        .login-card {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            padding: 40px;
+            border-radius: 24px;
+            width: 100%;
+            max-width: 400px;
+            text-align: center;
+        }
+
+        input {
+            width: 100%;
+            padding: 12px;
+            background: rgba(0, 0, 0, 0.2);
+            border: 1px solid var(--border);
+            border-radius: 12px;
+            color: white;
+            margin: 20px 0;
+            box-sizing: border-box;
+        }
+
+        button {
+            background: var(--primary);
+            color: #0f172a;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 12px;
+            font-weight: 700;
+            cursor: pointer;
+            width: 100%;
+            transition: all 0.3s;
+        }
+
+        button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 0 20px rgba(0, 255, 136, 0.4);
+        }
+
+        /* --- THE VOICE CHAT UI --- */
+        .chat-container {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            width: 350px;
+            height: 450px;
+            background: #1e293b;
+            border: 1px solid var(--border);
+            border-radius: 20px;
+            display: flex;
+            flex-direction: column;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.5);
+            z-index: 900;
+            overflow: hidden;
+            transition: all 0.3s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+        }
+
+        .chat-header {
+            padding: 15px;
+            background: linear-gradient(to right, var(--primary), var(--accent));
+            color: #0f172a;
+            font-weight: 700;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .chat-messages {
+            flex: 1;
+            padding: 15px;
+            overflow-y: auto;
+            display: flex;
+            flex-direction: column;
+            gap: 10px;
+        }
+
+        .msg {
+            max-width: 80%;
+            padding: 10px 14px;
+            border-radius: 12px;
+            font-size: 0.9rem;
+        }
+
+        .msg.user {
+            align-self: flex-end;
+            background: var(--accent);
+            color: white;
+        }
+
+        .msg.ai {
+            align-self: flex-start;
+            background: rgba(255, 255, 255, 0.05);
+            color: #cbd5e1;
+            border: 1px solid var(--border);
+        }
+
+        .chat-input-area {
+            padding: 15px;
+            background: rgba(0, 0, 0, 0.2);
+            display: flex;
+            gap: 10px;
+        }
+
+        .chat-input {
+            flex: 1;
+            background: #0f172a;
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 8px 12px;
+            color: white;
+            font-size: 0.85rem;
+            margin: 0;
+        }
+
+        .chat-send-btn {
+            width: auto;
+            padding: 8px 15px;
+            font-size: 0.8rem;
+        }
+
+        .chat-minimized {
+            height: 50px;
+            width: 150px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="login-overlay">
+        <div class="login-card">
+            <div style="font-size: 3rem; margin-bottom: 20px;">🌍</div>
+            <h1 style="background: none; -webkit-text-fill-color: initial; color: white;">DUNYA دنيا</h1>
+            <p style="color: #94a3b8;">Enter the Sovereign Access Key to connect to the world's intelligence.</p>
+            <input type="password" id="pass" placeholder="Sovereign Access Key"
+                style="text-align: center; letter-spacing: 4px;">
+            <button onclick="doLogin()">Authenticate</button>
+        </div>
+    </div>
+
+    <div class="container">
+        <header>
+            <h1>DUNYA دنيا</h1>
+            <p>Sovereign Collective Intelligence Layer</p>
+            <div id="role-display" class="role-badge" style="display: none;">GUEST</div>
+        </header>
+
+        <div class="grid">
+            <aside class="sidebar">
+                <h2 style="font-size: 1rem; margin-top: 0;">Knowledge Items</h2>
+                <div id="ki-list" class="ki-list">
+                    <div class="loading">Discovering intelligence...</div>
+                </div>
+            </aside>
+
+            <main class="content-area" id="main-content">
+            </main>
+        </div>
+    </div>
+
+    <!-- Dunya AI Chat -->
+    <div id="voice-chat" class="chat-container chat-minimized" onclick="toggleChat()">
+        <div class="chat-header">
+            <span>🌍 DUNYA دنيا Chat</span>
+            <span id="chat-status" style="font-size: 0.7rem; opacity: 0.7;">Online</span>
+        </div>
+        <div class="chat-messages" id="chat-msgs">
+            <div class="msg ai">I am Dunya. How can I assist the mission today?</div>
+        </div>
+        <div class="chat-input-area" onclick="event.stopPropagation()">
+            <input type="text" id="chat-in" class="chat-input" placeholder="Ask the brain..."
+                onkeypress="if(event.key==='Enter') sendPrompt()">
+            <button class="chat-send-btn" onclick="sendPrompt()">Send</button>
+        </div>
+    </div>
+
+    <script>
+        let currentRole = "GUEST";
+
+        async function doLogin() {
+            const password = document.getElementById('pass').value;
+            try {
+                const res = await fetch('/login', {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ password })
+                });
+                if (res.ok) {
+                    document.getElementById('login-overlay').style.display = 'none';
+                    checkIdentity();
+                } else {
+                    alert("Unauthorized Access");
+                }
+            } catch (e) {
+                alert("Server connection error");
+            }
+        }
+
+        async function checkIdentity() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const token = urlParams.get('token');
+            const fetchUrl = token ? `/api/whoami?token=${token}` : '/api/whoami';
+
+            const res = await fetch(fetchUrl);
+            if (res.ok) {
+                const data = await res.json();
+                currentRole = data.role;
+                document.getElementById('role-display').textContent = `${data.role}: ${data.email || 'Cloudflare Verified'}`;
+                if (currentRole !== "GUEST") {
+                    document.getElementById('login-overlay').style.display = 'none';
+                    loadKIList();
+                }
+            }
+        }
+
+        async function loadKIList() {
+            const container = document.getElementById('ki-list');
+            try {
+                // Try Local Server First
+                const res = await fetch('/api/knowledge');
+                if (res.ok) {
+                    const list = await res.json();
+                    renderList(list, false);
+                    return;
+                }
+            } catch (e) {
+                console.log("Local server offline, falling back to archive.");
+            }
+
+            // Fallback to GitHub Static Archive
+            try {
+                const res = await fetch('ki_archive/index.json');
+                if (res.ok) {
+                    const list = await res.json();
+                    renderList(list, true);
+                    document.getElementById('chat-status').textContent = "Offline (Archive Mode)";
+                    document.getElementById('chat-status').style.color = "#ef4444";
+                } else {
+                    container.innerHTML = '<div class="loading">Brain is currently fully dark.</div>';
+                }
+            } catch (e) {
+                container.innerHTML = '<div class="loading">Connection to the collective lost.</div>';
+            }
+        }
+
+        function renderList(list, isOffline) {
+            const container = document.getElementById('ki-list');
+            container.innerHTML = '';
+            list.forEach(ki => {
+                const el = document.createElement('div');
+                el.className = 'ki-item';
+                el.innerHTML = `
+                    <h3>${ki.title} ${isOffline ? '📦' : ''}</h3>
+                    <p>${ki.summary}</p>
+                `;
+                el.onclick = () => loadKI(ki.id, el, isOffline);
+                container.appendChild(el);
+            });
+        }
+
+        async function loadKI(id, element, isOffline) {
+            document.querySelectorAll('.ki-item').forEach(i => i.classList.remove('active'));
+            element.classList.add('active');
+
+            const main = document.getElementById('main-content');
+            main.innerHTML = '<div class="loading">Retrieving distilled artifacts...</div>';
+
+            try {
+                const url = isOffline ? `ki_archive/${id}/` : `/api/knowledge/${id}/`;
+                // If offline, we can't easily list files, so we assume 'welcome.md' or 'ethos.md' for now
+                // This is a simplification; in a real sync we'd list files in the KI index.
+
+                const res = await fetch(isOffline ? `ki_archive/${id}/metadata.json` : `/api/knowledge/${id}`);
+                // Simplified for now: just load the known markdown files
+                const files = isOffline ? ['welcome.md', 'ethos.md', 'summary.md'] : null;
+
+                if (!isOffline) {
+                    const artifacts = await res.json();
+                    renderContent(artifacts);
+                } else {
+                    // Manual fetch for common artifacts when offline
+                    main.innerHTML = '';
+                    const candidates = ['welcome.md', 'ethos.md', 'summary.md', 'artifacts/welcome.md', 'artifacts/ethos.md'];
+                    for (const f of candidates) {
+                        try {
+                            const artRes = await fetch(`ki_archive/${id}/${f}`);
+                            if (artRes.ok) {
+                                const content = await artRes.text();
+                                appendArtifact(f.split('/').pop(), content);
+                            }
+                        } catch (e) { }
+                    }
+                }
+            } catch (e) {
+                main.innerHTML = '<div class="loading">Failed to load this specific item.</div>';
+            }
+        }
+
+        function renderContent(artifacts) {
+            const main = document.getElementById('main-content');
+            main.innerHTML = '';
+            artifacts.forEach(art => appendArtifact(art.name, art.content));
+        }
+
+        function appendArtifact(name, content) {
+            const main = document.getElementById('main-content');
+            const block = document.createElement('div');
+            block.className = 'artifact';
+            block.innerHTML = `
+                <h2>${name}</h2>
+                <div class="artifact-content">${content}</div>
+            `;
+            main.appendChild(block);
+        }
+
+        // Create "The Voice" logic
+        let isMinimized = true;
+
+        function toggleChat() {
+            const chat = document.getElementById('voice-chat');
+            if (isMinimized) {
+                chat.classList.remove('chat-minimized');
+                isMinimized = false;
+            }
+        }
+
+        function minimizeChat(e) {
+            e.stopPropagation();
+            const chat = document.getElementById('voice-chat');
+            chat.classList.add('chat-minimized');
+            isMinimized = true;
+        }
+
+        async function sendPrompt() {
+            const input = document.getElementById('chat-in');
+            const query = input.value.trim();
+            if (!query) return;
+
+            // Add user msg
+            addMsg(query, 'user');
+            input.value = '';
+
+            const status = document.getElementById('chat-status');
+            status.textContent = "Processing...";
+
+            try {
+                const urlParams = new URLSearchParams(window.location.search);
+                const token = urlParams.get('token');
+
+                const res = await fetch('/api/chat' + (token ? `?token=${token}` : ''), {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({ query })
+                });
+
+                if (res.ok) {
+                    const data = await res.json();
+                    addMsg(data.response, 'ai');
+                } else {
+                    addMsg("The intelligence relay is currently unavailable. Please ensure the local model is heartbeat-active.", 'ai');
+                }
+            } catch (e) {
+                addMsg("Connection error to the local brain.", 'ai');
+            }
+            status.textContent = "Online";
+        }
+
+        function addMsg(text, type) {
+            const container = document.getElementById('chat-msgs');
+            const div = document.createElement('div');
+            div.className = `msg ${type}`;
+            div.innerText = text;
+            container.appendChild(div);
+            container.scrollTop = container.scrollHeight;
+        }
+
+        // Initialize
+        checkIdentity();
+    </script>
+</body>
+
+</html>

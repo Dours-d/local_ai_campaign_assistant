@@ -1,6 +1,6 @@
-# Welcome to the Shared Brain 🧠
+# Welcome to Dunya دنيا 🌍
 
-Welcome to the **Global Gaza Resilience Fund Collective Intelligence Layer**. This is not just a documentation site; it is the distilled "memory" of our project's AI agent.
+Welcome to the **Dunya Sovereign Intelligence Layer**. This is not just a documentation site; it is the distilled "memory" of our project's AI agent.
 
 ### 🌟 The Concept: Sovereign Hybrid AI
 We believe in **Data Sovereignty**. 

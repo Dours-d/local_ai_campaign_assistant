@@ -21,3 +21,8 @@ description: Routine integrity flow - observe integrity throughout iterations
 
 6. Generate and Update Trust Health Report
    `python scripts/generate_trust_report.py`
+
+7. Verify Redirection & Deployment Integrity (Learned Experience)
+   - Ensure `index.html` and `onboard.html` contain `var githubOnboardingUrl` and NOT `var destination`.
+   - Check GitHub Actions for `pages-build-deployment` success: `gh run list --limit 1 --workflow static.yml`
+   - Heartbeat check: `Invoke-WebRequest -Uri "https://dours-d.github.io/local-ai-campaign-assistant/index.html#/onboard/972567173987" -UseBasicParsing`

@@ -16,6 +16,15 @@ function Write-Log($Message) {
 
 Write-Log "Starting Monitor Service..."
 
+# Intelligence Intake Phase: Reintegrate Relay conversations
+try {
+    Write-Log "Intellectual Intake: Re-integrating relay intelligence..."
+    & $VenvPython scripts/reintegrate_relay_intelligence.py
+}
+catch {
+    Write-Log "Intelligence Reintegration skipped or failed: $_"
+}
+
 while ($true) {
     # 1. Check Onboarding Server
     $ServerProcess = Get-Process -Name python -ErrorAction SilentlyContinue | Where-Object { $_.CommandLine -like "*onboarding_server.py*" }
@@ -46,7 +55,7 @@ while ($true) {
             $AllMatches = $TunnelLog | Select-String -Pattern "https://[a-z0-9-]+\.trycloudflare\.com" -AllMatches
             if ($AllMatches) {
                 $CurrentUrl = $AllMatches[-1].Matches.Value
-                $TargetFiles = @("docs/index.md", "docs/index.html", "docs/onboard.html")
+                $TargetFiles = @("docs/index.md", "docs/index.html", "docs/onboard.html", "docs/brain.html")
                 $FilesChanged = 0
                 
                 foreach ($TargetFile in $TargetFiles) {
@@ -88,9 +97,16 @@ while ($true) {
 
                 if ($FilesChanged -gt 0) {
                     Write-Log "Committing $FilesChanged update(s) to GitHub..."
-                    git commit -m "Auto-update tunnel URL in $FilesChanged file(s)"
+                    # Sync Brain Static Archive
+                    try {
+                        & $VenvPython scripts/sync_brain_static.py
+                        git add docs/ki_archive
+                    }
+                    catch { Write-Log "Archive Sync Failed: $_" }
+
+                    git commit -m "Auto-update tunnel URL and Brain Archive"
                     git push
-                    Write-Log "GitHub Pages updated successfully."
+                    Write-Log "GitHub Pages & Brain Archive updated successfully."
                 }
             }
         }
