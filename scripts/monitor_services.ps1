@@ -46,7 +46,7 @@ while ($true) {
             $AllMatches = $TunnelLog | Select-String -Pattern "https://[a-z0-9-]+\.trycloudflare\.com" -AllMatches
             if ($AllMatches) {
                 $CurrentUrl = $AllMatches[-1].Matches.Value
-                $TargetFiles = @("docs/index.md", "docs/index.html", "docs/onboard.html", "index.html", "onboard.html")
+                $TargetFiles = @("docs/index.md", "docs/index.html", "docs/onboard.html")
                 $FilesChanged = 0
                 
                 foreach ($TargetFile in $TargetFiles) {

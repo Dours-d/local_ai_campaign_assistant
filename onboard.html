@@ -4,9 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-    <meta http-equiv="Pragma" content="no-cache">
-    <meta http-equiv="Expires" content="0">
     <title>Redirecting to Gaza Resilience Portal...</title>
     <style>
         body {
@@ -37,40 +34,35 @@
 
 <body>
     <div class="box">
-        <p id="updated" style="font-size:0.8em; color:#64748b;">Last Updated: 2026-02-12 23:19:07 UTC</p>
-        <p id="msg">Connecting to secure portal...</p>
+        <p id="msg">Connecting to Sovereign Portal...</p>
         <p><a id="link" href="#">Click here if not redirected automatically</a></p>
     </div>
     <script>
-        // EMERGENCY FIX: Redirect to actual onboarding form on GitHub Pages
-        // Handles both old format (#/onboard/ID) and new format (#ID)
+        // Use relative path for GitHub Pages consistency
+        var githubOnboardingUrl = "onboarding/";
 
+        // Handle hash routing for deep links
         var hash = window.location.hash;
         var beneficiaryId = "";
 
         if (hash && hash.length > 1) {
-            var cleanHash = hash.substring(1); // Remove #
+            var cleanHash = hash.substring(1);
 
-            // Parse old format: #/onboard/972567173987
+            // Check for /onboard/ ID format
             if (cleanHash.startsWith("/onboard/")) {
                 beneficiaryId = cleanHash.replace("/onboard/", "");
             } else if (cleanHash.startsWith("onboard/")) {
                 beneficiaryId = cleanHash.replace("onboard/", "");
             } else {
-                // Direct ID
                 beneficiaryId = cleanHash;
             }
         }
 
-        // Redirect to actual onboarding form
-        var finalUrl = "/local-ai-campaign-assistant/onboarding";
-        if (beneficiaryId) {
-            finalUrl += "/" + beneficiaryId;
-        }
+        var finalUrl = githubOnboardingUrl + (beneficiaryId ? "#" + beneficiaryId : "");
 
         document.getElementById("link").href = finalUrl;
         document.getElementById("msg").innerText = "Redirecting to Onboarding Form...";
-        window.location.replace(finalUrl);
+        setTimeout(() => { window.location.replace(finalUrl); }, 500);
     </script>
 </body>
 

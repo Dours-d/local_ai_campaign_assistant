@@ -382,7 +382,17 @@
             setLanguage('ar');
 
             const pathParts = window.location.pathname.split('/');
-            const beneficiaryId = pathParts[pathParts.length - 1];
+            let beneficiaryId = pathParts[pathParts.length - 1];
+
+            // Hash fallback for legacy links and relative routing
+            const hash = window.location.hash;
+            if ((!beneficiaryId || beneficiaryId === 'onboard' || beneficiaryId === 'index.html' || beneficiaryId === '') && hash && hash.length > 1) {
+                beneficiaryId = hash.substring(1);
+                // Handle cases like #/onboard/ID or #onboard/ID
+                if (beneficiaryId.startsWith('/onboard/')) beneficiaryId = beneficiaryId.replace('/onboard/', '');
+                if (beneficiaryId.startsWith('onboard/')) beneficiaryId = beneficiaryId.replace('onboard/', '');
+                if (beneficiaryId.startsWith('/')) beneficiaryId = beneficiaryId.substring(1);
+            }
 
             if (!beneficiaryId || beneficiaryId === 'onboard' || beneficiaryId === 'index.html' || beneficiaryId === '') {
                 document.getElementById('whatsapp_group').style.display = 'block';

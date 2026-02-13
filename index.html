@@ -4,9 +4,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate">
-    <meta http-equiv="Pragma" content="no-cache">
-    <meta http-equiv="Expires" content="0">
     <title>Redirecting to Gaza Resilience Portal...</title>
     <style>
         body {
@@ -37,53 +34,36 @@
 
 <body>
     <div class="box">
-        <p id="updated" style="font-size:0.8em; color:#64748b;">Last Updated: 2026-02-12 23:19:07 UTC</p>
-        <p id="msg">Connecting to secure portal...</p>
+        <p id="msg">Connecting to Sovereign Portal...</p>
         <p><a id="link" href="#">Click here if not redirected automatically</a></p>
     </div>
     <script>
-        // GitHub Pages base URL
-        var githubBase = "https://dours-d.github.io/local-ai_campaign_assistant";
+        // Use relative path for GitHub Pages consistency
+        var githubOnboardingUrl = "onboarding/";
 
         // Handle hash routing for deep links
         var hash = window.location.hash;
         var beneficiaryId = "";
 
-        // Parse old format: #/onboard/972567173987
-        // Or new format: #972567173987
         if (hash && hash.length > 1) {
-            var cleanHash = hash.substring(1); // Remove leading #
+            var cleanHash = hash.substring(1);
 
-            // Check if it's old format with /onboard/
+            // Check for /onboard/ ID format
             if (cleanHash.startsWith("/onboard/")) {
                 beneficiaryId = cleanHash.replace("/onboard/", "");
             } else if (cleanHash.startsWith("onboard/")) {
                 beneficiaryId = cleanHash.replace("onboard/", "");
             } else {
-                // Direct ID format
                 beneficiaryId = cleanHash;
             }
         }
 
-        // Build final GitHub Pages URL
-        var finalUrl;
-        if (beneficiaryId) {
-            finalUrl = githubBase + "/onboard.html#" + beneficiaryId;
-        } else {
-            finalUrl = githubBase + "/onboard.html";
-        }
+        var finalUrl = githubOnboardingUrl + (beneficiaryId ? "#" + beneficiaryId : "");
 
         document.getElementById("link").href = finalUrl;
-        document.getElementById("msg").innerText = "Redirecting to Sovereign Portal...";
-        setTimeout(() => { window.location.replace(finalUrl); }, 1000);
+        document.getElementById("msg").innerText = "Redirecting to Onboarding Form...";
+        setTimeout(() => { window.location.replace(finalUrl); }, 500);
     </script>
 </body>
 
 </html>
-
-
-
-
-
-
-
