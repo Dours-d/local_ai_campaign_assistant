@@ -44,18 +44,31 @@ while ($true) {
     $TunnelProcess = Get-Process -Name cloudflared -ErrorAction SilentlyContinue
     if (-not $TunnelProcess) {
         Write-Log "Stable Tunnel (Cloudflare) NOT found. Restarting..."
-        Start-Process pwsh -ArgumentList "-File", "$WorkDir\scripts/start_stable_tunnel.ps1" -WorkingDirectory $WorkDir -WindowStyle Hidden
+        Start-Process pwsh -ArgumentList "-File", "$WorkDir\scripts\start_stable_tunnel.ps1" -WorkingDirectory $WorkDir -WindowStyle Hidden
         Start-Sleep -Seconds 10 # Wait for tunnel to initialize
+    }
+
+    # 3. HTTP Health Check (502 Prevention)
+    try {
+        $Response = Invoke-WebRequest -Uri "http://127.0.0.1:5000/onboard" -Method Head -TimeoutSec 5 -ErrorAction Stop
+        if ($Response.StatusCode -ne 200) {
+            throw "Non-200 Response"
+        }
+    }
+    catch {
+        Write-Log "Health Check FAILED: Server is unresponsive or returning 502. Restarting..."
+        Stop-Process -Name "python" -Force -ErrorAction SilentlyContinue 
+        # Note: We stop ALL python processes to be safe, monitor will restart them in next loop iteration
     }
 
     # 3. Update GitHub Pages Redirect (Dynamic Redirection)
     try {
         if (Test-Path "data/tunnel.log") {
-            $TunnelLog = Get-Content "data/tunnel.log" -Tail 200
+            $TunnelLog = Get-Content "data/tunnel.log" -Tail 1000
             $AllMatches = $TunnelLog | Select-String -Pattern "https://[a-z0-9-]+\.trycloudflare\.com" -AllMatches
             if ($AllMatches) {
                 $CurrentUrl = $AllMatches[-1].Matches.Value
-                $TargetFiles = @("index.md", "index.html", "onboard.html", "brain.html")
+                $TargetFiles = @("index.md", "index.html", "onboard.html", "brain.html", "docs/public_brain.html")
                 $FilesChanged = 0
                 
                 foreach ($TargetFile in $TargetFiles) {
@@ -65,10 +78,10 @@ while ($true) {
                         $ContentChanged = $false
 
                         # Update URL
-                        if ($Content -match '(var|const) destination = "([^"]+)";') {
-                            $StoredUrl = $Matches[2]
+                        if ($Content -match '(var|const) (destination|targetUrl) = "([^"]+)";') {
+                            $StoredUrl = $Matches[3]
                             if ($StoredUrl -ne $CurrentUrl) {
-                                $NewContent = $NewContent -replace '(var|const) destination = "[^"]+";', "$($Matches[1]) destination = `"$CurrentUrl`";"
+                                $NewContent = $NewContent -replace '(var|const) (destination|targetUrl) = "[^"]+";', "$($Matches[1]) $($Matches[2]) = `"$CurrentUrl`";"
                                 $ContentChanged = $true
                                 Write-Log "Tunnel URL changed to $CurrentUrl in $TargetFile"
                             }
