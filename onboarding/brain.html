@@ -320,8 +320,17 @@
 
         /* --- MOBILE RESPONSIVENESS --- */
         @media (max-width: 768px) {
+
+            html,
+            body {
+                overflow-x: hidden;
+                width: 100vw;
+            }
+
             .container {
                 padding: 20px 15px;
+                overflow-x: hidden;
+                /* Ensure container clips */
             }
 
             h1 {
@@ -342,6 +351,19 @@
 
             .sidebar {
                 margin-bottom: 20px;
+            }
+
+            .login-card {
+                padding: 20px;
+                /* Reduce padding to prevent overflow */
+                width: 90%;
+                /* Safety margin */
+                margin: 0 auto;
+            }
+
+            .ki-item p {
+                white-space: normal;
+                /* Allow text wrapping on mobile */
             }
         }
 
@@ -587,6 +609,9 @@
             <main class="content-area" id="main-content">
             </main>
         </div>
+        <footer style="text-align: center; margin-top: 40px; color: var(--border); font-size: 0.8rem;">
+            Dunya System v1.1
+        </footer>
     </div>
 
     <!-- Dunya AI Chat -->
