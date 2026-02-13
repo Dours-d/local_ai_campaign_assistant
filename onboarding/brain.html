@@ -23,8 +23,16 @@
             --text-dim: #faedcd;
         }
 
+        *,
+        *::before,
+        *::after {
+            box-sizing: border-box;
+        }
+
         body {
             font-family: 'Inter', 'Cairo', sans-serif;
+            overflow-wrap: break-word;
+            /* Prevent text overflow */
             background: #1a1612;
             background-image:
                 radial-gradient(circle at 80% 20%, rgba(212, 163, 115, 0.15) 0%, transparent 40%),
@@ -177,6 +185,8 @@
             font-family: 'Inter', sans-serif;
             font-size: 1rem;
             color: #cbd5e1;
+            word-break: break-word;
+            /* Ensure long words don't overflow */
         }
 
         code {
